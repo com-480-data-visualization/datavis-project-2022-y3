@@ -232,12 +232,15 @@ img {
 .home {
   position: relative;
   overflow: hidden;
+  background-image: url("../img/football_court.png");
+  background-size: 100%;
 }
 
 .home__container {
   position: relative;
   padding-top: 4rem;
   row-gap: 3rem;
+  /*background-image: url("../img/football_court.png");*/
 }
 
 .home__data {
@@ -247,11 +250,13 @@ img {
 .home__title {
   font-size: var(--h1-font-size);
   margin-bottom: 1rem;
+  color: darkgreen;
 }
 
 .home__subtitle {
   font-size: var(--h3-font-size);
   margin-bottom: .25rem;
+  color: darkgreen;
 }
 
 .home__elec {
