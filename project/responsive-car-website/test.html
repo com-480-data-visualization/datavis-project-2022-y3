@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <!--=============== FAVICON ===============-->
-<!--  <link rel="shortcut icon" href="assets/img/Y3-logo.png" type="image/x-icon">-->
+  <link rel="shortcut icon" href="assets/img/Y3-logo.png" type="image/x-icon">
 
   <!--=============== REMIX ICONS ===============-->
 <!--  <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">-->
@@ -17,6 +17,9 @@
   <link rel="stylesheet" href="assets/css/styles.css">
 
   <title>Responsive car website - Bedimcode</title>
+  <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js">
+  </script>
 </head>
 <body>
 <!--==================== HEADER ====================-->
@@ -172,6 +175,22 @@
       </div>
     </div>
   </section>
+
+  <!--==================== Formation ====================-->
+  <section class="formation section">
+    <script src="assets/js/js-change-formation.js"></script>
+    <div class="formation__container container grid">
+      <div class=""select__formation>
+        <select name="formation" class="js-change-formation">
+          <option value="442">442</option>
+          <option value="352">352</option>
+          <option value="541">541</option>
+        </select>
+      </div>
+    </div>
+
+  </section>
+
   <!--==================== ABOUT ====================-->
   <section class="about section" id="about">
     <div class="about__container container grid">
@@ -639,5 +658,7 @@
 
 <!--=============== MAIN JS ===============-->
 <script src="assets/js/main.js"></script>
+
+
 </body>
 </html>
