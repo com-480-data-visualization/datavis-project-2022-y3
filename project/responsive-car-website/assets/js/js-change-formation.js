@@ -1,5 +1,7 @@
+//Domaine the data range
 var scale = d3.scale.linear().domain([0, 100]).range([0, 500]);
 
+//football pitch
 var pitch = {
     width: 80,
     length: 100,
@@ -18,8 +20,9 @@ var pitch = {
     grassColor: "#7d8c39"
 };
 
+//add pitch in index.html
 var svg = d3
-    .select("body")
+    .select(".formation")
     .append("svg")
     .attr("width", scale(pitch.width + pitch.padding.left + pitch.padding.right))
     .attr(
@@ -265,6 +268,7 @@ playersContainer
     .attr("fill", "yellow");
 
 function updateFormation(formation) {
+    // alert(1111)
     playersContainer
         .selectAll("circle")
         .data(playerPositions[formation])
@@ -279,6 +283,9 @@ function updateFormation(formation) {
         .attr("fill", "yellow");
 }
 
-$(".js-change-formation").change(function () {
-    updateFormation($(this).val());
+$(document).ready(function() {
+    $(".js-change-formation").change(function () {
+        updateFormation($(this).val());
+        // alert(11111)
+    });
 });
