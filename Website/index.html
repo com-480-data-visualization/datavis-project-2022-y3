@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!--=============== FAVICON ===============-->
+  <link rel="shortcut icon" href="assets/img/Y3-logo.png" type="image/x-icon">
+
+  <!--=============== REMIX ICONS ===============-->
+<!--  <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">-->
+
+  <!--=============== SWIPER CSS ===============-->
+  <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
+
+  <!--=============== CSS ===============-->
+  <link rel="stylesheet" href="assets/css/styles.css">
+
+  <title>Y3 FIFA Visualisation</title>
+  <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js">
+  </script>
+</head>
+<body>
+<!--==================== HEADER ====================-->
+<header class="header" id="header">
+  <nav class="nav container">
+    <a href="#" class="nav__logo">
+      Y3
+    </a>
+
+    <div class="nav__menu" id="nav-menu">
+      <ul class="nav__list">
+        <li class="nav__item">
+          <a href="#home" class="nav__link active-link">Statistics</a>
+        </li>
+
+        <li class="nav__item">
+          <a href="#about" class="nav__link">Story Telling</a>
+        </li>
+
+        <li class="nav__item">
+          <a href="#popular" class="nav__link">Process Book</a>
+        </li>
+
+        <li class="nav__item">
+          <a href="#featured" class="nav__link">About Us</a>
+        </li>
+      </ul>
+
+      <div class="nav__close" id="nav-close">
+        <i class="ri-close-line"></i>
+      </div>
+    </div>
+
+    <!-- Toggle button -->
+    <div class="nav__toggle" id="nav-toggle">
+      <i class="ri-menu-line"></i>
+    </div>
+  </nav>
+</header>
+
+<!--==================== MAIN ====================-->
+<main class="main">
+  <!--==================== HOME ====================-->
+  <section class="home section" id="home">
+
+    <div class="home__container container grid">
+      <div class="home__data">
+        <h1 class="home__title">
+          Choose Your Team
+        </h1>
+
+        <h2 class="home__subtitle">
+          Among 30 national teams
+        </h2>
+      </div>
+
+    </div>
+  </section>
+
+  <!--==================== NATIONAL FLAG ====================-->
+  <section class="logos section">
+    <div class="logos__container container grid">
+      <div class="logos__content">
+        <a href="#formation"><img src="assets/img/team_logs/Argentina.svg" alt="" class="logos__img" > </a>
+      </div>
+      <div class="logos__content">
+        <a href="#formation"><img src="assets/img/team_logs/Belgium.svg" alt="" class="logos__img" > </a>
+      </div>
+      <div class="logos__content">
+        <a href="#formation"><img src="assets/img/team_logs/Brazil.svg" alt="" class="logos__img" > </a>
+      </div>
+      <div class="logos__content">
+        <a href="#formation"><img src="assets/img/team_logs/Chile.svg" alt="" class="logos__img" > </a>
+      </div>
+      <div class="logos__content">
+        <a href="#formation"><img src="assets/img/team_logs/Colombia.svg" alt="" class="logos__img" > </a>
+      </div>
+      <div class="logos__content">
+        <a href="#formation"><img src="assets/img/team_logs/Croatia.svg" alt="" class="logos__img" > </a>
+      </div>
+      <div class="logos__content">
+        <a href="#formation"><img src="assets/img/team_logs/Denmark.svg" alt="" class="logos__img" > </a>
+      </div>
+      <div class="logos__content">
+        <a href="#formation"><img src="assets/img/team_logs/France.svg" alt="" class="logos__img" > </a>
+      </div>
+      <div class="logos__content">
+        <a href="#formation"><img src="assets/img/team_logs/Germany.svg" alt="" class="logos__img" > </a>
+      </div>
+      <div class="logos__content">
+        <a href="#formation"><img src="assets/img/team_logs/Iceland.svg" alt="" class="logos__img" > </a>
+      </div>
+      <div class="logos__content">
+        <a href="#formation"><img src="assets/img/team_logs/Italy.svg" alt="" class="logos__img" > </a>
+      </div>
+      <div class="logos__content">
+        <a href="#formation"><img src="assets/img/team_logs/Japan.svg" alt="" class="logos__img" > </a>
+      </div>
+      <div class="logos__content">
+        <a href="#formation"><img src="assets/img/team_logs/Mexico.svg" alt="" class="logos__img" > </a>
+      </div>
+      <div class="logos__content">
+        <a href="#formation"><img src="assets/img/team_logs/Monaco.svg" alt="" class="logos__img" > </a>
+      </div>
+      <div class="logos__content">
+        <a href="#formation"><img src="assets/img/team_logs/Netherlands.svg" alt="" class="logos__img" > </a>
+      </div>
+      <div class="logos__content">
+        <a href="#formation"><img src="assets/img/team_logs/Nigeria.svg" alt="" class="logos__img" > </a>
+      </div>
+      <div class="logos__content">
+        <a href="#formation"><img src="assets/img/team_logs/Poland.svg" alt="" class="logos__img" > </a>
+      </div>
+      <div class="logos__content">
+        <a href="#formation"><img src="assets/img/team_logs/Portugal.svg" alt="" class="logos__img" > </a>
+      </div>
+      <div class="logos__content">
+        <a href="#formation"><img src="assets/img/team_logs/Saudi%20Arabia.svg" alt="" class="logos__img" > </a>
+      </div>
+      <div class="logos__content">
+        <a href="#formation"><img src="assets/img/team_logs/Senegal.svg" alt="" class="logos__img" > </a>
+      </div>
+      <div class="logos__content">
+        <a href="#formation"><img src="assets/img/team_logs/Serbia.svg" alt="" class="logos__img" > </a>
+      </div>
+      <div class="logos__content">
+        <a href="#formation"><img src="assets/img/team_logs/South%20Korea.svg" alt="" class="logos__img" > </a>
+      </div>
+      <div class="logos__content">
+        <a href="#formation"><img src="assets/img/team_logs/Spain.svg" alt="" class="logos__img" > </a>
+      </div>
+      <div class="logos__content">
+        <a href="#formation"><img src="assets/img/team_logs/Sweden.svg" alt="" class="logos__img" > </a>
+      </div>
+      <div class="logos__content">
+        <a href="#formation"><img src="assets/img/team_logs/Switzerland.svg" alt="" class="logos__img" > </a>
+      </div>
+      <div class="logos__content">
+        <a href="#formation"><img src="assets/img/team_logs/Turkey.svg" alt="" class="logos__img" > </a>
+      </div>
+      <div class="logos__content">
+        <a href="#formation"><img src="assets/img/team_logs/United%20Kingdom.svg" alt="" class="logos__img" > </a>
+      </div>
+      <div class="logos__content">
+        <a href="#formation"><img src="assets/img/team_logs/United%20States.svg" alt="" class="logos__img" > </a>
+      </div>
+      <div class="logos__content">
+        <a href="#formation"><img src="assets/img/team_logs/Uruguay.svg" alt="" class="logos__img" > </a>
+      </div>
+      <div class="logos__content">
+        <a href="#formation"><img src="assets/img/team_logs/China.svg" alt="" class="logos__img" > </a>
+      </div>
+    </div>
+  </section>
+
+  <!--==================== Formation ====================-->
+<!--  <section class="formation section">-->
+<!--&lt;!&ndash;    <script src="assets/js/formation.js"></script>&ndash;&gt;-->
+<!--    <div class="formation__container container grid" id="formation">-->
+<!--      <div class="formation__pitch">-->
+<!--        <label>-->
+<!--          <select name="formation" class="formation__selector">-->
+<!--            <optgroup label="Formation">-->
+<!--              <option value="442">442</option>-->
+<!--              <option value="352">352</option>-->
+<!--              <option value="541" selected="selected">541</option>-->
+<!--            </optgroup>-->
+<!--          </select>-->
+<!--        </label>-->
+<!--      </div>-->
+<!--    </div>-->
+
+<!--  </section>-->
+
+  <!--==================== ABOUT ====================-->
+  <section class="about section" id="about">
+    <div class="about__container container grid">
+      <div class="about__group">
+        <img src="assets/img/about.png" alt="" class="about__img">
+
+        <div class="about__card">
+          <h3 class="about__card-title">2.500+</h3>
+          <p class="about__card-description">
+            Supercharges placed along popular routes
+          </p>
+        </div>
+      </div>
+
+      <div class="about__data">
+        <h2 class="section__title about__title">
+          Machines With <br> Future Technology
+        </h2>
+
+        <p class="about__description">
+          See the future with high-performance electric cars produced by
+          renowned brands. They feature futuristic builds and designs with
+          new and innovative platforms that last a long time.
+        </p>
+
+        <a href="#" class="button">Know more</a>
+      </div>
+    </div>
+  </section>
+
+
+
+<!--==================== Formation ====================-->
+  <section class="formation section">
+<!--    <script src="assets/js/formation.js"></script>-->
+    <div class="formation__container container grid" id="formation">
+      <div class="formation__pitch">
+        <label>
+          <select name="formation" class="formation__selector">
+            <optgroup label="Formation">
+              <option value="442">442</option>
+              <option value="352">352</option>
+              <option value="541" selected="selected">541</option>
+            </optgroup>
+          </select>
+        </label>
+      </div>
+    </div>
+
+  </section>
+
+
+</main>
+
+<!--==================== FOOTER ====================-->
+<footer class="footer section">
+
+  <div class="footer__container container grid">
+    <div class="footer__content">
+      <a href="#" class="footer__logo">
+        <i class="ri-steering-line"></i> Elecar
+      </a>
+      <p class="footer__description">
+        We offer the best electric cars of <br>
+        the most recognized brands in <br>
+        the world.
+      </p>
+    </div>
+
+    <div class="footer__content">
+      <h3 class="footer__title">
+        Company
+      </h3>
+
+      <ul class="footer__links">
+        <li>
+          <a href="#" class="footer__link">About</a>
+        </li>
+        <li>
+          <a href="#" class="footer__link">Cars</a>
+        </li>
+        <li>
+          <a href="#" class="footer__link">History</a>
+        </li>
+        <li>
+          <a href="#" class="footer__link">Shop</a>
+        </li>
+      </ul>
+    </div>
+
+  </div>
+
+  <span class="footer__copy">
+                &#169; Y3
+            </span>
+</footer>
+
+
+<!--========== SCROLL UP ==========-->
+<a href="#" class="scrollup" id="scroll-up">
+  <i class="ri-arrow-up-line"></i>
+</a>
+
+<!--=============== SCROLL REVEAL ===============-->
+<script src="assets/js/scrollreveal.min.js"></script>
+
+<!--=============== SWIPER JS ===============-->
+<script src="assets/js/swiper-bundle.min.js"></script>
+
+<!--=============== MIXITUP JS ===============-->
+<script src="assets/js/mixitup.min.js"></script>
+
+<!--=============== MAIN JS ===============-->
+<script src="assets/js/main.js"></script>
+
+<!--=============== FORMATION JS ===============-->
+<script src="assets/js/formation.js"></script>
+
+
+</body>
+</html>

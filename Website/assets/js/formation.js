@@ -22,7 +22,7 @@ var pitch = {
 
 //add pitch in index.html
 var svg = d3
-    .select(".formation")
+    .select(".formation__pitch")
     .append("svg")
     .attr("width", scale(pitch.width + pitch.padding.left + pitch.padding.right))
     .attr(
@@ -284,7 +284,7 @@ function updateFormation(formation) {
 }
 
 $(document).ready(function() {
-    $(".js-change-formation").change(function () {
+    $(".formation__selector").change(function () {
         updateFormation($(this).val());
         // alert(11111)
     });

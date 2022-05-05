@@ -31,43 +31,7 @@
             color: var(--first-color);
         }
     }
-    &__img{
-        width: 280px;
-        justify-self: center;
-    }
-    &__car{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        column-gap: 4rem;
-        margin-bottom: 2rem;
 
-        &-name{
-            font-size: .625rem;
-            font-weight: 400;
-            color: var(--text-color-light);
-        }
-        &-data{
-            text-align: center;
-        }
-        &-number{
-            font-size: var(--h2-font-size);
-            font-weight: var(--font-medium);
-            margin-bottom: .25rem;
-        }
-        
-        &-icon{
-            background-color: var(--container-color);
-            border-radius: 50%;
-            padding: .376rem;
-            display: inline-flex;
-            justify-content: center;
-            align-items: center;
-            font-size: .875rem;
-            margin-bottom: .75rem;
-        }
-        
-    }
     &__button{
         position: relative;
         border: 2px solid hsl(158, 89%, 30%);

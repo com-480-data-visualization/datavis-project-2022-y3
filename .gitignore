@@ -82,11 +82,11 @@ celerybeat-schedule
 # SageMath parsed files
 *.sage.py
 
-# Spyder project settings
+# Spyder Website settings
 .spyderproject
 .spyproject
 
-# Rope project settings
+# Rope Website settings
 .ropeproject
 
 # Mr Developer

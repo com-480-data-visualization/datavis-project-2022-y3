@@ -58,25 +58,6 @@ let swiperPopular = new Swiper('.popular__container', {
       },
 });
 
-/*=============== MIXITUP FILTER FEATURED ===============*/
-let mixerFeatured = mixitup('.featured__content', {
-    selectors: {
-        target: '.featured__card'
-    },
-    animation: {
-        duration: 300
-    }
-});
-
-/* Link active featured */ 
-const linkFeatured = document.querySelectorAll('.featured__item')
-
-function activeFeatured(){
-    linkFeatured.forEach(l=> l.classList.remove('active-featured'))
-    this.classList.add('active-featured')
-}
-linkFeatured.forEach(l=> l.addEventListener('click', activeFeatured))
-
 /*=============== SHOW SCROLL UP ===============*/ 
 function scrollUp(){
     const scrollUp = document.getElementById('scroll-up');
@@ -114,14 +95,13 @@ const sr = ScrollReveal({
     // reset: true
   })
   
-  sr.reveal(`.home__title, .popular__container, .features__img, .featured__filters`)
+  sr.reveal(`.home__title`)
   sr.reveal(`.home__subtitle`,{delay: 500})
   sr.reveal(`.home__elec`, {delay: 600})
-  sr.reveal(`.home__img`, {delay: 800})
-  sr.reveal(`.home__car-data`, {delay: 900, interval: 100, origin: 'bottom'})
-  sr.reveal(`.home__button`, {delay: 1000, origin: 'bottom'})
+
+
+  sr.reveal(`.logos__content`, {interval: 100})
+  sr.reveal(`.formation__pitch`, {origin: 'left'})
+
   sr.reveal(`.about__group, .offer__data`,{origin: 'left'})
   sr.reveal(`.about__data, .offer__img`,{origin: 'right'})
-  sr.reveal(`.features__map`,{delay: 600, origin: 'bottom'})
-  sr.reveal(`.features__card`,{interval: 300})
-  sr.reveal(`.featured__card, .logos__content, .footer__content`,{interval: 100})
