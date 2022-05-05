@@ -22,7 +22,7 @@ var pitch = {
 
 //add pitch in index.html
 var svg = d3
-    .select(".formation__pitch")
+    .select(".formation__container")
     .append("svg")
     .attr("width", scale(pitch.width + pitch.padding.left + pitch.padding.right))
     .attr(
@@ -32,11 +32,11 @@ var svg = d3
     .attr(
         "style",
         "background:" +
-        pitch.grassColor +
-        ";margin-left:-" +
-        0.5 * scale(pitch.width + pitch.padding.left + pitch.padding.right) +
-        "px;margin-top:-" +
-        0.5 * scale(pitch.length + pitch.padding.top + pitch.padding.bottom)
+        pitch.grassColor
+        // ";margin-left:-" +
+        // 0.1 * scale(pitch.width + pitch.padding.left + pitch.padding.right) +
+        // "px;margin-top:-" +
+        // 0.1 * scale(pitch.length + pitch.padding.top + pitch.padding.bottom)
     );
 
 var pitchElement = svg
@@ -284,7 +284,7 @@ function updateFormation(formation) {
 }
 
 $(document).ready(function() {
-    $(".formation__selector").change(function () {
+    $(".formation__pitch-selector").change(function () {
         updateFormation($(this).val());
         // alert(11111)
     });

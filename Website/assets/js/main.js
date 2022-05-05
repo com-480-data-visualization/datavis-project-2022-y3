@@ -37,8 +37,8 @@ function scrollHeader(){
 }
 window.addEventListener('scroll', scrollHeader)
 
-/*=============== POPULAR SWIPER ===============*/
-let swiperPopular = new Swiper('.popular__container', {
+/*=============== Player SWIPER ===============*/
+let swiperPlayer = new Swiper('.player__container', {
     loop: true,
     spaceBetween: 24,
     slidesPerView: "auto",
@@ -97,11 +97,11 @@ const sr = ScrollReveal({
   
   sr.reveal(`.home__title`)
   sr.reveal(`.home__subtitle`,{delay: 500})
-  sr.reveal(`.home__elec`, {delay: 600})
 
 
   sr.reveal(`.logos__content`, {interval: 100})
-  sr.reveal(`.formation__pitch`, {origin: 'left'})
+  sr.reveal(`.formation__container`, {origin: 'left'})
+  sr.reveal('.player', {delay: 500})
 
   sr.reveal(`.about__group, .offer__data`,{origin: 'left'})
   sr.reveal(`.about__data, .offer__img`,{origin: 'right'})
