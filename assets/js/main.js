@@ -66,25 +66,6 @@ function scrollUp(){
   }
   window.addEventListener('scroll', scrollUp)
 
-/*=============== SCROLL SECTIONS ACTIVE LINK ===============*/
-const sections = document.querySelectorAll('section[id]')
-
-function scrollActive(){
-    const scrollY = window.pageYOffset
-    
-    sections.forEach(current =>{
-        const sectionHeight = current.offsetHeight,
-        sectionTop = current.offsetTop - 58,
-        sectionId = current.getAttribute('id')
-        
-        if(scrollY > sectionTop && scrollY <= sectionTop + sectionHeight){
-            document.querySelector('.nav__menu a[href*=' + sectionId + ']').classList.add('active-link')
-        }else{
-            document.querySelector('.nav__menu a[href*=' + sectionId + ']').classList.remove('active-link')
-        }
-    })
-}
-window.addEventListener('scroll', scrollActive)
 
 /*=============== SCROLL REVEAL ANIMATION ===============*/
 const sr = ScrollReveal({
@@ -101,6 +82,7 @@ const sr = ScrollReveal({
 
   sr.reveal(`.logos__content`, {interval: 100})
   sr.reveal(`.formation__container`, {origin: 'left'})
+  sr.reveal(`.capability__container`, {origin: 'right'})
   sr.reveal('.player', {delay: 500})
 
   sr.reveal(`.about__group, .offer__data`,{origin: 'left'})
