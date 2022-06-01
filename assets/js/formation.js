@@ -1,5 +1,5 @@
 //Domaine the data range
-var scale = d3.scale.linear().domain([0, 100]).range([0, 500]);
+var scale = d3.scaleLinear().domain([0, 100]).range([0, 500]);
 
 //football pitch
 var pitch = {
