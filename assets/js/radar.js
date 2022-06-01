@@ -17,6 +17,7 @@ function getColor(idx) {
     return palette[idx % palette.length];
 }
 
+
 class RadarPlot {
     constructor() {
         const playerStats = {
@@ -110,33 +111,6 @@ class RadarPlot {
             .style("stroke", "grey")
             .style('stroke-dasharray', '10 6')
 
-
-        // Calculate coordinates of radar chart
-        const areasData = [];
-        const values = playerStats.values;
-
-        for(let i=0; i<values.length; i++) {
-            let value = values[i],
-                area = '',
-                points = [];
-
-            for(let k=0; k< radar.total; k++) {
-                let r = radar.radius * (value[k] - radar.rangeMin)/(radar.rangeMax - radar.rangeMin);
-                let x = r * Math.sin(k * onePiece),
-                    y = r * Math.cos(k * onePiece);
-                area += x + ',' + y + ' ';
-                points.push({
-                    x: x,
-                    y: y
-                })
-            }
-
-            areasData.push({
-                polygon: area,
-                points: points
-            });
-        }
-
         // Add Text FieldName
         const textPoints = []
         const textRadius = radar.radius + 20
@@ -173,92 +147,147 @@ class RadarPlot {
 
         // Add text indicate %
         for (let i = 0; i < radar.level; i++) {
-            let levelFactor = radar.factor * radar.radius * ((i+1)/radar.level)
+            let levelFactor = radar.factor * radar.radius * ((i + 1) / radar.level)
             let Format = d3.format('.0%');
 
             this.svg.selectAll(".levels")
                 .data([1]) // Dummy data
                 .enter()
                 .append('svg:text')
-                .attr('x', function(d) {return levelFactor*(1-radar.factor*Math.sin(0))})
-                .attr('y', function(d) {return levelFactor*(1-radar.factor*Math.cos(0))})
+                .attr('x', function (d) {
+                    return levelFactor * (1 - radar.factor * Math.sin(0))
+                })
+                .attr('y', function (d) {
+                    return levelFactor * (1 - radar.factor * Math.cos(0))
+                })
                 .style("font-family", "sans-serif")
                 .style("font-size", "10px")
-                .attr("transform", "translate(" + (radar.width/2-levelFactor + radar.toRight) + ", " + (radar.height/2-levelFactor) + ")")
+                .attr("transform", "translate(" + (radar.width / 2 - levelFactor + radar.toRight) + ", " + (radar.height / 2 - levelFactor) + ")")
                 .attr("fill", "white")
-                .text(Format((i+1)*radar.maxValue/radar.level))
+                .text(Format((i + 1) * radar.maxValue / radar.level))
         }
 
-        // Draw capability
-        this.svg.append('g')
-            .selectAll('areas')
-            .data(playerStats.values)
-            .enter()
-            .append('g')
-            .attr('class', function(d,i) {
-                return 'area' + (i+1)
-            })
+        let radarPlot = this.svg
 
-        for(let i=0; i< areasData.length; i++) {
-            // 依次循环每个雷达图区域
-            let areaData = areasData[i];
+        d3.csv('data/players.csv').then(function (data) {
+            // Calculate coordinates of radar chart
+            const areasData = [];
+            const values = [];
 
-            // Draw areas
-            this.svg.select('.area' + (i + 1))
-                .append('polygon')
-                .attr('class', 'select_player')
-                .attr('points', areaData.polygon)
-                .attr('stroke', function (d, index) {
-                    return getColor(i);
-                })
-                .attr('fill', function (d, index) {
-                    return getColor(i);
-                })
-                .attr('fill-opacity', .3)
-                .attr('stroke-width', 3)
-                .attr("transform", "translate(" + radar.width/2 + ", " + radar.height/2 + ")")
-                .on('mouseover', function(d) {
-                    d3.selectAll("polygon.select_player")
-                        .transition(200)
-                        .style("fill-opacity", 0.1);
+            // Append statistics of selected players
+            _.filter(data, {'short_name': 'L. Messi'}).forEach( function(player) {
+                    let shooting  = +player.shooting,
+                        passing   = +player.passing,
+                        dribble   = +player.dribbling,
+                        attacking = +player.attacking,
+                        skill     = +player.skill,
+                        movement  = +player.movement,
+                        power     = +player.power,
+                        mentality = +player.mentality
 
-                    d3.select(this)
-                        .transition(200)
-                        .style('fill-opacity', .8)
-                })
-                .on('mouseout', function(d) {
-                    d3.selectAll("polygon.select_player")
-                        .transition(200)
-                        .style('fill-opacity', .4)
+                    let value = []
+
+                    value.push(shooting, passing, dribble, attacking,
+                               skill, movement, power, mentality)
+
+                    values.push(value)
                 })
 
-            // Draw points
-            this.svg.append('g')
-                .selectAll('circle')
-                .data(areaData.points)
-                .enter()
-                .append('circle')
-                .attr('cx', function(d) {
-                    return d.x;
-                })
-                .attr('cy', function(d) {
-                    return d.y;
-                })
-                .attr('r', 3)
-                .attr('stroke', function(d, index) {
-                    return getColor(i);
-                })
-                .attr('stroke-width', 3)
-                .attr('fill', 'white')
-                .attr("transform", "translate(" + radar.width/2 + ", " + radar.height/2 + ")")
-        }
+            // Calculate point coordination
+            for(let i=0; i<values.length; i++) {
+                let value = values[i],
+                    area = '',
+                    points = [];
+
+                for(let k=0; k< radar.total; k++) {
+                    let r = radar.radius * (value[k] - radar.rangeMin)/(radar.rangeMax - radar.rangeMin);
+                    let x = r * Math.sin(k * onePiece),
+                        y = r * Math.cos(k * onePiece);
+                    area += x + ',' + y + ' ';
+                    points.push({
+                        x: x,
+                        y: y
+                    })
+                }
+
+                areasData.push({
+                    polygon: area,
+                    points: points
+                });
+                
+
+                // Draw capability
+                for(let i=0; i< areasData.length; i++) {
+                    let areaData = areasData[i];
+
+                    // Classify areas for later selection
+                    radarPlot.append('g')
+                        .selectAll('areas')
+                        .data(values)
+                        .enter()
+                        .append('g')
+                        .attr('class', function(d,i) {
+                            return 'area' + (i+1)
+                        })
+
+                    // Draw areas
+                    radarPlot.select('.area' + (i + 1))
+                        .append('polygon')
+                        .attr('class', 'select_player')
+                        .attr('points', areaData.polygon)
+                        .attr('stroke', function (d, index) {
+                            return getColor(i);
+                        })
+                        .attr('fill', function (d, index) {
+                            return getColor(i);
+                        })
+                        .attr('fill-opacity', .3)
+                        .attr('stroke-width', 3)
+                        .attr("transform", "translate(" + radar.width / 2 + ", " + radar.height / 2 + ")")
+                        .on('mouseover', function (d) {
+                            d3.selectAll("polygon.select_player")
+                                .transition(200)
+                                .style("fill-opacity", 0.1);
+
+                            d3.select(this)
+                                .transition(200)
+                                .style('fill-opacity', .8)
+                        })
+                        .on('mouseout', function (d) {
+                            d3.selectAll("polygon.select_player")
+                                .transition(200)
+                                .style('fill-opacity', .4)
+                        })
+
+                    // Draw points
+                    radarPlot.append('g')
+                        .selectAll('circle')
+                        .data(areaData.points)
+                        .enter()
+                        .append('circle')
+                        .attr('cx', function (d) {
+                            return d.x;
+                        })
+                        .attr('cy', function (d) {
+                            return d.y;
+                        })
+                        .attr('r', 3)
+                        .attr('stroke', function (d, index) {
+                            return getColor(i);
+                        })
+                        .attr('stroke-width', 3)
+                        .attr('fill', 'white')
+                        .attr("transform", "translate(" + radar.width / 2 + ", " + radar.height / 2 + ")")
+                }
+            }
+        })
     }
 }
 
 whenDocumentLoaded(() => {
 
-    // const s = retrieve_value()
-    //
+
+
     // console.log(s)
 
     const plot = new RadarPlot();
