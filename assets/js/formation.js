@@ -39,6 +39,31 @@ var svg = d3
         // 0.1 * scale(pitch.length + pitch.padding.top + pitch.padding.bottom)
     );
 
+//
+// <defs>
+//     <pattern id="pat" x="0" y="0" width="80" height="80" patternUnits="userSpaceOnUse">
+//         <image x="0" y="0" width="80" height="80" href="./Img/soccer-jersey.svg" />
+//     </pattern>
+// </defs>
+
+var soccerJersey = svg
+    .append("defs")
+    .append("pattern")
+    .attr("id", "pat")
+    .attr("x", 0)
+    .attr("y", 0)
+    .attr("width", 30)
+    .attr("height", 50)
+    .attr("patternUnits", "userSpaceOnUse")
+
+soccerJersey
+    .append("image")
+    .attr("x", 0)
+    .attr("y", 0)
+    .attr("width", 30)
+    .attr("height", 50)
+    .attr("href", "./Img/soccer-jersey.svg")
+
 var pitchElement = svg
     .append("g")
     .attr(
@@ -251,41 +276,119 @@ var playerPositions = {
     ]
 };
 
+
+var playerPositionsText = {
+    442: [
+        { x: 25, y: 20 },
+        { x: 55, y: 20 },
+        { x: 10, y: 45 },
+        { x: 30, y: 45 },
+        { x: 50, y: 45 },
+        { x: 70, y: 45 },
+        { x: 10, y: 75 },
+        { x: 30, y: 75 },
+        { x: 50, y: 75 },
+        { x: 70, y: 75 }
+    ],
+    352: [
+        { x: 25, y: 20 },
+        { x: 55, y: 20 },
+        { x: 10, y: 45 },
+        { x: 40, y: 40 },
+        { x: 50, y: 60 },
+        { x: 70, y: 45 },
+        { x: 10, y: 75 },
+        { x: 30, y: 60 },
+        { x: 40, y: 75 },
+        { x: 70, y: 75 }
+    ],
+    541: [
+        { x: 40, y: 20, text: "Forward" },
+        { x: 50, y: 45, text: "Forward"  },
+        { x: 10, y: 40, text: "Forward"  },
+        { x: 30, y: 45, text: "Forward"  },
+        { x: 55, y: 75, text: "Forward"  },
+        { x: 70, y: 40, text: "Forward"  },
+        { x: 10, y: 70, text: "Forward"  },
+        { x: 25, y: 75, text: "Forward"  },
+        { x: 40, y: 77, text: "Forward"  },
+        { x: 70, y: 70, text: "Forward"  }
+    ]
+};
+
 var playersContainer = pitchElement.append("g").attr("class", "players");
 
+
+// For soccer jersey
 playersContainer
-    .selectAll("circle")
+    .selectAll("image")
     .data(playerPositions["541"])
     .enter()
-    .append("circle")
-    .attr("cx", function (d) {
-        return scale(d.x);
+    .append("image")
+    .attr("x", function(d){
+        return scale(d.x) - 25
     })
-    .attr("cy", function (d) {
-        return scale(d.y);
+    .attr("y", function(d){
+        return scale(d.y)
     })
-    .attr("r", 5)
-    .attr("fill", "yellow");
+    .attr("width", 50)
+    .attr("height", 50)
+    .attr("href", "./Img/soccer-jersey.svg")
+
+
+// For position text
+playersContainer
+    .selectAll("text")
+    .data(playerPositionsText["541"])
+    .enter()
+    .append("text")
+    .attr("x", function(d){
+        return scale(d.x)
+    })
+    .attr("y", function(d){
+        return scale(d.y)
+    })
+    .text(function(d){
+        return d.text
+    })
+
 
 function updateFormation(formation) {
-    // alert(1111)
+
     playersContainer
-        .selectAll("circle")
+        .selectAll("image")
         .data(playerPositions[formation])
         .transition()
-        .attr("cx", function (d) {
-            return scale(d.x);
+        .attr("x", function (d) {
+            return scale(d.x) - 25;
         })
-        .attr("cy", function (d) {
+        .attr("y", function (d) {
             return scale(d.y);
         })
-        .attr("r", 5)
-        .attr("fill", "yellow");
+        .attr("width", 50)
+        .attr("height", 50)
+        .attr("href", "./Img/soccer-jersey.svg")
+
+    playersContainer
+        .selectAll("text")
+        .data(playerPositions[formation])
+        .transition()
+        .attr("x", function(d){
+            return scale(d.x) - 10
+        })
+        .attr("y", function(d){
+            return scale(d.y)
+        })
+        .text("P1")
 }
+
+
 
 $(document).ready(function() {
     $(".formation__pitch-selector").change(function () {
         updateFormation($(this).val());
         // alert(11111)
     });
+
+    // $("svg").append($("<img src='./Img/soccer-jersey.png' />"))
 });
