@@ -23,7 +23,7 @@ class playerBoard {
 
         d3.csv('data/players.csv', function (error, data){
 
-            selected_player = ['158023', '20801']
+            selected_player = ['158023', '20801', '190871']
 
             let stats = _(data)
                 .keyBy('sofifa_id')
