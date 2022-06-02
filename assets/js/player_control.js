@@ -98,11 +98,11 @@ class playerBoard {
                         if (chosen.includes(selected_player)) {
                             let idx = chosen.indexOf(selected_player)
                             chosen.splice(idx , 1)
+                            radar.removeRadarArea(selected_player)
                         } else {
                             chosen.push(selected_player)
+                            radar.drawRadarArea(chosen)
                         }
-
-                        radar.drawRadarArea(chosen)
                     })
             })
         })

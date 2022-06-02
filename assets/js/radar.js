@@ -179,8 +179,8 @@ export class RadarPlot {
 
         d3.csv('data/players.csv', function (err, data) {
             // Calculate coordinates of radar chart
-            const areasData = [];
-            const values = [];
+            const areasData = []
+            const values    = []
 
             // Collect statistics of selected players.csv
             _(data)
@@ -204,6 +204,7 @@ export class RadarPlot {
 
                     values.push(value)
                 })
+
 
             // Calculate point coordination
 
@@ -234,6 +235,8 @@ export class RadarPlot {
                 for(let i=0; i< areasData.length; i++) {
                     let areaData = areasData[i];
 
+                    radarPlot.selectAll('.select_player'+selected_player[i]).remove()
+
                     // Classify areas for later selection
                     radarPlot.append('g')
                         .selectAll('areas')
@@ -245,9 +248,9 @@ export class RadarPlot {
                         })
 
                     // Draw areas
-                    radarPlot.select('.area' + (i + 1))
+                    radarPlot.select('.area' + (i+1))
                         .append('polygon')
-                        .attr('class', 'select_player')
+                        .attr('class', 'select_player' + selected_player[i])
                         .attr('points', areaData.polygon)
                         .attr('stroke', function (d, index) {
                             return getColor(i);
@@ -259,7 +262,7 @@ export class RadarPlot {
                         .attr('stroke-width', 3)
                         .attr("transform", "translate(" + radar.width / 2 + ", " + radar.height / 2 + ")")
                         .on('mouseover', function (d) {
-                            d3.selectAll("polygon.select_player")
+                            d3.selectAll("polygon.select_player"+selected_player[i])
                                 .transition(200)
                                 .style("fill-opacity", 0.1);
 
@@ -268,7 +271,7 @@ export class RadarPlot {
                                 .style('fill-opacity', .8)
                         })
                         .on('mouseout', function (d) {
-                            d3.selectAll("polygon.select_player")
+                            d3.selectAll("polygon.select_player"+selected_player[i])
                                 .transition(200)
                                 .style('fill-opacity', .4)
                         })
@@ -279,6 +282,7 @@ export class RadarPlot {
                         .data(areaData.points)
                         .enter()
                         .append('circle')
+                        .attr('class', 'select_circle'+selected_player[i])
                         .attr('cx', function (d) {
                             return d.x;
                         })
@@ -295,6 +299,11 @@ export class RadarPlot {
                 }
             }
         })
+    }
+
+    removeRadarArea(selected_player) {
+        this.svg.selectAll('.select_player'+selected_player).remove()
+        this.svg.selectAll('.select_circle'+selected_player).remove()
     }
 
 }
