@@ -1,0 +1,1977 @@
+,date,home_team,away_team,home_score,away_score,tournament,delta_goal,win,lose
+0,2019-01-02,Oman,Thailand,2,0,Friendly,2,1,0
+1,2019-01-05,United Arab Emirates,Bahrain,1,1,AFC Asian Cup,0,0,1
+2,2019-01-06,Thailand,India,1,4,AFC Asian Cup,-3,0,1
+3,2019-01-06,Australia,Jordan,0,1,AFC Asian Cup,-1,0,1
+5,2019-01-07,China PR,Kyrgyzstan,2,1,AFC Asian Cup,1,1,0
+6,2019-01-07,South Korea,Philippines,1,0,AFC Asian Cup,1,1,0
+7,2019-01-07,Iran,Yemen,5,0,AFC Asian Cup,5,1,0
+8,2019-01-08,Finland,Sweden,1,0,Friendly,1,1,0
+9,2019-01-08,Iraq,Vietnam,3,2,AFC Asian Cup,1,1,0
+10,2019-01-08,Saudi Arabia,North Korea,4,0,AFC Asian Cup,4,1,0
+11,2019-01-09,Qatar,Lebanon,2,0,AFC Asian Cup,2,1,0
+12,2019-01-09,Japan,Turkmenistan,3,2,AFC Asian Cup,1,1,0
+13,2019-01-09,Uzbekistan,Oman,2,1,AFC Asian Cup,1,1,0
+14,2019-01-10,Bahrain,Thailand,0,1,AFC Asian Cup,-1,0,1
+15,2019-01-10,Jordan,Syria,2,0,AFC Asian Cup,2,1,0
+16,2019-01-10,United Arab Emirates,India,2,0,AFC Asian Cup,2,1,0
+17,2019-01-11,Estonia,Finland,2,1,Friendly,1,1,0
+18,2019-01-11,Iceland,Sweden,2,2,Friendly,0,0,1
+19,2019-01-11,Palestine,Australia,0,3,AFC Asian Cup,-3,0,1
+20,2019-01-11,Philippines,China PR,0,3,AFC Asian Cup,-3,0,1
+21,2019-01-11,Kyrgyzstan,South Korea,0,1,AFC Asian Cup,-1,0,1
+22,2019-01-12,Vietnam,Iran,0,2,AFC Asian Cup,-2,0,1
+23,2019-01-12,Yemen,Iraq,0,3,AFC Asian Cup,-3,0,1
+24,2019-01-12,Lebanon,Saudi Arabia,0,2,AFC Asian Cup,-2,0,1
+25,2019-01-13,North Korea,Qatar,0,6,AFC Asian Cup,-6,0,1
+26,2019-01-13,Oman,Japan,0,1,AFC Asian Cup,-1,0,1
+27,2019-01-13,Turkmenistan,Uzbekistan,0,4,AFC Asian Cup,-4,0,1
+28,2019-01-14,India,Bahrain,0,1,AFC Asian Cup,-1,0,1
+29,2019-01-14,United Arab Emirates,Thailand,1,1,AFC Asian Cup,0,0,1
+31,2019-01-15,Australia,Syria,3,2,AFC Asian Cup,1,1,0
+33,2019-01-16,South Korea,China PR,2,0,AFC Asian Cup,2,1,0
+34,2019-01-16,Kyrgyzstan,Philippines,3,1,AFC Asian Cup,2,1,0
+36,2019-01-16,Vietnam,Yemen,2,0,AFC Asian Cup,2,1,0
+37,2019-01-17,Lebanon,North Korea,4,1,AFC Asian Cup,3,1,0
+38,2019-01-17,Saudi Arabia,Qatar,0,2,AFC Asian Cup,-2,0,1
+39,2019-01-17,Japan,Uzbekistan,2,1,AFC Asian Cup,1,1,0
+40,2019-01-17,Oman,Turkmenistan,3,1,AFC Asian Cup,2,1,0
+41,2019-01-20,Iran,Oman,2,0,AFC Asian Cup,2,1,0
+42,2019-01-20,Jordan,Vietnam,1,1,AFC Asian Cup,0,0,1
+43,2019-01-20,Thailand,China PR,1,2,AFC Asian Cup,-1,0,1
+45,2019-01-21,Japan,Saudi Arabia,1,0,AFC Asian Cup,1,1,0
+46,2019-01-21,United Arab Emirates,Kyrgyzstan,3,2,AFC Asian Cup,1,1,0
+47,2019-01-22,South Korea,Bahrain,2,1,AFC Asian Cup,1,1,0
+48,2019-01-22,Qatar,Iraq,1,0,AFC Asian Cup,1,1,0
+49,2019-01-24,China PR,Iran,0,3,AFC Asian Cup,-3,0,1
+50,2019-01-24,Vietnam,Japan,0,1,AFC Asian Cup,-1,0,1
+51,2019-01-25,South Korea,Qatar,0,1,AFC Asian Cup,-1,0,1
+52,2019-01-25,United Arab Emirates,Australia,1,0,AFC Asian Cup,1,1,0
+53,2019-01-27,United States,Panama,3,0,Friendly,3,1,0
+54,2019-01-28,Iran,Japan,0,3,AFC Asian Cup,-3,0,1
+55,2019-01-29,United Arab Emirates,Qatar,0,4,AFC Asian Cup,-4,0,1
+56,2019-02-01,Japan,Qatar,1,3,AFC Asian Cup,-2,0,1
+57,2019-02-02,United States,Costa Rica,2,0,Friendly,2,1,0
+58,2019-02-21,Kazakhstan,Moldova,1,0,Friendly,1,1,0
+59,2019-02-27,Cuba,Bermuda,5,0,Friendly,5,1,0
+60,2019-03-03,Bolivia,Nicaragua,2,2,Friendly,0,0,1
+61,2019-03-04,Barbados,Grenada,3,0,Friendly,3,1,0
+62,2019-03-06,El Salvador,Guatemala,3,1,Friendly,2,1,0
+63,2019-03-09,Cambodia,Bangladesh,0,1,Friendly,-1,0,1
+64,2019-03-16,Bahamas,Turks and Caicos Islands,6,1,Friendly,5,1,0
+65,2019-03-18,Fiji,New Caledonia,3,0,Friendly,3,1,0
+66,2019-03-18,Solomon Islands,Vanuatu,3,1,Friendly,2,1,0
+68,2019-03-20,Germany,Serbia,1,1,Friendly,0,0,1
+69,2019-03-20,Wales,Trinidad and Tobago,1,0,Friendly,1,1,0
+70,2019-03-21,Kosovo,Denmark,2,2,Friendly,0,0,1
+72,2019-03-21,Mauritius,New Caledonia,3,1,Friendly,2,1,0
+73,2019-03-21,United Arab Emirates,Saudi Arabia,2,1,Friendly,1,1,0
+74,2019-03-21,United States,Ecuador,1,0,Friendly,1,1,0
+75,2019-03-21,Northern Ireland,Estonia,2,0,UEFA Euro qualification,2,1,0
+76,2019-03-21,Netherlands,Belarus,4,0,UEFA Euro qualification,4,1,0
+77,2019-03-21,Croatia,Azerbaijan,2,1,UEFA Euro qualification,1,1,0
+78,2019-03-21,Slovakia,Hungary,2,0,UEFA Euro qualification,2,1,0
+79,2019-03-21,Austria,Poland,0,1,UEFA Euro qualification,-1,0,1
+80,2019-03-21,North Macedonia,Latvia,3,1,UEFA Euro qualification,2,1,0
+81,2019-03-21,Israel,Slovenia,1,1,UEFA Euro qualification,0,0,1
+82,2019-03-21,Cyprus,San Marino,5,0,UEFA Euro qualification,5,1,0
+83,2019-03-21,Belgium,Russia,3,1,UEFA Euro qualification,2,1,0
+84,2019-03-21,Kazakhstan,Scotland,3,0,UEFA Euro qualification,3,1,0
+85,2019-03-22,Argentina,Venezuela,1,3,Friendly,-2,0,1
+86,2019-03-22,Guatemala,Costa Rica,1,0,Friendly,1,1,0
+87,2019-03-22,Japan,Colombia,0,1,Friendly,-1,0,1
+88,2019-03-22,South Korea,Bolivia,1,0,Friendly,1,1,0
+89,2019-03-22,Mexico,Chile,3,1,Friendly,2,1,0
+90,2019-03-22,Peru,Paraguay,1,0,Friendly,1,1,0
+91,2019-03-22,Bulgaria,Montenegro,1,1,UEFA Euro qualification,0,0,1
+92,2019-03-22,England,Czech Republic,5,0,UEFA Euro qualification,5,1,0
+94,2019-03-22,Luxembourg,Lithuania,2,1,UEFA Euro qualification,1,1,0
+95,2019-03-22,Albania,Turkey,0,2,UEFA Euro qualification,-2,0,1
+96,2019-03-22,Andorra,Iceland,0,2,UEFA Euro qualification,-2,0,1
+97,2019-03-22,Moldova,France,1,4,UEFA Euro qualification,-3,0,1
+98,2019-03-22,Botswana,Angola,0,1,African Cup of Nations qualification,-1,0,1
+99,2019-03-23,Brazil,Panama,1,1,Friendly,0,0,1
+100,2019-03-23,Malaysia,Afghanistan,2,1,Friendly,1,1,0
+101,2019-03-23,Oman,Singapore,1,1,Friendly,0,0,1
+102,2019-03-23,Georgia,Switzerland,0,2,UEFA Euro qualification,-2,0,1
+103,2019-03-23,Gibraltar,Republic of Ireland,0,1,UEFA Euro qualification,-1,0,1
+104,2019-03-23,Malta,Faroe Islands,2,1,UEFA Euro qualification,1,1,0
+105,2019-03-23,Sweden,Romania,2,1,UEFA Euro qualification,1,1,0
+106,2019-03-23,Spain,Norway,2,1,UEFA Euro qualification,1,1,0
+107,2019-03-23,Bosnia and Herzegovina,Armenia,2,1,UEFA Euro qualification,1,1,0
+108,2019-03-23,Italy,Finland,2,0,UEFA Euro qualification,2,1,0
+109,2019-03-23,Liechtenstein,Greece,0,2,UEFA Euro qualification,-2,0,1
+110,2019-03-23,Senegal,Madagascar,2,0,African Cup of Nations qualification,2,1,0
+111,2019-03-23,Cameroon,Comoros,3,0,African Cup of Nations qualification,3,1,0
+112,2019-03-23,Mali,South Sudan,3,0,African Cup of Nations qualification,3,1,0
+113,2019-03-23,Ghana,Kenya,1,0,African Cup of Nations qualification,1,1,0
+114,2019-03-23,Niger,Egypt,1,1,African Cup of Nations qualification,0,0,1
+115,2019-03-23,Zambia,Namibia,4,1,African Cup of Nations qualification,3,1,0
+116,2019-03-24,Taiwan,Solomon Islands,0,1,Friendly,-1,0,1
+117,2019-03-24,Fiji,Mauritius,1,0,Friendly,1,1,0
+118,2019-03-24,Northern Ireland,Belarus,2,1,UEFA Euro qualification,1,1,0
+119,2019-03-24,Netherlands,Germany,2,3,UEFA Euro qualification,-1,0,1
+120,2019-03-24,Wales,Slovakia,1,0,UEFA Euro qualification,1,1,0
+121,2019-03-24,Hungary,Croatia,2,1,UEFA Euro qualification,1,1,0
+122,2019-03-24,Israel,Austria,4,2,UEFA Euro qualification,2,1,0
+123,2019-03-24,Poland,Latvia,2,0,UEFA Euro qualification,2,1,0
+124,2019-03-24,Slovenia,North Macedonia,1,1,UEFA Euro qualification,0,0,1
+125,2019-03-24,San Marino,Scotland,0,2,UEFA Euro qualification,-2,0,1
+126,2019-03-24,Kazakhstan,Russia,0,4,UEFA Euro qualification,-4,0,1
+127,2019-03-24,Cyprus,Belgium,0,2,UEFA Euro qualification,-2,0,1
+128,2019-03-24,Benin,Togo,2,1,African Cup of Nations qualification,1,1,0
+129,2019-03-24,Libya,South Africa,1,2,African Cup of Nations qualification,-1,0,1
+130,2019-03-24,Zimbabwe,Congo,2,0,African Cup of Nations qualification,2,1,0
+132,2019-03-24,Tanzania,Uganda,3,0,African Cup of Nations qualification,3,1,0
+133,2019-03-25,Catalonia,Venezuela,2,1,Friendly,1,1,0
+135,2019-03-25,Kuwait,Nepal,1,0,Friendly,1,1,0
+136,2019-03-25,Myanmar,Indonesia,0,2,Friendly,-2,0,1
+137,2019-03-25,Saudi Arabia,Equatorial Guinea,3,2,Friendly,1,1,0
+138,2019-03-25,Kosovo,Bulgaria,1,1,UEFA Euro qualification,0,0,1
+139,2019-03-25,Montenegro,England,1,5,UEFA Euro qualification,-4,0,1
+140,2019-03-25,Portugal,Serbia,1,1,UEFA Euro qualification,0,0,1
+141,2019-03-25,Luxembourg,Ukraine,1,2,UEFA Euro qualification,-1,0,1
+142,2019-03-25,Turkey,Moldova,4,0,UEFA Euro qualification,4,1,0
+143,2019-03-25,Andorra,Albania,0,3,UEFA Euro qualification,-3,0,1
+144,2019-03-25,France,Iceland,4,0,UEFA Euro qualification,4,1,0
+145,2019-03-26,Algeria,Tunisia,1,0,Friendly,1,1,0
+146,2019-03-26,Costa Rica,Jamaica,1,0,Friendly,1,1,0
+147,2019-03-26,Czech Republic,Brazil,1,3,Friendly,-2,0,1
+148,2019-03-26,Ghana,Mauritania,3,1,Friendly,2,1,0
+149,2019-03-26,Gibraltar,Estonia,0,1,Friendly,-1,0,1
+151,2019-03-26,Ivory Coast,Liberia,1,0,Friendly,1,1,0
+152,2019-03-26,Japan,Bolivia,0,1,Friendly,-1,0,1
+153,2019-03-26,South Korea,Colombia,2,1,Friendly,1,1,0
+154,2019-03-26,Morocco,Argentina,0,1,Friendly,-1,0,1
+155,2019-03-26,Nicaragua,Guatemala,0,1,Friendly,-1,0,1
+156,2019-03-26,Nigeria,Egypt,1,0,Friendly,1,1,0
+157,2019-03-26,Paraguay,Mexico,2,4,Friendly,-2,0,1
+158,2019-03-26,Peru,El Salvador,0,2,Friendly,-2,0,1
+159,2019-03-26,Senegal,Mali,2,1,Friendly,1,1,0
+161,2019-03-26,United States,Chile,1,1,Friendly,0,0,1
+162,2019-03-26,Republic of Ireland,Georgia,1,0,UEFA Euro qualification,1,1,0
+163,2019-03-26,Switzerland,Denmark,3,3,UEFA Euro qualification,0,0,1
+164,2019-03-26,Malta,Spain,0,2,UEFA Euro qualification,-2,0,1
+165,2019-03-26,Norway,Sweden,3,3,UEFA Euro qualification,0,0,1
+166,2019-03-26,Romania,Faroe Islands,4,1,UEFA Euro qualification,3,1,0
+167,2019-03-26,Bosnia and Herzegovina,Greece,2,2,UEFA Euro qualification,0,0,1
+168,2019-03-26,Italy,Liechtenstein,6,0,UEFA Euro qualification,6,1,0
+169,2019-03-26,Armenia,Finland,0,2,UEFA Euro qualification,-2,0,1
+170,2019-05-04,Yorkshire,Somaliland,6,2,Friendly,4,1,0
+171,2019-05-25,Kernow,Barawa,5,0,Friendly,5,1,0
+172,2019-05-25,Cascadia,Chagos Islands,6,3,Friendly,3,1,0
+173,2019-05-28,Laos,Sri Lanka,2,1,Friendly,1,1,0
+175,2019-05-30,Turkey,Greece,2,1,Friendly,1,1,0
+176,2019-05-31,Laos,Sri Lanka,2,2,Friendly,0,0,1
+177,2019-06-01,Venezuela,Ecuador,1,1,Friendly,0,0,1
+178,2019-06-02,El Salvador,Haiti,1,0,Friendly,1,1,0
+179,2019-06-02,France,Bolivia,2,0,Friendly,2,1,0
+180,2019-06-02,Luxembourg,Madagascar,3,3,Friendly,0,0,1
+181,2019-06-02,Malaysia,Nepal,2,0,Friendly,2,1,0
+183,2019-06-03,Colombia,Panama,3,0,Friendly,3,1,0
+184,2019-06-03,Vanuatu,Tahiti,2,0,Friendly,2,1,0
+185,2019-06-05,Brazil,Qatar,2,0,Friendly,2,1,0
+186,2019-06-05,Mexico,Venezuela,3,1,Friendly,2,1,0
+187,2019-06-05,Paraguay,Honduras,1,1,Friendly,0,0,1
+188,2019-06-05,Peru,Costa Rica,1,0,Friendly,1,1,0
+189,2019-06-05,United States,Jamaica,0,1,Friendly,-1,0,1
+190,2019-06-05,Portugal,Switzerland,3,1,UEFA Nations League,2,1,0
+191,2019-06-06,Bermuda,Guyana,1,0,Friendly,1,1,0
+192,2019-06-06,Chile,Haiti,2,1,Friendly,1,1,0
+193,2019-06-06,Taiwan,Nepal,1,1,Friendly,0,0,1
+194,2019-06-06,Iran,Syria,5,0,Friendly,5,1,0
+195,2019-06-06,Slovakia,Jordan,5,1,Friendly,4,1,0
+196,2019-06-06,Tajikistan,Afghanistan,1,1,Friendly,0,0,1
+197,2019-06-06,England,Netherlands,1,3,UEFA Nations League,-2,0,1
+198,2019-06-06,Bhutan,Guam,1,0,FIFA World Cup qualification,1,1,0
+199,2019-06-06,Cambodia,Pakistan,2,0,FIFA World Cup qualification,2,1,0
+200,2019-06-06,Laos,Bangladesh,0,1,FIFA World Cup qualification,-1,0,1
+201,2019-06-06,Macau,Sri Lanka,1,0,FIFA World Cup qualification,1,1,0
+202,2019-06-06,Mongolia,Brunei,2,0,FIFA World Cup qualification,2,1,0
+203,2019-06-07,Czech Republic,Bulgaria,2,1,UEFA Euro qualification,1,1,0
+204,2019-06-07,Montenegro,Kosovo,1,1,UEFA Euro qualification,0,0,1
+205,2019-06-07,Lithuania,Luxembourg,1,1,UEFA Euro qualification,0,0,1
+206,2019-06-07,Ukraine,Serbia,5,0,UEFA Euro qualification,5,1,0
+207,2019-06-07,Georgia,Gibraltar,3,0,UEFA Euro qualification,3,1,0
+208,2019-06-07,Denmark,Republic of Ireland,1,1,UEFA Euro qualification,0,0,1
+209,2019-06-07,Faroe Islands,Spain,1,4,UEFA Euro qualification,-3,0,1
+210,2019-06-07,Norway,Romania,2,2,UEFA Euro qualification,0,0,1
+211,2019-06-07,Sweden,Malta,3,0,UEFA Euro qualification,3,1,0
+212,2019-06-07,Austria,Slovenia,1,0,UEFA Euro qualification,1,1,0
+213,2019-06-07,North Macedonia,Poland,0,1,UEFA Euro qualification,-1,0,1
+214,2019-06-07,Latvia,Israel,0,3,UEFA Euro qualification,-3,0,1
+215,2019-06-07,Argentina,Nicaragua,5,1,Friendly,4,1,0
+216,2019-06-07,China PR,Philippines,2,0,Friendly,2,1,0
+217,2019-06-07,Fiji,Tahiti,1,1,Friendly,0,0,1
+218,2019-06-07,Ivory Coast,Comoros,3,1,Friendly,2,1,0
+219,2019-06-07,Kenya,Madagascar,1,0,Friendly,1,1,0
+220,2019-06-07,South Korea,Australia,1,0,Friendly,1,1,0
+221,2019-06-07,Tunisia,Iraq,2,0,Friendly,2,1,0
+222,2019-06-07,Uruguay,Panama,3,0,Friendly,3,1,0
+223,2019-06-07,Uzbekistan,North Korea,4,0,Friendly,4,1,0
+224,2019-06-07,Malaysia,Timor-Leste,7,1,FIFA World Cup qualification,6,1,0
+225,2019-06-08,Estonia,Northern Ireland,1,2,UEFA Euro qualification,-1,0,1
+226,2019-06-08,Belarus,Germany,0,2,UEFA Euro qualification,-2,0,1
+227,2019-06-08,Croatia,Wales,2,1,UEFA Euro qualification,1,1,0
+228,2019-06-08,Azerbaijan,Hungary,1,3,UEFA Euro qualification,-2,0,1
+229,2019-06-08,Iceland,Albania,1,0,UEFA Euro qualification,1,1,0
+230,2019-06-08,Moldova,Andorra,1,0,UEFA Euro qualification,1,1,0
+231,2019-06-08,Turkey,France,2,0,UEFA Euro qualification,2,1,0
+232,2019-06-08,Russia,San Marino,9,0,UEFA Euro qualification,9,1,0
+233,2019-06-08,Scotland,Cyprus,2,1,UEFA Euro qualification,1,1,0
+234,2019-06-08,Belgium,Kazakhstan,3,0,UEFA Euro qualification,3,1,0
+235,2019-06-08,Finland,Bosnia and Herzegovina,2,0,UEFA Euro qualification,2,1,0
+236,2019-06-08,Armenia,Liechtenstein,3,0,UEFA Euro qualification,3,1,0
+237,2019-06-08,Greece,Italy,0,3,UEFA Euro qualification,-3,0,1
+238,2019-06-08,Angola,Guinea-Bissau,2,0,Friendly,2,1,0
+240,2019-06-08,Singapore,Solomon Islands,4,3,Friendly,1,1,0
+241,2019-06-09,Brazil,Honduras,7,0,Friendly,7,1,0
+242,2019-06-09,Cameroon,Zambia,2,1,Friendly,1,1,0
+244,2019-06-09,Mexico,Ecuador,3,2,Friendly,1,1,0
+245,2019-06-09,Paraguay,Guatemala,2,0,Friendly,2,1,0
+246,2019-06-09,Peru,Colombia,0,3,Friendly,-3,0,1
+248,2019-06-09,United States,Venezuela,0,3,Friendly,-3,0,1
+250,2019-06-09,Portugal,Netherlands,1,0,UEFA Nations League,1,1,0
+251,2019-06-10,Czech Republic,Montenegro,3,0,UEFA Euro qualification,3,1,0
+252,2019-06-10,Bulgaria,Kosovo,2,3,UEFA Euro qualification,-1,0,1
+253,2019-06-10,Serbia,Lithuania,4,1,UEFA Euro qualification,3,1,0
+254,2019-06-10,Ukraine,Luxembourg,1,0,UEFA Euro qualification,1,1,0
+255,2019-06-10,Republic of Ireland,Gibraltar,2,0,UEFA Euro qualification,2,1,0
+256,2019-06-10,Denmark,Georgia,5,1,UEFA Euro qualification,4,1,0
+257,2019-06-10,Faroe Islands,Norway,0,2,UEFA Euro qualification,-2,0,1
+258,2019-06-10,Malta,Romania,0,4,UEFA Euro qualification,-4,0,1
+259,2019-06-10,Spain,Sweden,3,0,UEFA Euro qualification,3,1,0
+260,2019-06-10,North Macedonia,Austria,1,4,UEFA Euro qualification,-3,0,1
+261,2019-06-10,Poland,Israel,4,0,UEFA Euro qualification,4,1,0
+262,2019-06-10,Latvia,Slovenia,0,5,UEFA Euro qualification,-5,0,1
+264,2019-06-11,Germany,Estonia,8,0,UEFA Euro qualification,8,1,0
+265,2019-06-11,Belarus,Northern Ireland,0,1,UEFA Euro qualification,-1,0,1
+266,2019-06-11,Azerbaijan,Slovakia,1,5,UEFA Euro qualification,-4,0,1
+267,2019-06-11,Hungary,Wales,1,0,UEFA Euro qualification,1,1,0
+268,2019-06-11,Iceland,Turkey,2,1,UEFA Euro qualification,1,1,0
+269,2019-06-11,Albania,Moldova,2,0,UEFA Euro qualification,2,1,0
+270,2019-06-11,Andorra,France,0,4,UEFA Euro qualification,-4,0,1
+271,2019-06-11,Kazakhstan,San Marino,4,0,UEFA Euro qualification,4,1,0
+272,2019-06-11,Belgium,Scotland,3,0,UEFA Euro qualification,3,1,0
+273,2019-06-11,Russia,Cyprus,1,0,UEFA Euro qualification,1,1,0
+274,2019-06-11,Italy,Bosnia and Herzegovina,2,1,UEFA Euro qualification,1,1,0
+275,2019-06-11,Liechtenstein,Finland,0,2,UEFA Euro qualification,-2,0,1
+276,2019-06-11,Greece,Armenia,2,3,UEFA Euro qualification,-1,0,1
+277,2019-06-11,Algeria,Burundi,1,1,Friendly,0,0,1
+278,2019-06-11,Benin,Guinea,1,0,Friendly,1,1,0
+279,2019-06-11,China PR,Tajikistan,1,0,Friendly,1,1,0
+280,2019-06-11,Croatia,Tunisia,1,2,Friendly,-1,0,1
+281,2019-06-11,Hong Kong,Taiwan,0,2,Friendly,-2,0,1
+282,2019-06-11,Jordan,Indonesia,4,1,Friendly,3,1,0
+283,2019-06-11,South Korea,Iran,1,1,Friendly,0,0,1
+284,2019-06-11,Kyrgyzstan,Palestine,2,2,Friendly,0,0,1
+285,2019-06-11,Singapore,Myanmar,1,2,Friendly,-1,0,1
+286,2019-06-11,Uzbekistan,Syria,2,0,Friendly,2,1,0
+288,2019-06-11,Brunei,Mongolia,2,1,FIFA World Cup qualification,1,1,0
+289,2019-06-11,Guam,Bhutan,5,0,FIFA World Cup qualification,5,1,0
+290,2019-06-11,Pakistan,Cambodia,1,2,FIFA World Cup qualification,-1,0,1
+291,2019-06-11,Sri Lanka,Macau,3,0,FIFA World Cup qualification,3,1,0
+292,2019-06-11,Malaysia,Timor-Leste,5,1,FIFA World Cup qualification,4,1,0
+293,2019-06-12,Morocco,Gambia,0,1,Friendly,-1,0,1
+294,2019-06-12,Ynys Môn,Saint Helena,7,2,Friendly,5,1,0
+295,2019-06-13,Egypt,Tanzania,1,0,Friendly,1,1,0
+296,2019-06-14,Cameroon,Mali,1,1,Friendly,0,0,1
+297,2019-06-14,Madagascar,Mauritania,1,3,Friendly,-2,0,1
+298,2019-06-14,Brazil,Bolivia,3,0,Copa América,3,1,0
+300,2019-06-15,Argentina,Colombia,0,2,Copa América,-2,0,1
+302,2019-06-15,Indonesia,Vanuatu,6,0,Friendly,6,1,0
+303,2019-06-15,Ivory Coast,Uganda,0,1,Friendly,-1,0,1
+304,2019-06-15,Kenya,DR Congo,1,1,Friendly,0,0,1
+305,2019-06-15,Tanzania,Zimbabwe,1,1,Friendly,0,0,1
+306,2019-06-16,Paraguay,Qatar,2,2,Copa América,0,0,1
+307,2019-06-16,Uruguay,Ecuador,4,0,Copa América,4,1,0
+308,2019-06-16,Algeria,Mali,3,2,Friendly,1,1,0
+309,2019-06-16,Egypt,Guinea,3,1,Friendly,2,1,0
+310,2019-06-16,Morocco,Zambia,2,3,Friendly,-1,0,1
+311,2019-06-16,Senegal,Nigeria,1,0,Friendly,1,1,0
+312,2019-06-17,Japan,Chile,0,4,Copa América,-4,0,1
+313,2019-06-17,Tunisia,Burundi,2,1,Friendly,1,1,0
+314,2019-06-18,Bolivia,Peru,1,3,Copa América,-2,0,1
+316,2019-06-18,Benin,Mauritania,3,1,Friendly,2,1,0
+317,2019-06-19,Colombia,Qatar,1,0,Copa América,1,1,0
+318,2019-06-19,Argentina,Paraguay,1,1,Copa América,0,0,1
+319,2019-06-19,Ivory Coast,Zambia,4,1,Friendly,3,1,0
+320,2019-06-20,Uruguay,Japan,2,2,Copa América,0,0,1
+321,2019-06-21,Egypt,Zimbabwe,1,0,African Cup of Nations,1,1,0
+322,2019-06-21,Ecuador,Chile,1,2,Copa América,-1,0,1
+323,2019-06-22,DR Congo,Uganda,0,2,African Cup of Nations,-2,0,1
+324,2019-06-22,Nigeria,Burundi,1,0,African Cup of Nations,1,1,0
+325,2019-06-22,Guinea,Madagascar,2,2,African Cup of Nations,0,0,1
+326,2019-06-22,Bolivia,Venezuela,1,3,Copa América,-2,0,1
+327,2019-06-22,Brazil,Peru,5,0,Copa América,5,1,0
+328,2019-06-23,Senegal,Tanzania,2,0,African Cup of Nations,2,1,0
+329,2019-06-23,Algeria,Kenya,2,0,African Cup of Nations,2,1,0
+330,2019-06-23,Morocco,Namibia,1,0,African Cup of Nations,1,1,0
+331,2019-06-23,Colombia,Paraguay,1,0,Copa América,1,1,0
+332,2019-06-23,Qatar,Argentina,0,2,Copa América,-2,0,1
+333,2019-06-24,Ivory Coast,South Africa,1,0,African Cup of Nations,1,1,0
+334,2019-06-24,Tunisia,Angola,1,1,African Cup of Nations,0,0,1
+335,2019-06-24,Mali,Mauritania,4,1,African Cup of Nations,3,1,0
+336,2019-06-24,Chile,Uruguay,0,1,Copa América,-1,0,1
+337,2019-06-24,Ecuador,Japan,1,1,Copa América,0,0,1
+338,2019-06-25,Cameroon,Guinea-Bissau,2,0,African Cup of Nations,2,1,0
+339,2019-06-25,Ghana,Benin,2,2,African Cup of Nations,0,0,1
+340,2019-06-26,Uganda,Zimbabwe,1,1,African Cup of Nations,0,0,1
+341,2019-06-26,Egypt,DR Congo,2,0,African Cup of Nations,2,1,0
+342,2019-06-26,Nigeria,Guinea,1,0,African Cup of Nations,1,1,0
+343,2019-06-27,Madagascar,Burundi,1,0,African Cup of Nations,1,1,0
+344,2019-06-27,Senegal,Algeria,0,1,African Cup of Nations,-1,0,1
+345,2019-06-27,Kenya,Tanzania,3,2,African Cup of Nations,1,1,0
+347,2019-06-28,Morocco,Ivory Coast,1,0,African Cup of Nations,1,1,0
+348,2019-06-28,South Africa,Namibia,1,0,African Cup of Nations,1,1,0
+349,2019-06-28,Tunisia,Mali,1,1,African Cup of Nations,0,0,1
+351,2019-06-28,Venezuela,Argentina,0,2,Copa América,-2,0,1
+356,2019-06-30,Egypt,Uganda,2,0,African Cup of Nations,2,1,0
+357,2019-06-30,Zimbabwe,DR Congo,0,4,African Cup of Nations,-4,0,1
+358,2019-06-30,Burundi,Guinea,0,2,African Cup of Nations,-2,0,1
+359,2019-06-30,Madagascar,Nigeria,2,0,African Cup of Nations,2,1,0
+360,2019-07-01,Kenya,Senegal,0,3,African Cup of Nations,-3,0,1
+361,2019-07-01,Tanzania,Algeria,0,3,African Cup of Nations,-3,0,1
+362,2019-07-01,Namibia,Ivory Coast,1,4,African Cup of Nations,-3,0,1
+363,2019-07-01,South Africa,Morocco,0,1,African Cup of Nations,-1,0,1
+364,2019-07-02,Angola,Mali,0,1,African Cup of Nations,-1,0,1
+367,2019-07-02,Guinea-Bissau,Ghana,0,2,African Cup of Nations,-2,0,1
+368,2019-07-02,Brazil,Argentina,2,0,Copa América,2,1,0
+369,2019-07-03,Chile,Peru,0,3,Copa América,-3,0,1
+370,2019-07-05,Morocco,Benin,1,1,African Cup of Nations,0,0,1
+371,2019-07-05,Uganda,Senegal,0,1,African Cup of Nations,-1,0,1
+372,2019-07-06,Egypt,South Africa,0,1,African Cup of Nations,-1,0,1
+373,2019-07-06,Nigeria,Cameroon,3,2,African Cup of Nations,1,1,0
+374,2019-07-06,Argentina,Chile,2,1,Copa América,1,1,0
+375,2019-07-07,Algeria,Guinea,3,0,African Cup of Nations,3,1,0
+376,2019-07-07,Madagascar,DR Congo,2,2,African Cup of Nations,0,0,1
+377,2019-07-07,Brazil,Peru,3,1,Copa América,2,1,0
+378,2019-07-08,Ghana,Tunisia,1,1,African Cup of Nations,0,0,1
+379,2019-07-08,Mali,Ivory Coast,0,1,African Cup of Nations,-1,0,1
+380,2019-07-10,Nigeria,South Africa,2,1,African Cup of Nations,1,1,0
+381,2019-07-10,Senegal,Benin,1,0,African Cup of Nations,1,1,0
+382,2019-07-11,Ivory Coast,Algeria,1,1,African Cup of Nations,0,0,1
+383,2019-07-11,Madagascar,Tunisia,0,3,African Cup of Nations,-3,0,1
+384,2019-07-14,Algeria,Nigeria,2,1,African Cup of Nations,1,1,0
+385,2019-07-14,Senegal,Tunisia,1,0,African Cup of Nations,1,1,0
+386,2019-07-17,Tunisia,Nigeria,0,1,African Cup of Nations,-1,0,1
+387,2019-07-19,Senegal,Algeria,0,1,African Cup of Nations,-1,0,1
+388,2019-07-21,Equatorial Guinea,Liberia,1,1,Friendly,0,0,1
+389,2019-08-11,Saint Vincent and the Grenadines,Trinidad and Tobago,1,0,Friendly,1,1,0
+391,2019-08-27,Saint Kitts and Nevis,Antigua and Barbuda,4,3,Friendly,1,1,0
+392,2019-08-28,Belize,Saint Vincent and the Grenadines,1,1,Friendly,0,0,1
+393,2019-08-28,Taiwan,Guam,3,0,Friendly,3,1,0
+394,2019-08-29,United Arab Emirates,Dominican Republic,4,0,Friendly,4,1,0
+395,2019-08-30,Belize,Saint Vincent and the Grenadines,1,0,Friendly,1,1,0
+396,2019-08-30,China PR,Myanmar,4,1,Friendly,3,1,0
+397,2019-08-30,Malaysia,Jordan,0,1,Friendly,-1,0,1
+398,2019-08-31,United Arab Emirates,Sri Lanka,5,1,Friendly,4,1,0
+399,2019-09-04,Libya,Burkina Faso,0,1,Friendly,-1,0,1
+400,2019-09-04,Burundi,Tanzania,1,1,FIFA World Cup qualification,0,0,1
+401,2019-09-04,Djibouti,Eswatini,2,1,FIFA World Cup qualification,1,1,0
+402,2019-09-04,Eritrea,Namibia,1,2,FIFA World Cup qualification,-1,0,1
+404,2019-09-04,Liberia,Sierra Leone,3,1,FIFA World Cup qualification,2,1,0
+405,2019-09-04,Mauritius,Mozambique,0,1,FIFA World Cup qualification,-1,0,1
+406,2019-09-04,São Tomé and Príncipe,Guinea-Bissau,0,1,FIFA World Cup qualification,-1,0,1
+407,2019-09-04,South Sudan,Equatorial Guinea,1,1,FIFA World Cup qualification,0,0,1
+409,2019-09-05,Honduras,Puerto Rico,4,0,Friendly,4,1,0
+410,2019-09-05,South Korea,Georgia,2,2,Friendly,0,0,1
+411,2019-09-05,Montenegro,Hungary,2,1,Friendly,1,1,0
+412,2019-09-05,Northern Ireland,Luxembourg,1,0,Friendly,1,1,0
+413,2019-09-05,Peru,Ecuador,0,1,Friendly,-1,0,1
+414,2019-09-05,Saudi Arabia,Mali,1,1,Friendly,0,0,1
+415,2019-09-05,Republic of Ireland,Switzerland,1,1,UEFA Euro qualification,0,0,1
+416,2019-09-05,Gibraltar,Denmark,0,6,UEFA Euro qualification,-6,0,1
+417,2019-09-05,Faroe Islands,Sweden,0,4,UEFA Euro qualification,-4,0,1
+418,2019-09-05,Norway,Malta,2,0,UEFA Euro qualification,2,1,0
+419,2019-09-05,Romania,Spain,1,2,UEFA Euro qualification,-1,0,1
+420,2019-09-05,Israel,North Macedonia,1,1,UEFA Euro qualification,0,0,1
+421,2019-09-05,Armenia,Italy,1,3,UEFA Euro qualification,-2,0,1
+422,2019-09-05,Bosnia and Herzegovina,Liechtenstein,5,0,UEFA Euro qualification,5,1,0
+423,2019-09-05,Finland,Greece,1,0,UEFA Euro qualification,1,1,0
+424,2019-09-05,Guam,Maldives,0,1,FIFA World Cup qualification,-1,0,1
+425,2019-09-05,Philippines,Syria,2,5,FIFA World Cup qualification,-3,0,1
+426,2019-09-05,Taiwan,Jordan,1,2,FIFA World Cup qualification,-1,0,1
+427,2019-09-05,Kuwait,Nepal,7,0,FIFA World Cup qualification,7,1,0
+428,2019-09-05,Cambodia,Hong Kong,1,1,FIFA World Cup qualification,0,0,1
+429,2019-09-05,Bahrain,Iraq,1,1,FIFA World Cup qualification,0,0,1
+430,2019-09-05,Palestine,Uzbekistan,2,0,FIFA World Cup qualification,2,1,0
+431,2019-09-05,Singapore,Yemen,2,2,FIFA World Cup qualification,0,0,1
+432,2019-09-05,India,Oman,1,2,FIFA World Cup qualification,-1,0,1
+433,2019-09-05,Qatar,Afghanistan,6,0,FIFA World Cup qualification,6,1,0
+434,2019-09-05,Mongolia,Myanmar,1,0,FIFA World Cup qualification,1,1,0
+435,2019-09-05,Tajikistan,Kyrgyzstan,1,0,FIFA World Cup qualification,1,1,0
+437,2019-09-05,Indonesia,Malaysia,2,3,FIFA World Cup qualification,-1,0,1
+438,2019-09-05,North Korea,Lebanon,2,0,FIFA World Cup qualification,2,1,0
+439,2019-09-05,Sri Lanka,Turkmenistan,0,2,FIFA World Cup qualification,-2,0,1
+440,2019-09-05,Chad,Sudan,1,3,FIFA World Cup qualification,-2,0,1
+441,2019-09-05,Seychelles,Rwanda,0,3,FIFA World Cup qualification,-3,0,1
+442,2019-09-05,Somalia,Zimbabwe,1,0,FIFA World Cup qualification,1,1,0
+443,2019-09-06,Brazil,Colombia,2,2,Friendly,0,0,1
+444,2019-09-06,Costa Rica,Uruguay,1,2,Friendly,-1,0,1
+445,2019-09-06,Ivory Coast,Benin,1,2,Friendly,-1,0,1
+446,2019-09-06,Morocco,Burkina Faso,1,1,Friendly,0,0,1
+447,2019-09-06,Tunisia,Mauritania,1,0,Friendly,1,1,0
+448,2019-09-06,United States,Mexico,0,3,Friendly,-3,0,1
+449,2019-09-06,Estonia,Belarus,1,2,UEFA Euro qualification,-1,0,1
+450,2019-09-06,Germany,Netherlands,2,4,UEFA Euro qualification,-2,0,1
+451,2019-09-06,Wales,Azerbaijan,2,1,UEFA Euro qualification,1,1,0
+452,2019-09-06,Slovakia,Croatia,0,4,UEFA Euro qualification,-4,0,1
+453,2019-09-06,Austria,Latvia,6,0,UEFA Euro qualification,6,1,0
+454,2019-09-06,Slovenia,Poland,2,0,UEFA Euro qualification,2,1,0
+455,2019-09-06,Cyprus,Kazakhstan,1,1,UEFA Euro qualification,0,0,1
+456,2019-09-06,Scotland,Russia,1,2,UEFA Euro qualification,-1,0,1
+457,2019-09-06,San Marino,Belgium,0,4,UEFA Euro qualification,-4,0,1
+458,2019-09-06,Comoros,Togo,1,1,FIFA World Cup qualification,0,0,1
+459,2019-09-06,Gambia,Angola,0,1,FIFA World Cup qualification,-1,0,1
+460,2019-09-07,Libya,Niger,2,0,Friendly,2,1,0
+461,2019-09-07,Kosovo,Czech Republic,2,1,UEFA Euro qualification,1,1,0
+462,2019-09-07,England,Bulgaria,4,0,UEFA Euro qualification,4,1,0
+463,2019-09-07,Lithuania,Ukraine,0,3,UEFA Euro qualification,-3,0,1
+464,2019-09-07,Serbia,Portugal,2,4,UEFA Euro qualification,-2,0,1
+465,2019-09-07,Iceland,Moldova,3,0,UEFA Euro qualification,3,1,0
+466,2019-09-07,France,Albania,4,1,UEFA Euro qualification,3,1,0
+467,2019-09-07,Turkey,Andorra,1,0,UEFA Euro qualification,1,1,0
+469,2019-09-08,Kenya,Uganda,1,1,Friendly,0,0,1
+470,2019-09-08,Switzerland,Gibraltar,4,0,UEFA Euro qualification,4,1,0
+472,2019-09-08,Romania,Malta,1,0,UEFA Euro qualification,1,1,0
+473,2019-09-08,Spain,Faroe Islands,4,0,UEFA Euro qualification,4,1,0
+474,2019-09-08,Sweden,Norway,1,1,UEFA Euro qualification,0,0,1
+475,2019-09-08,Armenia,Bosnia and Herzegovina,4,2,UEFA Euro qualification,2,1,0
+476,2019-09-08,Finland,Italy,1,2,UEFA Euro qualification,-1,0,1
+477,2019-09-08,Greece,Liechtenstein,1,1,UEFA Euro qualification,0,0,1
+478,2019-09-08,Equatorial Guinea,South Sudan,1,0,FIFA World Cup qualification,1,1,0
+479,2019-09-08,Lesotho,Ethiopia,1,1,FIFA World Cup qualification,0,0,1
+480,2019-09-08,Sierra Leone,Liberia,1,0,FIFA World Cup qualification,1,1,0
+481,2019-09-08,Tanzania,Burundi,1,1,FIFA World Cup qualification,0,0,1
+482,2019-09-09,Algeria,Benin,1,0,Friendly,1,1,0
+484,2019-09-09,Wales,Belarus,1,0,Friendly,1,1,0
+485,2019-09-09,Northern Ireland,Germany,0,2,UEFA Euro qualification,-2,0,1
+486,2019-09-09,Estonia,Netherlands,0,4,UEFA Euro qualification,-4,0,1
+487,2019-09-09,Azerbaijan,Croatia,1,1,UEFA Euro qualification,0,0,1
+488,2019-09-09,Hungary,Slovakia,1,2,UEFA Euro qualification,-1,0,1
+490,2019-09-09,Slovenia,Israel,3,2,UEFA Euro qualification,1,1,0
+491,2019-09-09,Latvia,North Macedonia,0,2,UEFA Euro qualification,-2,0,1
+492,2019-09-09,Scotland,Belgium,0,4,UEFA Euro qualification,-4,0,1
+493,2019-09-09,Russia,Kazakhstan,1,0,UEFA Euro qualification,1,1,0
+494,2019-09-09,San Marino,Cyprus,0,4,UEFA Euro qualification,-4,0,1
+495,2019-09-10,Argentina,Mexico,4,0,Friendly,4,1,0
+496,2019-09-10,Brazil,Peru,0,1,Friendly,-1,0,1
+498,2019-09-10,Ecuador,Bolivia,3,0,Friendly,3,1,0
+499,2019-09-10,Honduras,Chile,2,1,Friendly,1,1,0
+500,2019-09-10,Ivory Coast,Tunisia,2,1,Friendly,1,1,0
+501,2019-09-10,Jordan,Paraguay,2,4,Friendly,-2,0,1
+502,2019-09-10,Morocco,Niger,1,0,Friendly,1,1,0
+503,2019-09-10,Oman,Lebanon,1,0,Friendly,1,1,0
+504,2019-09-10,Republic of Ireland,Bulgaria,3,1,Friendly,2,1,0
+505,2019-09-10,Ukraine,Nigeria,2,2,Friendly,0,0,1
+506,2019-09-10,United States,Uruguay,1,1,Friendly,0,0,1
+507,2019-09-10,England,Kosovo,5,3,UEFA Euro qualification,2,1,0
+508,2019-09-10,Montenegro,Czech Republic,0,3,UEFA Euro qualification,-3,0,1
+509,2019-09-10,Luxembourg,Serbia,1,3,UEFA Euro qualification,-2,0,1
+510,2019-09-10,Lithuania,Portugal,1,5,UEFA Euro qualification,-4,0,1
+511,2019-09-10,Albania,Iceland,4,2,UEFA Euro qualification,2,1,0
+512,2019-09-10,France,Andorra,3,0,UEFA Euro qualification,3,1,0
+513,2019-09-10,Moldova,Turkey,0,4,UEFA Euro qualification,-4,0,1
+514,2019-09-10,Guam,Philippines,1,4,FIFA World Cup qualification,-3,0,1
+515,2019-09-10,Maldives,China PR,0,5,FIFA World Cup qualification,-5,0,1
+516,2019-09-10,Kuwait,Australia,0,3,FIFA World Cup qualification,-3,0,1
+517,2019-09-10,Taiwan,Nepal,0,2,FIFA World Cup qualification,-2,0,1
+518,2019-09-10,Cambodia,Bahrain,0,1,FIFA World Cup qualification,-1,0,1
+519,2019-09-10,Hong Kong,Iran,0,2,FIFA World Cup qualification,-2,0,1
+520,2019-09-10,Yemen,Saudi Arabia,2,2,FIFA World Cup qualification,0,0,1
+521,2019-09-10,Singapore,Palestine,2,1,FIFA World Cup qualification,1,1,0
+522,2019-09-10,Afghanistan,Bangladesh,1,0,FIFA World Cup qualification,1,1,0
+524,2019-09-10,Mongolia,Tajikistan,0,1,FIFA World Cup qualification,-1,0,1
+525,2019-09-10,Myanmar,Japan,0,2,FIFA World Cup qualification,-2,0,1
+526,2019-09-10,Indonesia,Thailand,0,3,FIFA World Cup qualification,-3,0,1
+527,2019-09-10,Malaysia,United Arab Emirates,1,2,FIFA World Cup qualification,-1,0,1
+528,2019-09-10,Turkmenistan,South Korea,0,2,FIFA World Cup qualification,-2,0,1
+529,2019-09-10,Sri Lanka,North Korea,0,1,FIFA World Cup qualification,-1,0,1
+530,2019-09-10,Angola,Gambia,2,1,FIFA World Cup qualification,1,1,0
+531,2019-09-10,Guinea-Bissau,São Tomé and Príncipe,2,1,FIFA World Cup qualification,1,1,0
+532,2019-09-10,Malawi,Botswana,1,0,FIFA World Cup qualification,1,1,0
+533,2019-09-10,Mozambique,Mauritius,2,0,FIFA World Cup qualification,2,1,0
+534,2019-09-10,Namibia,Eritrea,2,0,FIFA World Cup qualification,2,1,0
+535,2019-09-10,Rwanda,Seychelles,7,0,FIFA World Cup qualification,7,1,0
+538,2019-09-10,Togo,Comoros,2,0,FIFA World Cup qualification,2,1,0
+539,2019-09-10,Zimbabwe,Somalia,3,1,FIFA World Cup qualification,2,1,0
+540,2019-09-18,DR Congo,Rwanda,2,3,Friendly,-1,0,1
+541,2019-09-29,Bangladesh,Bhutan,4,1,Friendly,3,1,0
+543,2019-10-02,Mexico,Trinidad and Tobago,2,0,Friendly,2,1,0
+544,2019-10-03,Bangladesh,Bhutan,2,0,Friendly,2,1,0
+546,2019-10-05,Malaysia,Sri Lanka,6,0,Friendly,6,1,0
+547,2019-10-09,Djibouti,Gambia,1,1,African Cup of Nations qualification,0,0,1
+548,2019-10-09,Liberia,Chad,1,0,African Cup of Nations qualification,1,1,0
+549,2019-10-09,Mauritius,São Tomé and Príncipe,1,3,African Cup of Nations qualification,-2,0,1
+550,2019-10-09,South Sudan,Seychelles,2,1,African Cup of Nations qualification,1,1,0
+551,2019-10-09,Bahrain,Azerbaijan,2,3,Friendly,-1,0,1
+552,2019-10-09,Germany,Argentina,2,2,Friendly,0,0,1
+554,2019-10-10,Netherlands,Northern Ireland,3,1,UEFA Euro qualification,2,1,0
+555,2019-10-10,Croatia,Hungary,3,0,UEFA Euro qualification,3,1,0
+556,2019-10-10,Slovakia,Wales,1,1,UEFA Euro qualification,0,0,1
+557,2019-10-10,Austria,Israel,3,1,UEFA Euro qualification,2,1,0
+558,2019-10-10,North Macedonia,Slovenia,2,1,UEFA Euro qualification,1,1,0
+559,2019-10-10,Latvia,Poland,0,3,UEFA Euro qualification,-3,0,1
+560,2019-10-10,Kazakhstan,Cyprus,1,2,UEFA Euro qualification,-1,0,1
+561,2019-10-10,Belgium,San Marino,9,0,UEFA Euro qualification,9,1,0
+562,2019-10-10,Russia,Scotland,4,0,UEFA Euro qualification,4,1,0
+563,2019-10-10,Algeria,DR Congo,1,1,Friendly,0,0,1
+564,2019-10-10,Brazil,Senegal,1,1,Friendly,0,0,1
+565,2019-10-10,Cape Verde,Togo,2,1,Friendly,1,1,0
+566,2019-10-10,Gabon,Burkina Faso,1,0,Friendly,1,1,0
+567,2019-10-10,Kosovo,Gibraltar,1,0,Friendly,1,1,0
+568,2019-10-10,Niger,Zambia,1,1,Friendly,0,0,1
+569,2019-10-10,Serbia,Paraguay,1,0,Friendly,1,1,0
+570,2019-10-10,Thailand,Congo,1,1,Friendly,0,0,1
+571,2019-10-10,Venezuela,Bolivia,4,1,Friendly,3,1,0
+572,2019-10-10,Syria,Maldives,2,1,FIFA World Cup qualification,1,1,0
+573,2019-10-10,China PR,Guam,7,0,FIFA World Cup qualification,7,1,0
+575,2019-10-10,Australia,Nepal,5,0,FIFA World Cup qualification,5,1,0
+576,2019-10-10,Iran,Cambodia,14,0,FIFA World Cup qualification,14,1,0
+577,2019-10-10,Iraq,Hong Kong,2,0,FIFA World Cup qualification,2,1,0
+578,2019-10-10,Uzbekistan,Yemen,5,0,FIFA World Cup qualification,5,1,0
+579,2019-10-10,Saudi Arabia,Singapore,3,0,FIFA World Cup qualification,3,1,0
+580,2019-10-10,Bangladesh,Qatar,0,2,FIFA World Cup qualification,-2,0,1
+581,2019-10-10,Oman,Afghanistan,3,0,FIFA World Cup qualification,3,1,0
+582,2019-10-10,Japan,Mongolia,6,0,FIFA World Cup qualification,6,1,0
+583,2019-10-10,Kyrgyzstan,Myanmar,7,0,FIFA World Cup qualification,7,1,0
+584,2019-10-10,United Arab Emirates,Indonesia,5,0,FIFA World Cup qualification,5,1,0
+585,2019-10-10,Vietnam,Malaysia,1,0,FIFA World Cup qualification,1,1,0
+586,2019-10-10,Lebanon,Turkmenistan,2,1,FIFA World Cup qualification,1,1,0
+587,2019-10-10,South Korea,Sri Lanka,8,0,FIFA World Cup qualification,8,1,0
+588,2019-10-11,Czech Republic,England,2,1,UEFA Euro qualification,1,1,0
+590,2019-10-11,Portugal,Luxembourg,3,0,UEFA Euro qualification,3,1,0
+591,2019-10-11,Ukraine,Lithuania,2,0,UEFA Euro qualification,2,1,0
+592,2019-10-11,Iceland,France,0,1,UEFA Euro qualification,-1,0,1
+593,2019-10-11,Andorra,Moldova,1,0,UEFA Euro qualification,1,1,0
+594,2019-10-11,Turkey,Albania,1,0,UEFA Euro qualification,1,1,0
+595,2019-10-11,Morocco,Libya,1,1,Friendly,0,0,1
+596,2019-10-11,Uruguay,Peru,1,0,Friendly,1,1,0
+598,2019-10-12,Denmark,Switzerland,1,0,UEFA Euro qualification,1,1,0
+599,2019-10-12,Faroe Islands,Romania,0,3,UEFA Euro qualification,-3,0,1
+600,2019-10-12,Malta,Sweden,0,4,UEFA Euro qualification,-4,0,1
+601,2019-10-12,Norway,Spain,1,1,UEFA Euro qualification,0,0,1
+602,2019-10-12,Bosnia and Herzegovina,Finland,4,1,UEFA Euro qualification,3,1,0
+603,2019-10-12,Italy,Greece,2,0,UEFA Euro qualification,2,1,0
+604,2019-10-12,Liechtenstein,Armenia,1,1,UEFA Euro qualification,0,0,1
+606,2019-10-12,Guinea,Comoros,0,1,Friendly,-1,0,1
+607,2019-10-12,Ivory Coast,DR Congo,3,1,Friendly,2,1,0
+609,2019-10-13,Belarus,Netherlands,1,2,UEFA Euro qualification,-1,0,1
+610,2019-10-13,Estonia,Germany,0,3,UEFA Euro qualification,-3,0,1
+611,2019-10-13,Hungary,Azerbaijan,1,0,UEFA Euro qualification,1,1,0
+612,2019-10-13,Wales,Croatia,1,1,UEFA Euro qualification,0,0,1
+613,2019-10-13,Poland,North Macedonia,2,0,UEFA Euro qualification,2,1,0
+614,2019-10-13,Slovenia,Austria,0,1,UEFA Euro qualification,-1,0,1
+615,2019-10-13,Scotland,San Marino,6,0,UEFA Euro qualification,6,1,0
+616,2019-10-13,Cyprus,Russia,0,5,UEFA Euro qualification,-5,0,1
+617,2019-10-13,Kazakhstan,Belgium,0,2,UEFA Euro qualification,-2,0,1
+618,2019-10-13,Gambia,Djibouti,1,1,African Cup of Nations qualification,0,0,1
+619,2019-10-13,Chad,Liberia,1,0,African Cup of Nations qualification,1,1,0
+620,2019-10-13,São Tomé and Príncipe,Mauritius,2,1,African Cup of Nations qualification,1,1,0
+621,2019-10-13,Seychelles,South Sudan,0,1,African Cup of Nations qualification,-1,0,1
+622,2019-10-13,Benin,Zambia,2,2,Friendly,0,0,1
+623,2019-10-13,Brazil,Nigeria,1,1,Friendly,0,0,1
+624,2019-10-13,Ecuador,Argentina,1,6,Friendly,-5,0,1
+625,2019-10-13,Equatorial Guinea,Togo,1,1,Friendly,0,0,1
+626,2019-10-13,Ethiopia,Uganda,0,1,Friendly,-1,0,1
+627,2019-10-13,Kenya,Mozambique,0,1,Friendly,-1,0,1
+628,2019-10-13,Lesotho,Malawi,1,1,Friendly,0,0,1
+629,2019-10-13,Niger,Central African Republic,0,2,Friendly,-2,0,1
+630,2019-10-13,Slovakia,Paraguay,1,1,Friendly,0,0,1
+631,2019-10-13,South Africa,Mali,2,1,Friendly,1,1,0
+632,2019-10-14,Kosovo,Montenegro,2,0,UEFA Euro qualification,2,1,0
+633,2019-10-14,Bulgaria,England,0,6,UEFA Euro qualification,-6,0,1
+634,2019-10-14,Lithuania,Serbia,1,2,UEFA Euro qualification,-1,0,1
+635,2019-10-14,Ukraine,Portugal,2,1,UEFA Euro qualification,1,1,0
+636,2019-10-14,Iceland,Andorra,2,0,UEFA Euro qualification,2,1,0
+637,2019-10-14,France,Turkey,1,1,UEFA Euro qualification,0,0,1
+638,2019-10-14,Moldova,Albania,0,4,UEFA Euro qualification,-4,0,1
+639,2019-10-14,Czech Republic,Northern Ireland,2,3,Friendly,-1,0,1
+640,2019-10-14,Egypt,Botswana,1,0,Friendly,1,1,0
+642,2019-10-14,Venezuela,Trinidad and Tobago,2,0,Friendly,2,1,0
+643,2019-10-15,Gibraltar,Georgia,2,3,UEFA Euro qualification,-1,0,1
+644,2019-10-15,Switzerland,Republic of Ireland,2,0,UEFA Euro qualification,2,1,0
+645,2019-10-15,Faroe Islands,Malta,1,0,UEFA Euro qualification,1,1,0
+646,2019-10-15,Sweden,Spain,1,1,UEFA Euro qualification,0,0,1
+647,2019-10-15,Romania,Norway,1,1,UEFA Euro qualification,0,0,1
+648,2019-10-15,Israel,Latvia,3,1,UEFA Euro qualification,2,1,0
+649,2019-10-15,Finland,Armenia,3,0,UEFA Euro qualification,3,1,0
+650,2019-10-15,Liechtenstein,Italy,0,5,UEFA Euro qualification,-5,0,1
+651,2019-10-15,Greece,Bosnia and Herzegovina,2,1,UEFA Euro qualification,1,1,0
+652,2019-10-15,Algeria,Colombia,3,0,Friendly,3,1,0
+654,2019-10-15,Bolivia,Haiti,3,1,Friendly,2,1,0
+655,2019-10-15,Chile,Guinea,3,2,Friendly,1,1,0
+656,2019-10-15,Denmark,Luxembourg,4,0,Friendly,4,1,0
+657,2019-10-15,Kuwait,Turkmenistan,1,1,Friendly,0,0,1
+659,2019-10-15,Morocco,Gabon,2,3,Friendly,-1,0,1
+660,2019-10-15,Peru,Uruguay,1,1,Friendly,0,0,1
+661,2019-10-15,Syria,Guam,4,0,FIFA World Cup qualification,4,1,0
+663,2019-10-15,Jordan,Nepal,3,0,FIFA World Cup qualification,3,1,0
+664,2019-10-15,Taiwan,Australia,1,7,FIFA World Cup qualification,-6,0,1
+665,2019-10-15,Cambodia,Iraq,0,4,FIFA World Cup qualification,-4,0,1
+666,2019-10-15,Bahrain,Iran,1,0,FIFA World Cup qualification,1,1,0
+668,2019-10-15,Singapore,Uzbekistan,1,3,FIFA World Cup qualification,-2,0,1
+669,2019-10-15,India,Bangladesh,1,1,FIFA World Cup qualification,0,0,1
+670,2019-10-15,Qatar,Oman,2,1,FIFA World Cup qualification,1,1,0
+671,2019-10-15,Mongolia,Kyrgyzstan,1,2,FIFA World Cup qualification,-1,0,1
+672,2019-10-15,Tajikistan,Japan,0,3,FIFA World Cup qualification,-3,0,1
+673,2019-10-15,Thailand,United Arab Emirates,2,1,FIFA World Cup qualification,1,1,0
+674,2019-10-15,Indonesia,Vietnam,1,3,FIFA World Cup qualification,-2,0,1
+676,2019-10-15,Sri Lanka,Lebanon,0,3,FIFA World Cup qualification,-3,0,1
+677,2019-11-07,Egypt,Liberia,1,0,Friendly,1,1,0
+679,2019-11-09,Malaysia,Tajikistan,1,0,Friendly,1,1,0
+680,2019-11-09,Namibia,Zambia,0,2,Friendly,-2,0,1
+681,2019-11-09,Uzbekistan,Kyrgyzstan,3,1,Friendly,2,1,0
+682,2019-11-10,Nicaragua,Cuba,0,1,Friendly,-1,0,1
+683,2019-11-10,Trinidad and Tobago,Anguilla,15,0,Friendly,15,1,0
+684,2019-11-13,Namibia,Chad,2,1,African Cup of Nations qualification,1,1,0
+685,2019-11-13,Malawi,South Sudan,1,0,African Cup of Nations qualification,1,1,0
+687,2019-11-13,Sudan,São Tomé and Príncipe,4,0,African Cup of Nations qualification,4,1,0
+688,2019-11-13,Angola,Gambia,1,3,African Cup of Nations qualification,-2,0,1
+689,2019-11-13,Central African Republic,Burundi,2,0,African Cup of Nations qualification,2,1,0
+691,2019-11-13,Guinea-Bissau,Eswatini,3,0,African Cup of Nations qualification,3,1,0
+692,2019-11-13,Senegal,Congo,2,0,African Cup of Nations qualification,2,1,0
+693,2019-11-13,Nigeria,Benin,2,1,African Cup of Nations qualification,1,1,0
+694,2019-11-13,Sierra Leone,Lesotho,1,1,African Cup of Nations qualification,0,0,1
+695,2019-11-14,Mali,Guinea,2,2,African Cup of Nations qualification,0,0,1
+696,2019-11-14,Ghana,South Africa,2,0,African Cup of Nations qualification,2,1,0
+698,2019-11-14,Mozambique,Rwanda,2,0,African Cup of Nations qualification,2,1,0
+699,2019-11-14,Egypt,Kenya,1,1,African Cup of Nations qualification,0,0,1
+700,2019-11-14,Togo,Comoros,0,1,African Cup of Nations qualification,-1,0,1
+701,2019-11-14,Algeria,Zambia,5,0,African Cup of Nations qualification,5,1,0
+702,2019-11-14,England,Montenegro,7,0,UEFA Euro qualification,7,1,0
+703,2019-11-14,Czech Republic,Kosovo,2,1,UEFA Euro qualification,1,1,0
+704,2019-11-14,Portugal,Lithuania,6,0,UEFA Euro qualification,6,1,0
+705,2019-11-14,Serbia,Luxembourg,3,2,UEFA Euro qualification,1,1,0
+707,2019-11-14,Albania,Andorra,2,2,UEFA Euro qualification,0,0,1
+708,2019-11-14,France,Moldova,2,1,UEFA Euro qualification,1,1,0
+709,2019-11-14,Bulgaria,Paraguay,0,1,Friendly,-1,0,1
+710,2019-11-14,Cambodia,Mongolia,1,1,Friendly,0,0,1
+711,2019-11-14,Ecuador,Trinidad and Tobago,3,0,Friendly,3,1,0
+712,2019-11-14,Qatar,Singapore,2,0,Friendly,2,1,0
+713,2019-11-14,Republic of Ireland,New Zealand,3,1,Friendly,2,1,0
+714,2019-11-14,Ukraine,Estonia,1,0,Friendly,1,1,0
+715,2019-11-14,Maldives,Philippines,1,2,FIFA World Cup qualification,-1,0,1
+716,2019-11-14,Syria,China PR,2,1,FIFA World Cup qualification,1,1,0
+717,2019-11-14,Jordan,Australia,0,1,FIFA World Cup qualification,-1,0,1
+718,2019-11-14,Kuwait,Taiwan,9,0,FIFA World Cup qualification,9,1,0
+719,2019-11-14,Iraq,Iran,2,1,FIFA World Cup qualification,1,1,0
+721,2019-11-14,Uzbekistan,Saudi Arabia,2,3,FIFA World Cup qualification,-1,0,1
+722,2019-11-14,Yemen,Palestine,1,0,FIFA World Cup qualification,1,1,0
+723,2019-11-14,Afghanistan,India,1,1,FIFA World Cup qualification,0,0,1
+724,2019-11-14,Oman,Bangladesh,4,1,FIFA World Cup qualification,3,1,0
+725,2019-11-14,Myanmar,Tajikistan,4,3,FIFA World Cup qualification,1,1,0
+726,2019-11-14,Kyrgyzstan,Japan,0,2,FIFA World Cup qualification,-2,0,1
+727,2019-11-14,Vietnam,United Arab Emirates,1,0,FIFA World Cup qualification,1,1,0
+728,2019-11-14,Malaysia,Thailand,2,1,FIFA World Cup qualification,1,1,0
+730,2019-11-14,Turkmenistan,North Korea,3,1,FIFA World Cup qualification,2,1,0
+733,2019-11-15,Tanzania,Equatorial Guinea,2,1,African Cup of Nations qualification,1,1,0
+734,2019-11-15,Tunisia,Libya,4,1,African Cup of Nations qualification,3,1,0
+735,2019-11-15,Denmark,Gibraltar,6,0,UEFA Euro qualification,6,1,0
+736,2019-11-15,Switzerland,Georgia,1,0,UEFA Euro qualification,1,1,0
+737,2019-11-15,Norway,Faroe Islands,4,0,UEFA Euro qualification,4,1,0
+738,2019-11-15,Spain,Malta,7,0,UEFA Euro qualification,7,1,0
+739,2019-11-15,Romania,Sweden,0,2,UEFA Euro qualification,-2,0,1
+740,2019-11-15,Finland,Liechtenstein,3,0,UEFA Euro qualification,3,1,0
+741,2019-11-15,Bosnia and Herzegovina,Italy,0,3,UEFA Euro qualification,-3,0,1
+742,2019-11-15,Armenia,Greece,0,1,UEFA Euro qualification,-1,0,1
+743,2019-11-15,Colombia,Peru,1,0,Friendly,1,1,0
+744,2019-11-15,Hungary,Uruguay,1,2,Friendly,-1,0,1
+745,2019-11-16,Ivory Coast,Niger,1,0,African Cup of Nations qualification,1,1,0
+746,2019-11-16,Madagascar,Ethiopia,1,0,African Cup of Nations qualification,1,1,0
+748,2019-11-16,Germany,Belarus,4,0,UEFA Euro qualification,4,1,0
+749,2019-11-16,Croatia,Slovakia,3,1,UEFA Euro qualification,2,1,0
+750,2019-11-16,Azerbaijan,Wales,0,2,UEFA Euro qualification,-2,0,1
+751,2019-11-16,Slovenia,Latvia,1,0,UEFA Euro qualification,1,1,0
+752,2019-11-16,Austria,North Macedonia,2,1,UEFA Euro qualification,1,1,0
+753,2019-11-16,Israel,Poland,1,2,UEFA Euro qualification,-1,0,1
+754,2019-11-16,Cyprus,Scotland,1,2,UEFA Euro qualification,-1,0,1
+755,2019-11-16,San Marino,Kazakhstan,1,3,UEFA Euro qualification,-2,0,1
+756,2019-11-16,Russia,Belgium,1,4,UEFA Euro qualification,-3,0,1
+757,2019-11-17,Chad,Mali,0,2,African Cup of Nations qualification,-2,0,1
+758,2019-11-17,Guinea,Namibia,2,0,African Cup of Nations qualification,2,1,0
+759,2019-11-17,South Sudan,Burkina Faso,1,2,African Cup of Nations qualification,-1,0,1
+760,2019-11-17,Uganda,Malawi,2,0,African Cup of Nations qualification,2,1,0
+761,2019-11-17,South Africa,Sudan,1,0,African Cup of Nations qualification,1,1,0
+762,2019-11-17,Gabon,Angola,2,1,African Cup of Nations qualification,1,1,0
+763,2019-11-17,Rwanda,Cameroon,0,1,African Cup of Nations qualification,-1,0,1
+764,2019-11-17,Congo,Guinea-Bissau,3,0,African Cup of Nations qualification,3,1,0
+765,2019-11-17,Eswatini,Senegal,1,4,African Cup of Nations qualification,-3,0,1
+766,2019-11-17,Benin,Sierra Leone,1,0,African Cup of Nations qualification,1,1,0
+767,2019-11-17,Lesotho,Nigeria,2,4,African Cup of Nations qualification,-2,0,1
+768,2019-11-17,Kosovo,England,0,4,UEFA Euro qualification,-4,0,1
+769,2019-11-17,Bulgaria,Czech Republic,1,0,UEFA Euro qualification,1,1,0
+770,2019-11-17,Luxembourg,Portugal,0,2,UEFA Euro qualification,-2,0,1
+771,2019-11-17,Serbia,Ukraine,2,2,UEFA Euro qualification,0,0,1
+772,2019-11-17,Albania,France,0,2,UEFA Euro qualification,-2,0,1
+773,2019-11-17,Andorra,Turkey,0,2,UEFA Euro qualification,-2,0,1
+774,2019-11-17,Moldova,Iceland,1,2,UEFA Euro qualification,-1,0,1
+775,2019-11-17,Lithuania,New Zealand,1,0,Friendly,1,1,0
+776,2019-11-18,São Tomé and Príncipe,Ghana,0,1,African Cup of Nations qualification,-1,0,1
+777,2019-11-18,Gambia,DR Congo,2,2,African Cup of Nations qualification,0,0,1
+778,2019-11-18,Cape Verde,Mozambique,2,2,African Cup of Nations qualification,0,0,1
+780,2019-11-18,Kenya,Togo,1,1,African Cup of Nations qualification,0,0,1
+781,2019-11-18,Botswana,Algeria,0,1,African Cup of Nations qualification,-1,0,1
+782,2019-11-18,Niger,Madagascar,2,6,African Cup of Nations qualification,-4,0,1
+783,2019-11-18,Republic of Ireland,Denmark,1,1,UEFA Euro qualification,0,0,1
+784,2019-11-18,Gibraltar,Switzerland,1,6,UEFA Euro qualification,-5,0,1
+785,2019-11-18,Malta,Norway,1,2,UEFA Euro qualification,-1,0,1
+786,2019-11-18,Spain,Romania,5,0,UEFA Euro qualification,5,1,0
+787,2019-11-18,Sweden,Faroe Islands,3,0,UEFA Euro qualification,3,1,0
+788,2019-11-18,Italy,Armenia,9,1,UEFA Euro qualification,8,1,0
+789,2019-11-18,Liechtenstein,Bosnia and Herzegovina,0,3,UEFA Euro qualification,-3,0,1
+790,2019-11-18,Greece,Finland,2,1,UEFA Euro qualification,1,1,0
+791,2019-11-18,Argentina,Uruguay,2,2,Friendly,0,0,1
+792,2019-11-19,Burundi,Morocco,0,3,African Cup of Nations qualification,-3,0,1
+793,2019-11-19,Mauritania,Central African Republic,2,0,African Cup of Nations qualification,2,1,0
+794,2019-11-19,Zambia,Zimbabwe,1,2,African Cup of Nations qualification,-1,0,1
+795,2019-11-19,Equatorial Guinea,Tunisia,0,1,African Cup of Nations qualification,-1,0,1
+796,2019-11-19,Libya,Tanzania,2,1,African Cup of Nations qualification,1,1,0
+797,2019-11-19,Ethiopia,Ivory Coast,2,1,African Cup of Nations qualification,1,1,0
+798,2019-11-19,Germany,Northern Ireland,6,1,UEFA Euro qualification,5,1,0
+799,2019-11-19,Netherlands,Estonia,5,0,UEFA Euro qualification,5,1,0
+800,2019-11-19,Wales,Hungary,2,0,UEFA Euro qualification,2,1,0
+801,2019-11-19,Slovakia,Azerbaijan,2,0,UEFA Euro qualification,2,1,0
+802,2019-11-19,North Macedonia,Israel,1,0,UEFA Euro qualification,1,1,0
+803,2019-11-19,Poland,Slovenia,3,2,UEFA Euro qualification,1,1,0
+804,2019-11-19,Latvia,Austria,1,0,UEFA Euro qualification,1,1,0
+805,2019-11-19,Scotland,Kazakhstan,3,1,UEFA Euro qualification,2,1,0
+806,2019-11-19,Belgium,Cyprus,6,1,UEFA Euro qualification,5,1,0
+807,2019-11-19,San Marino,Russia,0,5,UEFA Euro qualification,-5,0,1
+808,2019-11-19,Brazil,South Korea,3,0,Friendly,3,1,0
+809,2019-11-19,Croatia,Georgia,2,1,Friendly,1,1,0
+810,2019-11-19,Ecuador,Colombia,0,1,Friendly,-1,0,1
+811,2019-11-19,Montenegro,Belarus,2,0,Friendly,2,1,0
+813,2019-11-19,Maldives,Guam,3,1,FIFA World Cup qualification,2,1,0
+814,2019-11-19,Syria,Philippines,1,0,FIFA World Cup qualification,1,1,0
+815,2019-11-19,Nepal,Kuwait,0,1,FIFA World Cup qualification,-1,0,1
+816,2019-11-19,Jordan,Taiwan,5,0,FIFA World Cup qualification,5,1,0
+818,2019-11-19,Hong Kong,Cambodia,2,0,FIFA World Cup qualification,2,1,0
+819,2019-11-19,Uzbekistan,Palestine,2,0,FIFA World Cup qualification,2,1,0
+820,2019-11-19,Yemen,Singapore,1,2,FIFA World Cup qualification,-1,0,1
+821,2019-11-19,Afghanistan,Qatar,0,1,FIFA World Cup qualification,-1,0,1
+822,2019-11-19,Oman,India,1,0,FIFA World Cup qualification,1,1,0
+823,2019-11-19,Myanmar,Mongolia,1,0,FIFA World Cup qualification,1,1,0
+824,2019-11-19,Kyrgyzstan,Tajikistan,1,1,FIFA World Cup qualification,0,0,1
+826,2019-11-19,Malaysia,Indonesia,2,0,FIFA World Cup qualification,2,1,0
+827,2019-11-19,Turkmenistan,Sri Lanka,2,0,FIFA World Cup qualification,2,1,0
+829,2019-11-21,Guatemala,Antigua and Barbuda,8,0,Friendly,8,1,0
+830,2020-01-07,Barbados,Canada,1,4,Friendly,-3,0,1
+831,2020-01-09,Moldova,Sweden,0,1,Friendly,-1,0,1
+832,2020-01-10,Barbados,Canada,1,4,Friendly,-3,0,1
+833,2020-01-12,Kosovo,Sweden,0,1,Friendly,-1,0,1
+834,2020-01-15,Canada,Iceland,0,1,Friendly,-1,0,1
+835,2020-01-19,El Salvador,Iceland,0,1,Friendly,-1,0,1
+836,2020-02-01,United States,Costa Rica,1,0,Friendly,1,1,0
+837,2020-09-03,Germany,Spain,1,1,UEFA Nations League,0,0,1
+838,2020-09-03,Ukraine,Switzerland,2,1,UEFA Nations League,1,1,0
+839,2020-09-03,Russia,Serbia,3,1,UEFA Nations League,2,1,0
+840,2020-09-03,Turkey,Hungary,0,1,UEFA Nations League,-1,0,1
+841,2020-09-03,Bulgaria,Republic of Ireland,1,1,UEFA Nations League,0,0,1
+842,2020-09-03,Finland,Wales,0,1,UEFA Nations League,-1,0,1
+843,2020-09-03,Moldova,Kosovo,1,1,UEFA Nations League,0,0,1
+846,2020-09-03,Faroe Islands,Malta,3,2,UEFA Nations League,1,1,0
+847,2020-09-04,Italy,Bosnia and Herzegovina,1,1,UEFA Nations League,0,0,1
+848,2020-09-04,Netherlands,Poland,1,0,UEFA Nations League,1,1,0
+849,2020-09-04,Norway,Austria,1,2,UEFA Nations League,-1,0,1
+850,2020-09-04,Romania,Northern Ireland,1,1,UEFA Nations League,0,0,1
+851,2020-09-04,Scotland,Israel,1,1,UEFA Nations League,0,0,1
+852,2020-09-04,Slovakia,Czech Republic,1,3,UEFA Nations League,-2,0,1
+853,2020-09-04,Lithuania,Kazakhstan,0,2,UEFA Nations League,-2,0,1
+854,2020-09-04,Belarus,Albania,0,2,UEFA Nations League,-2,0,1
+855,2020-09-05,Iceland,England,0,1,UEFA Nations League,-1,0,1
+856,2020-09-05,Denmark,Belgium,0,2,UEFA Nations League,-2,0,1
+857,2020-09-05,Portugal,Croatia,4,1,UEFA Nations League,3,1,0
+858,2020-09-05,Sweden,France,0,1,UEFA Nations League,-1,0,1
+859,2020-09-05,Cyprus,Montenegro,0,2,UEFA Nations League,-2,0,1
+860,2020-09-05,Azerbaijan,Luxembourg,1,2,UEFA Nations League,-1,0,1
+861,2020-09-05,North Macedonia,Armenia,2,1,UEFA Nations League,1,1,0
+862,2020-09-05,Estonia,Georgia,0,1,UEFA Nations League,-1,0,1
+863,2020-09-05,Gibraltar,San Marino,1,0,UEFA Nations League,1,1,0
+864,2020-09-06,Spain,Ukraine,4,0,UEFA Nations League,4,1,0
+865,2020-09-06,Switzerland,Germany,1,1,UEFA Nations League,0,0,1
+866,2020-09-06,Hungary,Russia,2,3,UEFA Nations League,-1,0,1
+868,2020-09-06,Wales,Bulgaria,1,0,UEFA Nations League,1,1,0
+869,2020-09-06,Republic of Ireland,Finland,0,1,UEFA Nations League,-1,0,1
+870,2020-09-06,Slovenia,Moldova,1,0,UEFA Nations League,1,1,0
+871,2020-09-06,Kosovo,Greece,1,2,UEFA Nations League,-1,0,1
+872,2020-09-06,Andorra,Faroe Islands,0,1,UEFA Nations League,-1,0,1
+873,2020-09-06,Malta,Latvia,1,1,UEFA Nations League,0,0,1
+874,2020-09-07,Bosnia and Herzegovina,Poland,1,2,UEFA Nations League,-1,0,1
+875,2020-09-07,Netherlands,Italy,0,1,UEFA Nations League,-1,0,1
+876,2020-09-07,Northern Ireland,Norway,1,5,UEFA Nations League,-4,0,1
+877,2020-09-07,Austria,Romania,2,3,UEFA Nations League,-1,0,1
+878,2020-09-07,Czech Republic,Scotland,1,2,UEFA Nations League,-1,0,1
+879,2020-09-07,Israel,Slovakia,1,1,UEFA Nations League,0,0,1
+880,2020-09-07,Kazakhstan,Belarus,1,2,UEFA Nations League,-1,0,1
+881,2020-09-07,Albania,Lithuania,0,1,UEFA Nations League,-1,0,1
+882,2020-09-08,Belgium,Iceland,5,1,UEFA Nations League,4,1,0
+884,2020-09-08,France,Croatia,4,2,UEFA Nations League,2,1,0
+885,2020-09-08,Sweden,Portugal,0,2,UEFA Nations League,-2,0,1
+886,2020-09-08,Luxembourg,Montenegro,0,1,UEFA Nations League,-1,0,1
+887,2020-09-08,Cyprus,Azerbaijan,0,1,UEFA Nations League,-1,0,1
+888,2020-09-08,Armenia,Estonia,2,0,UEFA Nations League,2,1,0
+889,2020-09-08,Georgia,North Macedonia,1,1,UEFA Nations League,0,0,1
+890,2020-09-08,San Marino,Liechtenstein,0,2,UEFA Nations League,-2,0,1
+892,2020-10-07,Andorra,Cape Verde,1,2,Friendly,-1,0,1
+893,2020-10-07,Austria,Greece,2,1,Friendly,1,1,0
+894,2020-10-07,Cyprus,Czech Republic,1,2,Friendly,-1,0,1
+895,2020-10-07,Denmark,Faroe Islands,4,0,Friendly,4,1,0
+896,2020-10-07,Estonia,Lithuania,1,3,Friendly,-2,0,1
+897,2020-10-07,France,Ukraine,7,1,Friendly,6,1,0
+898,2020-10-07,Germany,Turkey,3,3,Friendly,0,0,1
+899,2020-10-07,Italy,Moldova,6,0,Friendly,6,1,0
+900,2020-10-07,Luxembourg,Liechtenstein,1,2,Friendly,-1,0,1
+901,2020-10-07,Malta,Gibraltar,2,0,Friendly,2,1,0
+902,2020-10-07,Montenegro,Latvia,1,1,Friendly,0,0,1
+903,2020-10-07,Netherlands,Mexico,0,1,Friendly,-1,0,1
+904,2020-10-07,Poland,Finland,5,1,Friendly,4,1,0
+906,2020-10-07,Slovenia,San Marino,4,0,Friendly,4,1,0
+907,2020-10-07,Switzerland,Croatia,1,2,Friendly,-1,0,1
+908,2020-10-07,Zambia,Malawi,1,0,Friendly,1,1,0
+909,2020-10-08,Belgium,Ivory Coast,1,1,Friendly,0,0,1
+910,2020-10-08,England,Wales,3,0,Friendly,3,1,0
+911,2020-10-08,Russia,Sweden,1,2,Friendly,-1,0,1
+912,2020-10-08,South Africa,Namibia,1,1,Friendly,0,0,1
+913,2020-10-08,Uzbekistan,Iran,1,2,Friendly,-1,0,1
+914,2020-10-08,Paraguay,Peru,2,2,FIFA World Cup qualification,0,0,1
+915,2020-10-08,Uruguay,Chile,2,1,FIFA World Cup qualification,1,1,0
+916,2020-10-08,Argentina,Ecuador,1,0,FIFA World Cup qualification,1,1,0
+917,2020-10-08,Iceland,Romania,2,1,UEFA Euro qualification,1,1,0
+918,2020-10-08,Bulgaria,Hungary,1,3,UEFA Euro qualification,-2,0,1
+919,2020-10-08,Bosnia and Herzegovina,Northern Ireland,1,1,UEFA Euro qualification,0,0,1
+922,2020-10-08,Norway,Serbia,1,2,UEFA Euro qualification,-1,0,1
+923,2020-10-08,Georgia,Belarus,1,0,UEFA Euro qualification,1,1,0
+924,2020-10-08,North Macedonia,Kosovo,2,1,UEFA Euro qualification,1,1,0
+925,2020-10-09,Burkina Faso,DR Congo,3,0,Friendly,3,1,0
+926,2020-10-09,Congo,Gambia,0,1,Friendly,-1,0,1
+928,2020-10-09,Kenya,Zambia,2,1,Friendly,1,1,0
+929,2020-10-09,Mali,Ghana,3,0,Friendly,3,1,0
+930,2020-10-09,Mauritania,Sierra Leone,2,1,Friendly,1,1,0
+931,2020-10-09,Morocco,Senegal,3,1,Friendly,2,1,0
+932,2020-10-09,Nigeria,Algeria,0,1,Friendly,-1,0,1
+933,2020-10-09,Tunisia,Sudan,3,0,Friendly,3,1,0
+934,2020-10-09,Colombia,Venezuela,3,0,FIFA World Cup qualification,3,1,0
+935,2020-10-09,Brazil,Bolivia,5,0,FIFA World Cup qualification,5,1,0
+936,2020-10-10,Spain,Switzerland,1,0,UEFA Nations League,1,1,0
+937,2020-10-10,Ukraine,Germany,1,2,UEFA Nations League,-1,0,1
+938,2020-10-10,Luxembourg,Cyprus,2,0,UEFA Nations League,2,1,0
+939,2020-10-10,Montenegro,Azerbaijan,2,0,UEFA Nations League,2,1,0
+940,2020-10-10,Faroe Islands,Latvia,1,1,UEFA Nations League,0,0,1
+942,2020-10-10,Liechtenstein,Gibraltar,0,1,UEFA Nations League,-1,0,1
+943,2020-10-10,Cape Verde,Guinea,1,2,Friendly,-1,0,1
+944,2020-10-10,Costa Rica,Panama,0,1,Friendly,-1,0,1
+945,2020-10-10,Honduras,Nicaragua,1,1,Friendly,0,0,1
+946,2020-10-10,Niger,Chad,2,0,Friendly,2,1,0
+949,2020-10-11,England,Belgium,2,1,UEFA Nations League,1,1,0
+950,2020-10-11,Iceland,Denmark,0,3,UEFA Nations League,-3,0,1
+951,2020-10-11,Croatia,Sweden,2,1,UEFA Nations League,1,1,0
+953,2020-10-11,Norway,Romania,4,0,UEFA Nations League,4,1,0
+954,2020-10-11,Northern Ireland,Austria,0,1,UEFA Nations League,-1,0,1
+955,2020-10-11,Scotland,Slovakia,1,0,UEFA Nations League,1,1,0
+956,2020-10-11,Israel,Czech Republic,1,2,UEFA Nations League,-1,0,1
+957,2020-10-11,Serbia,Hungary,0,1,UEFA Nations League,-1,0,1
+958,2020-10-11,Russia,Turkey,1,1,UEFA Nations League,0,0,1
+960,2020-10-11,Finland,Bulgaria,2,0,UEFA Nations League,2,1,0
+961,2020-10-11,Armenia,Georgia,2,2,UEFA Nations League,0,0,1
+962,2020-10-11,Estonia,North Macedonia,3,3,UEFA Nations League,0,0,1
+963,2020-10-11,Kosovo,Slovenia,0,1,UEFA Nations League,-1,0,1
+964,2020-10-11,Greece,Moldova,2,0,UEFA Nations League,2,1,0
+966,2020-10-11,Lithuania,Belarus,2,2,UEFA Nations League,0,0,1
+967,2020-10-11,Gabon,Benin,0,2,Friendly,-2,0,1
+969,2020-10-11,South Africa,Zambia,1,2,Friendly,-1,0,1
+970,2020-10-11,Tanzania,Burundi,0,1,Friendly,-1,0,1
+971,2020-10-12,Burkina Faso,Madagascar,2,1,Friendly,1,1,0
+972,2020-10-12,Ghana,Qatar,5,1,Friendly,4,1,0
+973,2020-10-12,Togo,Sudan,1,1,Friendly,0,0,1
+974,2020-10-12,United Arab Emirates,Uzbekistan,1,2,Friendly,-1,0,1
+976,2020-10-13,Germany,Switzerland,3,3,UEFA Nations League,0,0,1
+977,2020-10-13,Ukraine,Spain,1,0,UEFA Nations League,1,1,0
+979,2020-10-13,Montenegro,Luxembourg,1,2,UEFA Nations League,-1,0,1
+980,2020-10-13,Latvia,Malta,0,1,UEFA Nations League,-1,0,1
+981,2020-10-13,Faroe Islands,Andorra,2,0,UEFA Nations League,2,1,0
+983,2020-10-13,Costa Rica,Panama,0,1,Friendly,-1,0,1
+984,2020-10-13,Japan,Ivory Coast,1,0,Friendly,1,1,0
+985,2020-10-13,Mexico,Algeria,2,2,Friendly,0,0,1
+986,2020-10-13,Morocco,DR Congo,1,1,Friendly,0,0,1
+987,2020-10-13,Mozambique,Angola,0,3,Friendly,-3,0,1
+988,2020-10-13,Niger,Sierra Leone,1,0,Friendly,1,1,0
+989,2020-10-13,Nigeria,Tunisia,1,1,Friendly,0,0,1
+990,2020-10-13,Bolivia,Argentina,1,2,FIFA World Cup qualification,-1,0,1
+991,2020-10-13,Ecuador,Uruguay,4,2,FIFA World Cup qualification,2,1,0
+992,2020-10-13,Venezuela,Paraguay,0,1,FIFA World Cup qualification,-1,0,1
+993,2020-10-13,Peru,Brazil,2,4,FIFA World Cup qualification,-2,0,1
+994,2020-10-13,Chile,Colombia,2,2,FIFA World Cup qualification,0,0,1
+995,2020-10-14,Italy,Netherlands,1,1,UEFA Nations League,0,0,1
+996,2020-10-14,Poland,Bosnia and Herzegovina,3,0,UEFA Nations League,3,1,0
+997,2020-10-14,Iceland,Belgium,1,2,UEFA Nations League,-1,0,1
+998,2020-10-14,England,Denmark,0,1,UEFA Nations League,-1,0,1
+999,2020-10-14,Portugal,Sweden,3,0,UEFA Nations League,3,1,0
+1000,2020-10-14,Croatia,France,1,2,UEFA Nations League,-1,0,1
+1001,2020-10-14,Norway,Northern Ireland,1,0,UEFA Nations League,1,1,0
+1002,2020-10-14,Romania,Austria,0,1,UEFA Nations League,-1,0,1
+1003,2020-10-14,Scotland,Czech Republic,1,0,UEFA Nations League,1,1,0
+1004,2020-10-14,Slovakia,Israel,2,3,UEFA Nations League,-1,0,1
+1006,2020-10-14,Turkey,Serbia,2,2,UEFA Nations League,0,0,1
+1007,2020-10-14,Finland,Republic of Ireland,1,0,UEFA Nations League,1,1,0
+1008,2020-10-14,Bulgaria,Wales,0,1,UEFA Nations League,-1,0,1
+1009,2020-10-14,North Macedonia,Georgia,1,1,UEFA Nations League,0,0,1
+1010,2020-10-14,Estonia,Armenia,1,1,UEFA Nations League,0,0,1
+1012,2020-10-14,Moldova,Slovenia,0,4,UEFA Nations League,-4,0,1
+1014,2020-10-14,Belarus,Kazakhstan,2,0,UEFA Nations League,2,1,0
+1015,2020-11-06,Ethiopia,Sudan,2,2,Friendly,0,0,1
+1016,2020-11-07,Bahrain,Tajikistan,1,0,Friendly,1,1,0
+1017,2020-11-11,Albania,Kosovo,2,1,Friendly,1,1,0
+1018,2020-11-11,Belgium,Switzerland,2,1,Friendly,1,1,0
+1019,2020-11-11,Bulgaria,Gibraltar,3,0,Friendly,3,1,0
+1020,2020-11-11,Denmark,Sweden,2,0,Friendly,2,1,0
+1021,2020-11-11,France,Finland,0,2,Friendly,-2,0,1
+1022,2020-11-11,Germany,Czech Republic,1,0,Friendly,1,1,0
+1023,2020-11-11,Greece,Cyprus,2,1,Friendly,1,1,0
+1024,2020-11-11,Italy,Estonia,4,0,Friendly,4,1,0
+1025,2020-11-11,Lithuania,Faroe Islands,2,1,Friendly,1,1,0
+1026,2020-11-11,Luxembourg,Austria,0,3,Friendly,-3,0,1
+1027,2020-11-11,Malta,Liechtenstein,3,0,Friendly,3,1,0
+1029,2020-11-11,Netherlands,Spain,1,1,Friendly,0,0,1
+1030,2020-11-11,Poland,Ukraine,2,0,Friendly,2,1,0
+1031,2020-11-11,Portugal,Andorra,7,0,Friendly,7,1,0
+1032,2020-11-11,Romania,Belarus,5,3,Friendly,2,1,0
+1033,2020-11-11,San Marino,Latvia,0,3,Friendly,-3,0,1
+1035,2020-11-11,Turkey,Croatia,3,3,Friendly,0,0,1
+1036,2020-11-12,Hungary,Iceland,2,1,UEFA Euro qualification,1,1,0
+1037,2020-11-12,Northern Ireland,Slovakia,1,2,UEFA Euro qualification,-1,0,1
+1038,2020-11-12,Serbia,Scotland,1,1,UEFA Euro qualification,0,0,1
+1039,2020-11-12,Georgia,North Macedonia,0,1,UEFA Euro qualification,-1,0,1
+1040,2020-11-12,Bosnia and Herzegovina,Iran,0,2,Friendly,-2,0,1
+1041,2020-11-12,England,Republic of Ireland,3,0,Friendly,3,1,0
+1043,2020-11-12,Lebanon,Bahrain,1,3,Friendly,-2,0,1
+1045,2020-11-12,United Arab Emirates,Tajikistan,3,2,Friendly,1,1,0
+1046,2020-11-12,Uzbekistan,Syria,0,1,Friendly,-1,0,1
+1048,2020-11-12,Bolivia,Ecuador,2,3,FIFA World Cup qualification,-1,0,1
+1049,2020-11-12,Argentina,Paraguay,1,1,FIFA World Cup qualification,0,0,1
+1050,2020-11-13,Bangladesh,Nepal,2,0,Friendly,2,1,0
+1051,2020-11-13,Costa Rica,Qatar,1,1,Friendly,0,0,1
+1052,2020-11-13,Japan,Panama,1,0,Friendly,1,1,0
+1053,2020-11-13,Colombia,Uruguay,0,3,FIFA World Cup qualification,-3,0,1
+1054,2020-11-13,Chile,Peru,2,0,FIFA World Cup qualification,2,1,0
+1055,2020-11-13,Brazil,Venezuela,1,0,FIFA World Cup qualification,1,1,0
+1056,2020-11-14,Portugal,France,0,1,UEFA Nations League,-1,0,1
+1057,2020-11-14,Sweden,Croatia,2,1,UEFA Nations League,1,1,0
+1058,2020-11-14,Germany,Ukraine,3,1,UEFA Nations League,2,1,0
+1059,2020-11-14,Switzerland,Spain,1,1,UEFA Nations League,0,0,1
+1061,2020-11-14,Cyprus,Luxembourg,2,1,UEFA Nations League,1,1,0
+1062,2020-11-14,Malta,Andorra,3,1,UEFA Nations League,2,1,0
+1063,2020-11-14,Latvia,Faroe Islands,1,1,UEFA Nations League,0,0,1
+1065,2020-11-14,Mexico,South Korea,3,2,Friendly,1,1,0
+1066,2020-11-14,Saudi Arabia,Jamaica,3,0,Friendly,3,1,0
+1067,2020-11-15,Netherlands,Bosnia and Herzegovina,3,1,UEFA Nations League,2,1,0
+1068,2020-11-15,Italy,Poland,2,0,UEFA Nations League,2,1,0
+1069,2020-11-15,Belgium,England,2,0,UEFA Nations League,2,1,0
+1070,2020-11-15,Denmark,Iceland,2,1,UEFA Nations League,1,1,0
+1071,2020-11-15,Austria,Northern Ireland,2,1,UEFA Nations League,1,1,0
+1072,2020-11-15,Romania,Norway,3,0,UEFA Nations League,3,1,0
+1073,2020-11-15,Slovakia,Scotland,1,0,UEFA Nations League,1,1,0
+1074,2020-11-15,Czech Republic,Israel,1,0,UEFA Nations League,1,1,0
+1075,2020-11-15,Turkey,Russia,3,2,UEFA Nations League,1,1,0
+1076,2020-11-15,Hungary,Serbia,1,1,UEFA Nations League,0,0,1
+1077,2020-11-15,Wales,Republic of Ireland,1,0,UEFA Nations League,1,1,0
+1078,2020-11-15,Bulgaria,Finland,1,2,UEFA Nations League,-1,0,1
+1079,2020-11-15,North Macedonia,Estonia,2,1,UEFA Nations League,1,1,0
+1080,2020-11-15,Georgia,Armenia,1,2,UEFA Nations League,-1,0,1
+1081,2020-11-15,Slovenia,Kosovo,2,1,UEFA Nations League,1,1,0
+1082,2020-11-15,Moldova,Greece,0,2,UEFA Nations League,-2,0,1
+1083,2020-11-15,Albania,Kazakhstan,3,1,UEFA Nations League,2,1,0
+1084,2020-11-15,Belarus,Lithuania,2,0,UEFA Nations League,2,1,0
+1085,2020-11-15,Guatemala,Honduras,2,1,Friendly,1,1,0
+1086,2020-11-16,Jordan,Syria,1,0,Friendly,1,1,0
+1087,2020-11-16,United Arab Emirates,Bahrain,1,0,Friendly,1,1,0
+1088,2020-11-16,United States,Panama,6,2,Friendly,4,1,0
+1089,2020-11-16,Basque Country,Costa Rica,2,1,Friendly,1,1,0
+1090,2020-11-17,Croatia,Portugal,2,3,UEFA Nations League,-1,0,1
+1091,2020-11-17,France,Sweden,4,2,UEFA Nations League,2,1,0
+1092,2020-11-17,Spain,Germany,6,0,UEFA Nations League,6,1,0
+1093,2020-11-17,Switzerland,Ukraine,3,0,UEFA Nations League,3,1,0
+1095,2020-11-17,Montenegro,Cyprus,4,0,UEFA Nations League,4,1,0
+1096,2020-11-17,Andorra,Latvia,0,5,UEFA Nations League,-5,0,1
+1097,2020-11-17,Malta,Faroe Islands,1,1,UEFA Nations League,0,0,1
+1098,2020-11-17,Gibraltar,Liechtenstein,1,1,UEFA Nations League,0,0,1
+1100,2020-11-17,Japan,Mexico,0,2,Friendly,-2,0,1
+1101,2020-11-17,South Korea,Qatar,2,1,Friendly,1,1,0
+1102,2020-11-17,Saudi Arabia,Jamaica,1,2,Friendly,-1,0,1
+1103,2020-11-17,Uzbekistan,Iraq,1,2,Friendly,-1,0,1
+1104,2020-11-17,Ecuador,Colombia,6,1,FIFA World Cup qualification,5,1,0
+1105,2020-11-17,Venezuela,Chile,2,1,FIFA World Cup qualification,1,1,0
+1106,2020-11-17,Peru,Argentina,0,2,FIFA World Cup qualification,-2,0,1
+1107,2020-11-17,Paraguay,Bolivia,2,2,FIFA World Cup qualification,0,0,1
+1108,2020-11-17,Uruguay,Brazil,0,2,FIFA World Cup qualification,-2,0,1
+1109,2020-11-18,Bosnia and Herzegovina,Italy,0,2,UEFA Nations League,-2,0,1
+1110,2020-11-18,Poland,Netherlands,1,2,UEFA Nations League,-1,0,1
+1111,2020-11-18,England,Iceland,4,0,UEFA Nations League,4,1,0
+1112,2020-11-18,Belgium,Denmark,4,2,UEFA Nations League,2,1,0
+1113,2020-11-18,Northern Ireland,Romania,1,1,UEFA Nations League,0,0,1
+1114,2020-11-18,Austria,Norway,1,1,UEFA Nations League,0,0,1
+1115,2020-11-18,Czech Republic,Slovakia,2,0,UEFA Nations League,2,1,0
+1116,2020-11-18,Israel,Scotland,1,0,UEFA Nations League,1,1,0
+1117,2020-11-18,Hungary,Turkey,2,0,UEFA Nations League,2,1,0
+1118,2020-11-18,Serbia,Russia,5,0,UEFA Nations League,5,1,0
+1120,2020-11-18,Wales,Finland,3,1,UEFA Nations League,2,1,0
+1121,2020-11-18,Armenia,North Macedonia,1,0,UEFA Nations League,1,1,0
+1123,2020-11-18,Kosovo,Moldova,1,0,UEFA Nations League,1,1,0
+1125,2020-11-18,Albania,Belarus,3,2,UEFA Nations League,1,1,0
+1126,2020-11-18,Kazakhstan,Lithuania,1,2,UEFA Nations League,-1,0,1
+1127,2020-12-04,Qatar,Bangladesh,5,0,FIFA World Cup qualification,5,1,0
+1128,2020-12-09,United States,El Salvador,6,0,Friendly,6,1,0
+1130,2021-01-18,Kuwait,Palestine,0,1,Friendly,-1,0,1
+1131,2021-01-19,Dominican Republic,Puerto Rico,0,1,Friendly,-1,0,1
+1132,2021-01-22,Guatemala,Puerto Rico,1,0,Friendly,1,1,0
+1134,2021-01-27,Iraq,Kuwait,2,1,Friendly,1,1,0
+1136,2021-01-31,United States,Trinidad and Tobago,7,0,Friendly,7,1,0
+1137,2021-02-01,Jordan,Tajikistan,2,0,Friendly,2,1,0
+1138,2021-02-05,Jordan,Tajikistan,0,1,Friendly,-1,0,1
+1139,2021-02-15,Jordan,Uzbekistan,0,2,Friendly,-2,0,1
+1140,2021-02-24,Guatemala,Nicaragua,1,0,Friendly,1,1,0
+1141,2021-03-13,Kenya,South Sudan,1,0,Friendly,1,1,0
+1142,2021-03-15,Kenya,Tanzania,2,1,Friendly,1,1,0
+1143,2021-03-17,Ethiopia,Malawi,4,0,Friendly,4,1,0
+1145,2021-03-24,Belarus,Honduras,1,1,Friendly,0,0,1
+1146,2021-03-24,Jordan,Lebanon,1,0,Friendly,1,1,0
+1147,2021-03-24,Kosovo,Lithuania,4,0,Friendly,4,1,0
+1148,2021-03-24,Qatar,Luxembourg,1,0,Friendly,1,1,0
+1149,2021-03-24,Antigua and Barbuda,Montserrat,2,2,FIFA World Cup qualification,0,0,1
+1150,2021-03-24,Suriname,Cayman Islands,3,0,FIFA World Cup qualification,3,1,0
+1151,2021-03-24,Guatemala,Cuba,1,0,FIFA World Cup qualification,1,1,0
+1152,2021-03-24,Dominican Republic,Dominica,1,0,FIFA World Cup qualification,1,1,0
+1153,2021-03-24,Saint Kitts and Nevis,Puerto Rico,1,0,FIFA World Cup qualification,1,1,0
+1154,2021-03-24,Portugal,Azerbaijan,1,0,FIFA World Cup qualification,1,1,0
+1155,2021-03-24,Serbia,Republic of Ireland,3,2,FIFA World Cup qualification,1,1,0
+1156,2021-03-24,France,Ukraine,1,1,FIFA World Cup qualification,0,0,1
+1157,2021-03-24,Finland,Bosnia and Herzegovina,2,2,FIFA World Cup qualification,0,0,1
+1158,2021-03-24,Belgium,Wales,3,1,FIFA World Cup qualification,2,1,0
+1159,2021-03-24,Estonia,Czech Republic,2,6,FIFA World Cup qualification,-4,0,1
+1160,2021-03-24,Turkey,Netherlands,4,2,FIFA World Cup qualification,2,1,0
+1161,2021-03-24,Gibraltar,Norway,0,3,FIFA World Cup qualification,-3,0,1
+1162,2021-03-24,Latvia,Montenegro,1,2,FIFA World Cup qualification,-1,0,1
+1163,2021-03-24,Malta,Russia,1,3,FIFA World Cup qualification,-2,0,1
+1164,2021-03-24,Slovenia,Croatia,1,0,FIFA World Cup qualification,1,1,0
+1166,2021-03-24,Chad,Namibia,0,3,African Cup of Nations qualification,-3,0,1
+1167,2021-03-24,Guinea,Mali,1,0,African Cup of Nations qualification,1,1,0
+1168,2021-03-24,South Sudan,Malawi,0,1,African Cup of Nations qualification,-1,0,1
+1170,2021-03-24,São Tomé and Príncipe,Sudan,0,2,African Cup of Nations qualification,-2,0,1
+1171,2021-03-24,Rwanda,Mozambique,1,0,African Cup of Nations qualification,1,1,0
+1172,2021-03-24,Ethiopia,Madagascar,4,0,African Cup of Nations qualification,4,1,0
+1173,2021-03-25,Bahrain,Syria,3,1,Friendly,2,1,0
+1174,2021-03-25,India,Oman,1,1,Friendly,0,0,1
+1175,2021-03-25,Japan,South Korea,3,0,Friendly,3,1,0
+1176,2021-03-25,Saudi Arabia,Kuwait,1,0,Friendly,1,1,0
+1177,2021-03-25,United States,Jamaica,4,1,Friendly,3,1,0
+1178,2021-03-25,El Salvador,Grenada,2,0,FIFA World Cup qualification,2,1,0
+1179,2021-03-25,Canada,Bermuda,5,1,FIFA World Cup qualification,4,1,0
+1180,2021-03-25,Curaçao,Saint Vincent and the Grenadines,5,0,FIFA World Cup qualification,5,1,0
+1181,2021-03-25,Panama,Barbados,1,0,FIFA World Cup qualification,1,1,0
+1182,2021-03-25,Haiti,Belize,2,0,FIFA World Cup qualification,2,1,0
+1183,2021-03-25,Trinidad and Tobago,Guyana,3,0,FIFA World Cup qualification,3,1,0
+1184,2021-03-25,Spain,Greece,1,1,FIFA World Cup qualification,0,0,1
+1185,2021-03-25,Sweden,Georgia,1,0,FIFA World Cup qualification,1,1,0
+1186,2021-03-25,Bulgaria,Switzerland,1,3,FIFA World Cup qualification,-2,0,1
+1187,2021-03-25,Italy,Northern Ireland,2,0,FIFA World Cup qualification,2,1,0
+1188,2021-03-25,Israel,Denmark,0,2,FIFA World Cup qualification,-2,0,1
+1189,2021-03-25,Scotland,Austria,2,2,FIFA World Cup qualification,0,0,1
+1190,2021-03-25,Moldova,Faroe Islands,1,1,FIFA World Cup qualification,0,0,1
+1191,2021-03-25,England,San Marino,5,0,FIFA World Cup qualification,5,1,0
+1192,2021-03-25,Andorra,Albania,0,1,FIFA World Cup qualification,-1,0,1
+1193,2021-03-25,Hungary,Poland,3,3,FIFA World Cup qualification,0,0,1
+1194,2021-03-25,Germany,Iceland,3,0,FIFA World Cup qualification,3,1,0
+1195,2021-03-25,Liechtenstein,Armenia,0,1,FIFA World Cup qualification,-1,0,1
+1196,2021-03-25,Romania,North Macedonia,3,2,FIFA World Cup qualification,1,1,0
+1197,2021-03-25,South Africa,Ghana,1,1,African Cup of Nations qualification,0,0,1
+1198,2021-03-25,Gambia,Angola,1,0,African Cup of Nations qualification,1,1,0
+1199,2021-03-25,Gabon,DR Congo,3,0,African Cup of Nations qualification,3,1,0
+1201,2021-03-25,Kenya,Egypt,1,1,African Cup of Nations qualification,0,0,1
+1202,2021-03-25,Botswana,Zimbabwe,0,1,African Cup of Nations qualification,-1,0,1
+1203,2021-03-25,Zambia,Algeria,3,3,African Cup of Nations qualification,0,0,1
+1204,2021-03-25,Equatorial Guinea,Tanzania,1,0,African Cup of Nations qualification,1,1,0
+1205,2021-03-25,Libya,Tunisia,2,5,African Cup of Nations qualification,-3,0,1
+1206,2021-03-25,Tajikistan,Mongolia,3,0,FIFA World Cup qualification,3,1,0
+1207,2021-03-26,Chile,Bolivia,2,1,Friendly,1,1,0
+1208,2021-03-26,Burundi,Central African Republic,2,2,African Cup of Nations qualification,0,0,1
+1210,2021-03-26,Cape Verde,Cameroon,3,1,African Cup of Nations qualification,2,1,0
+1211,2021-03-26,Eswatini,Guinea-Bissau,1,3,African Cup of Nations qualification,-2,0,1
+1213,2021-03-26,Niger,Ivory Coast,0,3,African Cup of Nations qualification,-3,0,1
+1216,2021-03-27,Qatar,Azerbaijan,2,1,Friendly,1,1,0
+1217,2021-03-27,Wales,Mexico,1,0,Friendly,1,1,0
+1218,2021-03-27,United States Virgin Islands,Antigua and Barbuda,0,3,FIFA World Cup qualification,-3,0,1
+1219,2021-03-27,Aruba,Suriname,0,6,FIFA World Cup qualification,-6,0,1
+1220,2021-03-27,British Virgin Islands,Guatemala,0,3,FIFA World Cup qualification,-3,0,1
+1221,2021-03-27,Anguilla,Dominican Republic,0,6,FIFA World Cup qualification,-6,0,1
+1222,2021-03-27,Turks and Caicos Islands,Nicaragua,0,7,FIFA World Cup qualification,-7,0,1
+1223,2021-03-27,Bahamas,Saint Kitts and Nevis,0,4,FIFA World Cup qualification,-4,0,1
+1224,2021-03-27,Republic of Ireland,Luxembourg,0,1,FIFA World Cup qualification,-1,0,1
+1225,2021-03-27,Serbia,Portugal,2,2,FIFA World Cup qualification,0,0,1
+1226,2021-03-27,Belarus,Estonia,4,2,FIFA World Cup qualification,2,1,0
+1227,2021-03-27,Czech Republic,Belgium,1,1,FIFA World Cup qualification,0,0,1
+1228,2021-03-27,Montenegro,Gibraltar,4,1,FIFA World Cup qualification,3,1,0
+1229,2021-03-27,Netherlands,Latvia,2,0,FIFA World Cup qualification,2,1,0
+1230,2021-03-27,Norway,Turkey,0,3,FIFA World Cup qualification,-3,0,1
+1231,2021-03-27,Russia,Slovenia,2,1,FIFA World Cup qualification,1,1,0
+1232,2021-03-27,Croatia,Cyprus,1,0,FIFA World Cup qualification,1,1,0
+1233,2021-03-27,Slovakia,Malta,2,2,FIFA World Cup qualification,0,0,1
+1235,2021-03-27,Benin,Nigeria,0,1,African Cup of Nations qualification,-1,0,1
+1236,2021-03-28,Greece,Honduras,2,1,Friendly,1,1,0
+1237,2021-03-28,Northern Ireland,United States,1,2,Friendly,-1,0,1
+1238,2021-03-28,Montserrat,El Salvador,1,1,FIFA World Cup qualification,0,0,1
+1239,2021-03-28,Cuba,Curaçao,1,2,FIFA World Cup qualification,-1,0,1
+1240,2021-03-28,Dominica,Panama,1,2,FIFA World Cup qualification,-1,0,1
+1241,2021-03-28,Puerto Rico,Trinidad and Tobago,1,1,FIFA World Cup qualification,0,0,1
+1242,2021-03-28,Georgia,Spain,1,2,FIFA World Cup qualification,-1,0,1
+1243,2021-03-28,Kosovo,Sweden,0,3,FIFA World Cup qualification,-3,0,1
+1244,2021-03-28,Switzerland,Lithuania,1,0,FIFA World Cup qualification,1,1,0
+1245,2021-03-28,Bulgaria,Italy,0,2,FIFA World Cup qualification,-2,0,1
+1246,2021-03-28,Kazakhstan,France,0,2,FIFA World Cup qualification,-2,0,1
+1247,2021-03-28,Ukraine,Finland,1,1,FIFA World Cup qualification,0,0,1
+1248,2021-03-28,Denmark,Moldova,8,0,FIFA World Cup qualification,8,1,0
+1249,2021-03-28,Austria,Faroe Islands,3,1,FIFA World Cup qualification,2,1,0
+1250,2021-03-28,Israel,Scotland,1,1,FIFA World Cup qualification,0,0,1
+1251,2021-03-28,Albania,England,0,2,FIFA World Cup qualification,-2,0,1
+1252,2021-03-28,Poland,Andorra,3,0,FIFA World Cup qualification,3,1,0
+1253,2021-03-28,San Marino,Hungary,0,3,FIFA World Cup qualification,-3,0,1
+1254,2021-03-28,Armenia,Iceland,2,0,FIFA World Cup qualification,2,1,0
+1255,2021-03-28,North Macedonia,Liechtenstein,5,0,FIFA World Cup qualification,5,1,0
+1256,2021-03-28,Romania,Germany,0,1,FIFA World Cup qualification,-1,0,1
+1257,2021-03-28,Namibia,Guinea,2,1,African Cup of Nations qualification,1,1,0
+1258,2021-03-28,Mali,Chad,3,0,African Cup of Nations qualification,3,1,0
+1259,2021-03-28,Ghana,São Tomé and Príncipe,3,1,African Cup of Nations qualification,2,1,0
+1260,2021-03-28,Sudan,South Africa,2,0,African Cup of Nations qualification,2,1,0
+1261,2021-03-28,Tunisia,Equatorial Guinea,2,1,African Cup of Nations qualification,1,1,0
+1262,2021-03-28,Tanzania,Libya,1,0,African Cup of Nations qualification,1,1,0
+1263,2021-03-29,Ecuador,Bolivia,2,1,Friendly,1,1,0
+1264,2021-03-29,Kuwait,Lebanon,1,1,Friendly,0,0,1
+1265,2021-03-29,Nepal,Bangladesh,2,1,Friendly,1,1,0
+1266,2021-03-29,Uzbekistan,Iraq,0,1,Friendly,-1,0,1
+1267,2021-03-29,Cayman Islands,Canada,0,11,FIFA World Cup qualification,-11,0,1
+1268,2021-03-29,Burkina Faso,South Sudan,1,0,African Cup of Nations qualification,1,1,0
+1269,2021-03-29,Malawi,Uganda,1,0,African Cup of Nations qualification,1,1,0
+1270,2021-03-29,Angola,Gabon,2,0,African Cup of Nations qualification,2,1,0
+1271,2021-03-29,DR Congo,Gambia,1,0,African Cup of Nations qualification,1,1,0
+1272,2021-03-29,Togo,Kenya,1,2,African Cup of Nations qualification,-1,0,1
+1273,2021-03-29,Egypt,Comoros,4,0,African Cup of Nations qualification,4,1,0
+1274,2021-03-29,Algeria,Botswana,5,0,African Cup of Nations qualification,5,1,0
+1275,2021-03-29,Zimbabwe,Zambia,0,2,African Cup of Nations qualification,-2,0,1
+1276,2021-03-29,United Arab Emirates,India,6,0,Friendly,6,1,0
+1277,2021-03-30,Bahrain,Jordan,1,2,Friendly,-1,0,1
+1278,2021-03-30,Costa Rica,Mexico,0,1,Friendly,-1,0,1
+1279,2021-03-30,Iran,Syria,3,0,Friendly,3,1,0
+1280,2021-03-30,Republic of Ireland,Qatar,1,1,Friendly,0,0,1
+1281,2021-03-30,Grenada,United States Virgin Islands,1,0,FIFA World Cup qualification,1,1,0
+1282,2021-03-30,Bermuda,Aruba,5,0,FIFA World Cup qualification,5,1,0
+1283,2021-03-30,Saint Vincent and the Grenadines,British Virgin Islands,3,0,FIFA World Cup qualification,3,1,0
+1284,2021-03-30,Barbados,Anguilla,1,0,FIFA World Cup qualification,1,1,0
+1285,2021-03-30,Belize,Turks and Caicos Islands,5,0,FIFA World Cup qualification,5,1,0
+1286,2021-03-30,Guyana,Bahamas,4,0,FIFA World Cup qualification,4,1,0
+1287,2021-03-30,Azerbaijan,Serbia,1,2,FIFA World Cup qualification,-1,0,1
+1288,2021-03-30,Luxembourg,Portugal,1,3,FIFA World Cup qualification,-2,0,1
+1289,2021-03-30,Wales,Czech Republic,1,0,FIFA World Cup qualification,1,1,0
+1290,2021-03-30,Belgium,Belarus,8,0,FIFA World Cup qualification,8,1,0
+1291,2021-03-30,Gibraltar,Netherlands,0,7,FIFA World Cup qualification,-7,0,1
+1292,2021-03-30,Montenegro,Norway,0,1,FIFA World Cup qualification,-1,0,1
+1293,2021-03-30,Turkey,Latvia,3,3,FIFA World Cup qualification,0,0,1
+1294,2021-03-30,Cyprus,Slovenia,1,0,FIFA World Cup qualification,1,1,0
+1295,2021-03-30,Croatia,Malta,3,0,FIFA World Cup qualification,3,1,0
+1296,2021-03-30,Slovakia,Russia,2,1,FIFA World Cup qualification,1,1,0
+1297,2021-03-30,Saudi Arabia,Palestine,5,0,FIFA World Cup qualification,5,1,0
+1298,2021-03-30,Japan,Mongolia,14,0,FIFA World Cup qualification,14,1,0
+1299,2021-03-30,Central African Republic,Mauritania,0,1,African Cup of Nations qualification,-1,0,1
+1300,2021-03-30,Morocco,Burundi,1,0,African Cup of Nations qualification,1,1,0
+1302,2021-03-30,Mozambique,Cape Verde,0,1,African Cup of Nations qualification,-1,0,1
+1303,2021-03-30,Guinea-Bissau,Congo,3,0,African Cup of Nations qualification,3,1,0
+1304,2021-03-30,Senegal,Eswatini,1,1,African Cup of Nations qualification,0,0,1
+1305,2021-03-30,Ivory Coast,Ethiopia,3,1,African Cup of Nations qualification,2,1,0
+1307,2021-03-30,Nigeria,Lesotho,3,0,African Cup of Nations qualification,3,1,0
+1308,2021-03-31,Sweden,Estonia,1,0,Friendly,1,1,0
+1309,2021-03-31,Switzerland,Finland,3,2,Friendly,1,1,0
+1310,2021-03-31,Spain,Kosovo,3,1,FIFA World Cup qualification,2,1,0
+1311,2021-03-31,Greece,Georgia,1,1,FIFA World Cup qualification,0,0,1
+1313,2021-03-31,Lithuania,Italy,0,2,FIFA World Cup qualification,-2,0,1
+1314,2021-03-31,Bosnia and Herzegovina,France,0,1,FIFA World Cup qualification,-1,0,1
+1315,2021-03-31,Ukraine,Kazakhstan,1,1,FIFA World Cup qualification,0,0,1
+1316,2021-03-31,Scotland,Faroe Islands,4,0,FIFA World Cup qualification,4,1,0
+1317,2021-03-31,Austria,Denmark,0,4,FIFA World Cup qualification,-4,0,1
+1318,2021-03-31,Moldova,Israel,1,4,FIFA World Cup qualification,-3,0,1
+1319,2021-03-31,England,Poland,2,1,FIFA World Cup qualification,1,1,0
+1320,2021-03-31,Andorra,Hungary,1,4,FIFA World Cup qualification,-3,0,1
+1321,2021-03-31,San Marino,Albania,0,2,FIFA World Cup qualification,-2,0,1
+1322,2021-03-31,Armenia,Romania,3,2,FIFA World Cup qualification,1,1,0
+1323,2021-03-31,Germany,North Macedonia,1,2,FIFA World Cup qualification,-1,0,1
+1324,2021-03-31,Liechtenstein,Iceland,1,4,FIFA World Cup qualification,-3,0,1
+1325,2021-05-23,Ukraine,Bahrain,1,1,Friendly,0,0,1
+1327,2021-05-24,United Arab Emirates,Jordan,5,1,Friendly,4,1,0
+1328,2021-05-25,Indonesia,Afghanistan,2,3,Friendly,-1,0,1
+1329,2021-05-25,Oman,Thailand,1,0,Friendly,1,1,0
+1330,2021-05-27,Turkey,Azerbaijan,2,1,Friendly,1,1,0
+1331,2021-05-28,Bahrain,Malaysia,2,0,Friendly,2,1,0
+1332,2021-05-28,Italy,San Marino,7,0,Friendly,7,1,0
+1333,2021-05-29,Indonesia,Oman,1,3,Friendly,-2,0,1
+1334,2021-05-29,Iraq,Nepal,6,2,Friendly,4,1,0
+1335,2021-05-29,Mexico,Iceland,2,1,Friendly,1,1,0
+1336,2021-05-29,Singapore,Afghanistan,1,1,Friendly,0,0,1
+1337,2021-05-29,Sweden,Finland,2,0,Friendly,2,1,0
+1338,2021-05-29,Thailand,Tajikistan,2,2,Friendly,0,0,1
+1339,2021-05-30,Malta,Northern Ireland,0,3,Friendly,-3,0,1
+1340,2021-05-30,Switzerland,United States,2,1,Friendly,1,1,0
+1341,2021-05-31,Jordan,Vietnam,1,1,Friendly,0,0,1
+1343,2021-06-01,Croatia,Armenia,1,1,Friendly,0,0,1
+1344,2021-06-01,Kosovo,San Marino,4,1,Friendly,3,1,0
+1345,2021-06-01,North Macedonia,Slovenia,1,1,Friendly,0,0,1
+1346,2021-06-01,Poland,Russia,1,1,Friendly,0,0,1
+1347,2021-06-01,Slovakia,Bulgaria,1,1,Friendly,0,0,1
+1348,2021-06-02,Belarus,Azerbaijan,1,2,Friendly,-1,0,1
+1350,2021-06-02,England,Austria,1,0,Friendly,1,1,0
+1351,2021-06-02,France,Wales,3,0,Friendly,3,1,0
+1352,2021-06-02,Germany,Denmark,1,1,Friendly,0,0,1
+1353,2021-06-02,Mozambique,Lesotho,5,0,Friendly,5,1,0
+1354,2021-06-02,Netherlands,Scotland,2,2,Friendly,0,0,1
+1355,2021-06-02,Norway,Luxembourg,1,0,Friendly,1,1,0
+1356,2021-06-02,Romania,Georgia,1,2,Friendly,-1,0,1
+1357,2021-06-02,Montserrat,United States Virgin Islands,4,0,FIFA World Cup qualification,4,1,0
+1358,2021-06-02,Cayman Islands,Aruba,1,3,FIFA World Cup qualification,-2,0,1
+1359,2021-06-02,Cuba,British Virgin Islands,5,0,FIFA World Cup qualification,5,1,0
+1360,2021-06-02,Dominica,Anguilla,3,0,FIFA World Cup qualification,3,1,0
+1361,2021-06-02,Puerto Rico,Bahamas,7,0,FIFA World Cup qualification,7,1,0
+1362,2021-06-03,Algeria,Mauritania,4,1,Friendly,3,1,0
+1363,2021-06-03,Andorra,Republic of Ireland,1,4,Friendly,-3,0,1
+1364,2021-06-03,Belgium,Greece,1,1,Friendly,0,0,1
+1365,2021-06-03,Switzerland,Liechtenstein,7,0,Friendly,7,1,0
+1366,2021-06-03,Turkey,Moldova,2,0,Friendly,2,1,0
+1367,2021-06-03,Ukraine,Northern Ireland,1,0,Friendly,1,1,0
+1368,2021-06-03,Nepal,Taiwan,2,0,FIFA World Cup qualification,2,1,0
+1369,2021-06-03,Iran,Hong Kong,3,1,FIFA World Cup qualification,2,1,0
+1370,2021-06-03,Bahrain,Cambodia,8,0,FIFA World Cup qualification,8,1,0
+1371,2021-06-03,Palestine,Singapore,4,0,FIFA World Cup qualification,4,1,0
+1372,2021-06-03,Bangladesh,Afghanistan,1,1,FIFA World Cup qualification,0,0,1
+1373,2021-06-03,United Arab Emirates,Malaysia,4,0,FIFA World Cup qualification,4,1,0
+1374,2021-06-03,Thailand,Indonesia,2,2,FIFA World Cup qualification,0,0,1
+1375,2021-06-03,Bolivia,Venezuela,3,1,FIFA World Cup qualification,2,1,0
+1377,2021-06-03,Argentina,Chile,1,1,FIFA World Cup qualification,0,0,1
+1378,2021-06-03,Peru,Colombia,0,3,FIFA World Cup qualification,-3,0,1
+1379,2021-06-03,Kuwait,Australia,0,3,FIFA World Cup qualification,-3,0,1
+1380,2021-06-03,Qatar,India,1,0,FIFA World Cup qualification,1,1,0
+1381,2021-06-04,Faroe Islands,Iceland,0,1,Friendly,-1,0,1
+1382,2021-06-04,Finland,Estonia,0,1,Friendly,-1,0,1
+1383,2021-06-04,Hungary,Cyprus,1,0,Friendly,1,1,0
+1384,2021-06-04,Italy,Czech Republic,4,0,Friendly,4,1,0
+1385,2021-06-04,Kosovo,Malta,2,1,Friendly,1,1,0
+1386,2021-06-04,Nigeria,Cameroon,0,1,Friendly,-1,0,1
+1387,2021-06-04,North Macedonia,Kazakhstan,4,0,Friendly,4,1,0
+1388,2021-06-04,Rwanda,Central African Republic,2,0,Friendly,2,1,0
+1389,2021-06-04,Slovenia,Gibraltar,6,0,Friendly,6,1,0
+1391,2021-06-04,Maldives,Syria,0,4,FIFA World Cup qualification,-4,0,1
+1392,2021-06-04,Antigua and Barbuda,Grenada,1,0,FIFA World Cup qualification,1,1,0
+1393,2021-06-04,Suriname,Bermuda,6,0,FIFA World Cup qualification,6,1,0
+1394,2021-06-04,Guatemala,Saint Vincent and the Grenadines,10,0,FIFA World Cup qualification,10,1,0
+1395,2021-06-04,Dominican Republic,Barbados,1,1,FIFA World Cup qualification,0,0,1
+1396,2021-06-04,Nicaragua,Belize,3,0,FIFA World Cup qualification,3,1,0
+1397,2021-06-04,Saint Kitts and Nevis,Guyana,3,0,FIFA World Cup qualification,3,1,0
+1398,2021-06-04,Brazil,Ecuador,2,0,FIFA World Cup qualification,2,1,0
+1399,2021-06-05,Guinea,Togo,0,2,Friendly,-2,0,1
+1400,2021-06-05,Ivory Coast,Burkina Faso,2,1,Friendly,1,1,0
+1401,2021-06-05,Montenegro,Israel,1,3,Friendly,-2,0,1
+1402,2021-06-05,Niger,Gambia,0,2,Friendly,-2,0,1
+1403,2021-06-05,Russia,Bulgaria,1,0,Friendly,1,1,0
+1404,2021-06-05,Senegal,Zambia,3,1,Friendly,2,1,0
+1405,2021-06-05,Sweden,Armenia,3,1,Friendly,2,1,0
+1406,2021-06-05,Tunisia,DR Congo,1,0,Friendly,1,1,0
+1408,2021-06-05,Saudi Arabia,Yemen,3,0,FIFA World Cup qualification,3,1,0
+1409,2021-06-05,Lebanon,Sri Lanka,3,2,FIFA World Cup qualification,1,1,0
+1410,2021-06-05,South Korea,Turkmenistan,5,0,FIFA World Cup qualification,5,1,0
+1411,2021-06-05,United States Virgin Islands,El Salvador,0,7,FIFA World Cup qualification,-7,0,1
+1412,2021-06-05,Aruba,Canada,0,7,FIFA World Cup qualification,-7,0,1
+1413,2021-06-05,British Virgin Islands,Curaçao,0,8,FIFA World Cup qualification,-8,0,1
+1414,2021-06-05,Panama,Anguilla,13,0,FIFA World Cup qualification,13,1,0
+1415,2021-06-05,Turks and Caicos Islands,Haiti,0,10,FIFA World Cup qualification,-10,0,1
+1417,2021-06-06,Algeria,Mali,1,0,Friendly,1,1,0
+1419,2021-06-06,Belgium,Croatia,1,0,Friendly,1,1,0
+1420,2021-06-06,Denmark,Bosnia and Herzegovina,2,0,Friendly,2,1,0
+1421,2021-06-06,England,Romania,1,0,Friendly,1,1,0
+1422,2021-06-06,Luxembourg,Scotland,0,1,Friendly,-1,0,1
+1423,2021-06-06,Moldova,Azerbaijan,1,0,Friendly,1,1,0
+1424,2021-06-06,Netherlands,Georgia,3,0,Friendly,3,1,0
+1425,2021-06-06,Norway,Greece,1,2,Friendly,-1,0,1
+1427,2021-06-07,Faroe Islands,Liechtenstein,5,1,Friendly,4,1,0
+1428,2021-06-07,Germany,Latvia,7,1,Friendly,6,1,0
+1429,2021-06-07,Rwanda,Central African Republic,5,0,Friendly,5,1,0
+1430,2021-06-07,Serbia,Jamaica,1,1,Friendly,0,0,1
+1431,2021-06-07,Ukraine,Cyprus,4,0,Friendly,4,1,0
+1432,2021-06-07,Guam,Syria,0,3,FIFA World Cup qualification,-3,0,1
+1433,2021-06-07,China PR,Philippines,2,0,FIFA World Cup qualification,2,1,0
+1434,2021-06-07,Nepal,Jordan,0,3,FIFA World Cup qualification,-3,0,1
+1435,2021-06-07,Australia,Taiwan,5,1,FIFA World Cup qualification,4,1,0
+1436,2021-06-07,Iraq,Cambodia,4,1,FIFA World Cup qualification,3,1,0
+1437,2021-06-07,Uzbekistan,Singapore,5,0,FIFA World Cup qualification,5,1,0
+1438,2021-06-07,Bangladesh,India,0,2,FIFA World Cup qualification,-2,0,1
+1439,2021-06-07,Kyrgyzstan,Mongolia,0,1,FIFA World Cup qualification,-1,0,1
+1440,2021-06-07,Japan,Tajikistan,4,1,FIFA World Cup qualification,3,1,0
+1441,2021-06-07,United Arab Emirates,Thailand,3,1,FIFA World Cup qualification,2,1,0
+1442,2021-06-07,Vietnam,Indonesia,4,0,FIFA World Cup qualification,4,1,0
+1443,2021-06-07,Bahrain,Iran,0,3,FIFA World Cup qualification,-3,0,1
+1444,2021-06-07,Qatar,Oman,1,0,FIFA World Cup qualification,1,1,0
+1445,2021-06-08,Benin,Zambia,2,2,Friendly,0,0,1
+1447,2021-06-08,Czech Republic,Albania,3,1,Friendly,2,1,0
+1448,2021-06-08,France,Bulgaria,3,0,Friendly,3,1,0
+1449,2021-06-08,Gambia,Togo,1,0,Friendly,1,1,0
+1451,2021-06-08,Kosovo,Guinea,1,2,Friendly,-1,0,1
+1452,2021-06-08,Morocco,Ghana,1,0,Friendly,1,1,0
+1453,2021-06-08,Mozambique,Eswatini,1,1,Friendly,0,0,1
+1454,2021-06-08,Poland,Iceland,2,2,Friendly,0,0,1
+1455,2021-06-08,Senegal,Cape Verde,2,0,Friendly,2,1,0
+1456,2021-06-08,Spain,Lithuania,4,0,Friendly,4,1,0
+1457,2021-06-08,Grenada,Montserrat,1,2,FIFA World Cup qualification,-1,0,1
+1458,2021-06-08,El Salvador,Antigua and Barbuda,3,0,FIFA World Cup qualification,3,1,0
+1459,2021-06-08,Canada,Suriname,4,0,FIFA World Cup qualification,4,1,0
+1460,2021-06-08,Bermuda,Cayman Islands,1,1,FIFA World Cup qualification,0,0,1
+1461,2021-06-08,Saint Vincent and the Grenadines,Cuba,0,1,FIFA World Cup qualification,-1,0,1
+1463,2021-06-08,Barbados,Dominica,1,1,FIFA World Cup qualification,0,0,1
+1464,2021-06-08,Panama,Dominican Republic,3,0,FIFA World Cup qualification,3,1,0
+1465,2021-06-08,Haiti,Nicaragua,1,0,FIFA World Cup qualification,1,1,0
+1466,2021-06-08,Guyana,Puerto Rico,0,2,FIFA World Cup qualification,-2,0,1
+1467,2021-06-08,Trinidad and Tobago,Saint Kitts and Nevis,2,0,FIFA World Cup qualification,2,1,0
+1468,2021-06-08,Ecuador,Peru,1,2,FIFA World Cup qualification,-1,0,1
+1469,2021-06-08,Colombia,Argentina,2,2,FIFA World Cup qualification,0,0,1
+1471,2021-06-08,Paraguay,Brazil,0,2,FIFA World Cup qualification,-2,0,1
+1472,2021-06-08,Chile,Bolivia,1,1,FIFA World Cup qualification,0,0,1
+1473,2021-06-09,Turkmenistan,Lebanon,3,2,FIFA World Cup qualification,1,1,0
+1474,2021-06-09,Niger,Congo,0,1,Friendly,-1,0,1
+1475,2021-06-09,Portugal,Israel,4,0,Friendly,4,1,0
+1476,2021-06-09,United States,Costa Rica,4,0,Friendly,4,1,0
+1477,2021-06-09,South Korea,Sri Lanka,5,0,FIFA World Cup qualification,5,1,0
+1478,2021-06-10,South Africa,Uganda,3,2,Friendly,1,1,0
+1479,2021-06-11,Philippines,Guam,3,0,FIFA World Cup qualification,3,1,0
+1480,2021-06-11,China PR,Maldives,5,0,FIFA World Cup qualification,5,1,0
+1481,2021-06-11,Nepal,Australia,0,3,FIFA World Cup qualification,-3,0,1
+1483,2021-06-11,Cambodia,Iran,0,10,FIFA World Cup qualification,-10,0,1
+1484,2021-06-11,Hong Kong,Iraq,0,1,FIFA World Cup qualification,-1,0,1
+1485,2021-06-11,Yemen,Uzbekistan,0,1,FIFA World Cup qualification,-1,0,1
+1486,2021-06-11,Afghanistan,Oman,1,2,FIFA World Cup qualification,-1,0,1
+1487,2021-06-11,Myanmar,Kyrgyzstan,1,8,FIFA World Cup qualification,-7,0,1
+1488,2021-06-11,Malaysia,Vietnam,1,2,FIFA World Cup qualification,-1,0,1
+1489,2021-06-11,DR Congo,Mali,1,1,Friendly,0,0,1
+1490,2021-06-11,Guinea,Niger,2,1,Friendly,1,1,0
+1491,2021-06-11,Kosovo,Gambia,1,0,Friendly,1,1,0
+1492,2021-06-11,Mauritania,Liberia,1,0,Friendly,1,1,0
+1493,2021-06-11,Tunisia,Algeria,0,2,Friendly,-2,0,1
+1494,2021-06-11,Italy,Turkey,3,0,UEFA Euro,3,1,0
+1495,2021-06-11,Saudi Arabia,Singapore,3,0,FIFA World Cup qualification,3,1,0
+1496,2021-06-11,United Arab Emirates,Indonesia,5,0,FIFA World Cup qualification,5,1,0
+1497,2021-06-12,Haiti,Canada,0,1,FIFA World Cup qualification,-1,0,1
+1498,2021-06-12,Panama,Curaçao,2,1,FIFA World Cup qualification,1,1,0
+1499,2021-06-12,Saint Kitts and Nevis,El Salvador,0,4,FIFA World Cup qualification,-4,0,1
+1502,2021-06-12,Morocco,Burkina Faso,1,0,Friendly,1,1,0
+1503,2021-06-12,Wales,Switzerland,1,1,UEFA Euro,0,0,1
+1504,2021-06-12,Denmark,Finland,0,1,UEFA Euro,-1,0,1
+1505,2021-06-12,Russia,Belgium,0,3,UEFA Euro,-3,0,1
+1506,2021-06-13,South Korea,Lebanon,2,1,FIFA World Cup qualification,1,1,0
+1507,2021-06-13,Sudan,Zambia,0,1,Friendly,-1,0,1
+1508,2021-06-13,Tanzania,Malawi,2,0,Friendly,2,1,0
+1509,2021-06-13,Austria,North Macedonia,3,1,UEFA Euro,2,1,0
+1510,2021-06-13,Netherlands,Ukraine,3,2,UEFA Euro,1,1,0
+1511,2021-06-13,England,Croatia,1,0,UEFA Euro,1,1,0
+1512,2021-06-13,Brazil,Venezuela,3,0,Copa América,3,1,0
+1513,2021-06-13,Colombia,Ecuador,1,0,Copa América,1,1,0
+1514,2021-06-14,Libya,Liberia,0,1,Friendly,-1,0,1
+1515,2021-06-14,Scotland,Czech Republic,0,2,UEFA Euro,-2,0,1
+1516,2021-06-14,Poland,Slovakia,1,2,UEFA Euro,-1,0,1
+1518,2021-06-14,Argentina,Chile,1,1,Copa América,0,0,1
+1519,2021-06-14,Paraguay,Bolivia,3,1,Copa América,2,1,0
+1520,2021-06-15,Philippines,Maldives,1,1,FIFA World Cup qualification,0,0,1
+1521,2021-06-15,China PR,Syria,3,1,FIFA World Cup qualification,2,1,0
+1522,2021-06-15,Australia,Jordan,1,0,FIFA World Cup qualification,1,1,0
+1523,2021-06-15,Bahrain,Hong Kong,4,0,FIFA World Cup qualification,4,1,0
+1524,2021-06-15,Iran,Iraq,1,0,FIFA World Cup qualification,1,1,0
+1525,2021-06-15,Palestine,Yemen,3,0,FIFA World Cup qualification,3,1,0
+1526,2021-06-15,Saudi Arabia,Uzbekistan,3,0,FIFA World Cup qualification,3,1,0
+1527,2021-06-15,Bangladesh,Oman,0,3,FIFA World Cup qualification,-3,0,1
+1528,2021-06-15,India,Afghanistan,1,1,FIFA World Cup qualification,0,0,1
+1529,2021-06-15,Tajikistan,Myanmar,4,0,FIFA World Cup qualification,4,1,0
+1530,2021-06-15,Japan,Kyrgyzstan,5,1,FIFA World Cup qualification,4,1,0
+1531,2021-06-15,Thailand,Malaysia,0,1,FIFA World Cup qualification,-1,0,1
+1532,2021-06-15,United Arab Emirates,Vietnam,3,2,FIFA World Cup qualification,1,1,0
+1533,2021-06-15,Canada,Haiti,3,0,FIFA World Cup qualification,3,1,0
+1535,2021-06-15,El Salvador,Saint Kitts and Nevis,2,0,FIFA World Cup qualification,2,1,0
+1536,2021-06-15,Tunisia,Mali,1,0,Friendly,1,1,0
+1537,2021-06-15,Djibouti,Somalia,1,0,Friendly,1,1,0
+1538,2021-06-15,Hungary,Portugal,0,3,UEFA Euro,-3,0,1
+1539,2021-06-15,Germany,France,0,1,UEFA Euro,-1,0,1
+1540,2021-06-15,Kuwait,Taiwan,2,1,FIFA World Cup qualification,1,1,0
+1541,2021-06-16,Turkey,Wales,0,2,UEFA Euro,-2,0,1
+1542,2021-06-16,Italy,Switzerland,3,0,UEFA Euro,3,1,0
+1543,2021-06-16,Russia,Finland,1,0,UEFA Euro,1,1,0
+1544,2021-06-17,Denmark,Belgium,1,2,UEFA Euro,-1,0,1
+1545,2021-06-17,Ukraine,North Macedonia,2,1,UEFA Euro,1,1,0
+1546,2021-06-17,Netherlands,Austria,2,0,UEFA Euro,2,1,0
+1548,2021-06-17,Brazil,Peru,4,0,Copa América,4,1,0
+1549,2021-06-17,Algeria,Liberia,5,1,Friendly,4,1,0
+1550,2021-06-18,Croatia,Czech Republic,1,1,UEFA Euro,0,0,1
+1552,2021-06-18,Sweden,Slovakia,1,0,UEFA Euro,1,1,0
+1553,2021-06-18,Chile,Bolivia,1,0,Copa América,1,1,0
+1554,2021-06-18,Argentina,Uruguay,1,0,Copa América,1,1,0
+1555,2021-06-19,Spain,Poland,1,1,UEFA Euro,0,0,1
+1556,2021-06-19,Hungary,France,1,1,UEFA Euro,0,0,1
+1557,2021-06-19,Germany,Portugal,4,2,UEFA Euro,2,1,0
+1558,2021-06-20,Italy,Wales,1,0,UEFA Euro,1,1,0
+1559,2021-06-20,Switzerland,Turkey,3,1,UEFA Euro,2,1,0
+1560,2021-06-20,Venezuela,Ecuador,2,2,Copa América,0,0,1
+1561,2021-06-20,Colombia,Peru,1,2,Copa América,-1,0,1
+1562,2021-06-21,Denmark,Russia,4,1,UEFA Euro,3,1,0
+1563,2021-06-21,Finland,Belgium,0,2,UEFA Euro,-2,0,1
+1564,2021-06-21,Netherlands,North Macedonia,3,0,UEFA Euro,3,1,0
+1565,2021-06-21,Ukraine,Austria,0,1,UEFA Euro,-1,0,1
+1566,2021-06-21,Uruguay,Chile,1,1,Copa América,0,0,1
+1567,2021-06-21,Argentina,Paraguay,1,0,Copa América,1,1,0
+1568,2021-06-22,Scotland,Croatia,1,3,UEFA Euro,-2,0,1
+1569,2021-06-22,England,Czech Republic,1,0,UEFA Euro,1,1,0
+1570,2021-06-23,Spain,Slovakia,5,0,UEFA Euro,5,1,0
+1571,2021-06-23,Sweden,Poland,3,2,UEFA Euro,1,1,0
+1572,2021-06-23,Germany,Hungary,2,2,UEFA Euro,0,0,1
+1573,2021-06-23,Portugal,France,2,2,UEFA Euro,0,0,1
+1574,2021-06-23,Ecuador,Peru,2,2,Copa América,0,0,1
+1575,2021-06-23,Brazil,Colombia,2,1,Copa América,1,1,0
+1576,2021-06-24,Bolivia,Uruguay,0,2,Copa América,-2,0,1
+1577,2021-06-24,Chile,Paraguay,0,2,Copa América,-2,0,1
+1578,2021-06-26,Italy,Austria,2,1,UEFA Euro,1,1,0
+1579,2021-06-26,Wales,Denmark,0,4,UEFA Euro,-4,0,1
+1580,2021-06-27,Netherlands,Czech Republic,0,2,UEFA Euro,-2,0,1
+1581,2021-06-27,Belgium,Portugal,1,0,UEFA Euro,1,1,0
+1582,2021-06-27,Brazil,Ecuador,1,1,Copa América,0,0,1
+1583,2021-06-27,Venezuela,Peru,0,1,Copa América,-1,0,1
+1585,2021-06-28,Croatia,Spain,3,5,UEFA Euro,-2,0,1
+1586,2021-06-28,France,Switzerland,3,3,UEFA Euro,0,0,1
+1587,2021-06-28,Argentina,Bolivia,4,1,Copa América,3,1,0
+1588,2021-06-28,Uruguay,Paraguay,1,0,Copa América,1,1,0
+1589,2021-06-29,England,Germany,2,0,UEFA Euro,2,1,0
+1590,2021-06-29,Sweden,Ukraine,1,2,UEFA Euro,-1,0,1
+1591,2021-06-30,Mexico,Panama,3,0,Friendly,3,1,0
+1592,2021-07-02,Switzerland,Spain,1,1,UEFA Euro,0,0,1
+1593,2021-07-02,Belgium,Italy,1,2,UEFA Euro,-1,0,1
+1594,2021-07-02,Peru,Paraguay,3,3,Copa América,0,0,1
+1595,2021-07-02,Brazil,Chile,1,0,Copa América,1,1,0
+1596,2021-07-03,Czech Republic,Denmark,1,2,UEFA Euro,-1,0,1
+1597,2021-07-03,Ukraine,England,0,4,UEFA Euro,-4,0,1
+1598,2021-07-03,Mexico,Nigeria,4,0,Friendly,4,1,0
+1600,2021-07-03,Argentina,Ecuador,3,0,Copa América,3,1,0
+1601,2021-07-04,Qatar,El Salvador,1,0,Friendly,1,1,0
+1602,2021-07-05,Brazil,Peru,1,0,Copa América,1,1,0
+1603,2021-07-06,Argentina,Colombia,1,1,Copa América,0,0,1
+1604,2021-07-06,Italy,Spain,1,1,UEFA Euro,0,0,1
+1605,2021-07-07,England,Denmark,2,1,UEFA Euro,1,1,0
+1606,2021-07-09,Peru,Colombia,2,3,Copa América,-1,0,1
+1607,2021-07-10,Brazil,Argentina,0,1,Copa América,-1,0,1
+1608,2021-07-11,England,Italy,1,1,UEFA Euro,0,0,1
+1610,2021-08-22,Niger,Sudan,2,1,Friendly,1,1,0
+1611,2021-08-26,Sudan,Niger,3,0,Friendly,3,1,0
+1613,2021-08-29,Ethiopia,Uganda,2,1,Friendly,1,1,0
+1614,2021-09-01,Bahrain,Haiti,6,1,Friendly,5,1,0
+1615,2021-09-01,Comoros,Seychelles,7,1,Friendly,6,1,0
+1617,2021-09-01,Qatar,Serbia,0,4,Friendly,-4,0,1
+1618,2021-09-01,Switzerland,Greece,2,1,Friendly,1,1,0
+1619,2021-09-01,Central African Republic,Cape Verde,1,1,FIFA World Cup qualification,0,0,1
+1620,2021-09-01,Mali,Rwanda,1,0,FIFA World Cup qualification,1,1,0
+1621,2021-09-01,Egypt,Angola,1,0,FIFA World Cup qualification,1,1,0
+1622,2021-09-01,Libya,Gabon,2,1,FIFA World Cup qualification,1,1,0
+1623,2021-09-01,Senegal,Togo,2,0,FIFA World Cup qualification,2,1,0
+1624,2021-09-01,Guinea-Bissau,Guinea,1,1,FIFA World Cup qualification,0,0,1
+1625,2021-09-01,Portugal,Republic of Ireland,2,1,FIFA World Cup qualification,1,1,0
+1626,2021-09-01,Luxembourg,Azerbaijan,2,1,FIFA World Cup qualification,1,1,0
+1627,2021-09-01,Kazakhstan,Ukraine,2,2,FIFA World Cup qualification,0,0,1
+1628,2021-09-01,France,Bosnia and Herzegovina,1,1,FIFA World Cup qualification,0,0,1
+1629,2021-09-01,Faroe Islands,Israel,0,4,FIFA World Cup qualification,-4,0,1
+1630,2021-09-01,Denmark,Scotland,2,0,FIFA World Cup qualification,2,1,0
+1631,2021-09-01,Moldova,Austria,0,2,FIFA World Cup qualification,-2,0,1
+1632,2021-09-01,Norway,Netherlands,1,1,FIFA World Cup qualification,0,0,1
+1633,2021-09-01,Latvia,Gibraltar,3,1,FIFA World Cup qualification,2,1,0
+1634,2021-09-01,Turkey,Montenegro,2,2,FIFA World Cup qualification,0,0,1
+1635,2021-09-01,Malta,Cyprus,3,0,FIFA World Cup qualification,3,1,0
+1636,2021-09-01,Slovenia,Slovakia,1,1,FIFA World Cup qualification,0,0,1
+1638,2021-09-02,Nepal,India,1,1,Friendly,0,0,1
+1639,2021-09-02,Niger,Burkina Faso,0,2,FIFA World Cup qualification,-2,0,1
+1640,2021-09-02,Algeria,Djibouti,8,0,FIFA World Cup qualification,8,1,0
+1642,2021-09-02,Namibia,Congo,1,1,FIFA World Cup qualification,0,0,1
+1643,2021-09-02,Morocco,Sudan,2,0,FIFA World Cup qualification,2,1,0
+1644,2021-09-02,DR Congo,Tanzania,1,1,FIFA World Cup qualification,0,0,1
+1645,2021-09-02,Madagascar,Benin,0,1,FIFA World Cup qualification,-1,0,1
+1647,2021-09-02,Iran,Syria,1,0,FIFA World Cup qualification,1,1,0
+1649,2021-09-02,Japan,Oman,0,1,FIFA World Cup qualification,-1,0,1
+1650,2021-09-02,Australia,China PR,3,0,FIFA World Cup qualification,3,1,0
+1651,2021-09-02,Saudi Arabia,Vietnam,3,1,FIFA World Cup qualification,2,1,0
+1652,2021-09-02,Georgia,Kosovo,0,1,FIFA World Cup qualification,-1,0,1
+1653,2021-09-02,Sweden,Spain,2,1,FIFA World Cup qualification,1,1,0
+1654,2021-09-02,Italy,Bulgaria,1,1,FIFA World Cup qualification,0,0,1
+1655,2021-09-02,Lithuania,Northern Ireland,1,4,FIFA World Cup qualification,-3,0,1
+1656,2021-09-02,Czech Republic,Belarus,1,0,FIFA World Cup qualification,1,1,0
+1657,2021-09-02,Estonia,Belgium,2,5,FIFA World Cup qualification,-3,0,1
+1658,2021-09-02,Andorra,San Marino,2,0,FIFA World Cup qualification,2,1,0
+1659,2021-09-02,Hungary,England,0,4,FIFA World Cup qualification,-4,0,1
+1660,2021-09-02,Poland,Albania,4,1,FIFA World Cup qualification,3,1,0
+1661,2021-09-02,Iceland,Romania,0,2,FIFA World Cup qualification,-2,0,1
+1662,2021-09-02,Liechtenstein,Germany,0,2,FIFA World Cup qualification,-2,0,1
+1664,2021-09-02,Bolivia,Colombia,1,1,FIFA World Cup qualification,0,0,1
+1665,2021-09-02,Ecuador,Paraguay,2,0,FIFA World Cup qualification,2,1,0
+1666,2021-09-02,Peru,Uruguay,1,1,FIFA World Cup qualification,0,0,1
+1667,2021-09-02,Venezuela,Argentina,1,3,FIFA World Cup qualification,-2,0,1
+1668,2021-09-02,Chile,Brazil,0,1,FIFA World Cup qualification,-1,0,1
+1669,2021-09-02,Canada,Honduras,1,1,FIFA World Cup qualification,0,0,1
+1672,2021-09-02,Mexico,Jamaica,2,1,FIFA World Cup qualification,1,1,0
+1673,2021-09-03,Mauritania,Zambia,1,2,FIFA World Cup qualification,-1,0,1
+1674,2021-09-03,Tunisia,Equatorial Guinea,3,0,FIFA World Cup qualification,3,1,0
+1675,2021-09-03,Nigeria,Liberia,2,0,FIFA World Cup qualification,2,1,0
+1677,2021-09-03,Cameroon,Malawi,2,0,FIFA World Cup qualification,2,1,0
+1679,2021-09-03,Ghana,Ethiopia,1,0,FIFA World Cup qualification,1,1,0
+1680,2021-09-04,Bosnia and Herzegovina,Kuwait,1,0,Friendly,1,1,0
+1681,2021-09-04,Burundi,Seychelles,8,1,Friendly,7,1,0
+1682,2021-09-04,Haiti,Jordan,2,0,Friendly,2,1,0
+1683,2021-09-04,Qatar,Portugal,1,3,Friendly,-2,0,1
+1684,2021-09-04,Republic of Ireland,Azerbaijan,1,1,FIFA World Cup qualification,0,0,1
+1685,2021-09-04,Serbia,Luxembourg,4,1,FIFA World Cup qualification,3,1,0
+1686,2021-09-04,Finland,Kazakhstan,1,0,FIFA World Cup qualification,1,1,0
+1687,2021-09-04,Ukraine,France,1,1,FIFA World Cup qualification,0,0,1
+1688,2021-09-04,Faroe Islands,Denmark,0,1,FIFA World Cup qualification,-1,0,1
+1689,2021-09-04,Scotland,Moldova,1,0,FIFA World Cup qualification,1,1,0
+1690,2021-09-04,Israel,Austria,5,2,FIFA World Cup qualification,3,1,0
+1691,2021-09-04,Latvia,Norway,0,2,FIFA World Cup qualification,-2,0,1
+1692,2021-09-04,Gibraltar,Turkey,0,3,FIFA World Cup qualification,-3,0,1
+1693,2021-09-04,Netherlands,Montenegro,4,0,FIFA World Cup qualification,4,1,0
+1694,2021-09-04,Slovenia,Malta,1,0,FIFA World Cup qualification,1,1,0
+1695,2021-09-04,Cyprus,Russia,0,2,FIFA World Cup qualification,-2,0,1
+1696,2021-09-04,Slovakia,Croatia,0,1,FIFA World Cup qualification,-1,0,1
+1697,2021-09-05,Estonia,Northern Ireland,0,1,Friendly,-1,0,1
+1698,2021-09-05,Nepal,India,1,2,Friendly,-1,0,1
+1699,2021-09-05,Sweden,Uzbekistan,2,1,Friendly,1,1,0
+1700,2021-09-05,Rwanda,Kenya,1,1,FIFA World Cup qualification,0,0,1
+1701,2021-09-05,Gabon,Egypt,1,1,FIFA World Cup qualification,0,0,1
+1702,2021-09-05,Togo,Namibia,0,1,FIFA World Cup qualification,-1,0,1
+1703,2021-09-05,Kosovo,Greece,1,1,FIFA World Cup qualification,0,0,1
+1704,2021-09-05,Spain,Georgia,4,0,FIFA World Cup qualification,4,1,0
+1705,2021-09-05,Bulgaria,Lithuania,1,0,FIFA World Cup qualification,1,1,0
+1707,2021-09-05,Belarus,Wales,2,3,FIFA World Cup qualification,-1,0,1
+1708,2021-09-05,Belgium,Czech Republic,3,0,FIFA World Cup qualification,3,1,0
+1709,2021-09-05,England,Andorra,4,0,FIFA World Cup qualification,4,1,0
+1710,2021-09-05,Albania,Hungary,1,0,FIFA World Cup qualification,1,1,0
+1711,2021-09-05,San Marino,Poland,1,7,FIFA World Cup qualification,-6,0,1
+1712,2021-09-05,Iceland,North Macedonia,2,2,FIFA World Cup qualification,0,0,1
+1713,2021-09-05,Germany,Armenia,6,0,FIFA World Cup qualification,6,1,0
+1714,2021-09-05,Romania,Liechtenstein,2,0,FIFA World Cup qualification,2,1,0
+1716,2021-09-05,Paraguay,Colombia,1,1,FIFA World Cup qualification,0,0,1
+1717,2021-09-05,Uruguay,Bolivia,4,2,FIFA World Cup qualification,2,1,0
+1718,2021-09-05,Peru,Venezuela,1,0,FIFA World Cup qualification,1,1,0
+1719,2021-09-05,Costa Rica,Mexico,0,1,FIFA World Cup qualification,-1,0,1
+1721,2021-09-05,Jamaica,Panama,0,3,FIFA World Cup qualification,-3,0,1
+1722,2021-09-05,United States,Canada,1,1,FIFA World Cup qualification,0,0,1
+1723,2021-09-06,Djibouti,Niger,2,4,FIFA World Cup qualification,-2,0,1
+1724,2021-09-06,Liberia,Central African Republic,1,0,FIFA World Cup qualification,1,1,0
+1725,2021-09-06,Ivory Coast,Cameroon,2,1,FIFA World Cup qualification,1,1,0
+1727,2021-09-06,South Africa,Ghana,1,0,FIFA World Cup qualification,1,1,0
+1728,2021-09-06,Benin,DR Congo,1,1,FIFA World Cup qualification,0,0,1
+1729,2021-09-07,Bahrain,Jordan,1,2,Friendly,-1,0,1
+1730,2021-09-07,Comoros,Burundi,1,0,Friendly,1,1,0
+1731,2021-09-07,Luxembourg,Qatar,1,1,Friendly,0,0,1
+1732,2021-09-07,Burkina Faso,Algeria,1,1,FIFA World Cup qualification,0,0,1
+1733,2021-09-07,Zambia,Tunisia,0,2,FIFA World Cup qualification,-2,0,1
+1734,2021-09-07,Equatorial Guinea,Mauritania,1,0,FIFA World Cup qualification,1,1,0
+1735,2021-09-07,Cape Verde,Nigeria,1,2,FIFA World Cup qualification,-1,0,1
+1736,2021-09-07,Malawi,Mozambique,1,0,FIFA World Cup qualification,1,1,0
+1737,2021-09-07,Angola,Libya,0,1,FIFA World Cup qualification,-1,0,1
+1738,2021-09-07,Ethiopia,Zimbabwe,1,0,FIFA World Cup qualification,1,1,0
+1739,2021-09-07,Congo,Senegal,1,3,FIFA World Cup qualification,-2,0,1
+1740,2021-09-07,Sudan,Guinea-Bissau,2,4,FIFA World Cup qualification,-2,0,1
+1741,2021-09-07,Tanzania,Madagascar,3,2,FIFA World Cup qualification,1,1,0
+1742,2021-09-07,Syria,United Arab Emirates,1,1,FIFA World Cup qualification,0,0,1
+1743,2021-09-07,South Korea,Lebanon,1,0,FIFA World Cup qualification,1,1,0
+1744,2021-09-07,Iraq,Iran,0,3,FIFA World Cup qualification,-3,0,1
+1745,2021-09-07,China PR,Japan,0,1,FIFA World Cup qualification,-1,0,1
+1746,2021-09-07,Vietnam,Australia,0,1,FIFA World Cup qualification,-1,0,1
+1747,2021-09-07,Oman,Saudi Arabia,0,1,FIFA World Cup qualification,-1,0,1
+1748,2021-09-07,Republic of Ireland,Serbia,1,1,FIFA World Cup qualification,0,0,1
+1749,2021-09-07,Azerbaijan,Portugal,0,3,FIFA World Cup qualification,-3,0,1
+1750,2021-09-07,Bosnia and Herzegovina,Kazakhstan,2,2,FIFA World Cup qualification,0,0,1
+1751,2021-09-07,France,Finland,2,0,FIFA World Cup qualification,2,1,0
+1752,2021-09-07,Faroe Islands,Moldova,2,1,FIFA World Cup qualification,1,1,0
+1753,2021-09-07,Austria,Scotland,0,1,FIFA World Cup qualification,-1,0,1
+1754,2021-09-07,Denmark,Israel,5,0,FIFA World Cup qualification,5,1,0
+1756,2021-09-07,Netherlands,Turkey,6,1,FIFA World Cup qualification,5,1,0
+1757,2021-09-07,Norway,Gibraltar,5,1,FIFA World Cup qualification,4,1,0
+1758,2021-09-07,Croatia,Slovenia,3,0,FIFA World Cup qualification,3,1,0
+1759,2021-09-07,Slovakia,Cyprus,2,0,FIFA World Cup qualification,2,1,0
+1760,2021-09-07,Russia,Malta,2,0,FIFA World Cup qualification,2,1,0
+1761,2021-09-08,Bulgaria,Georgia,4,1,Friendly,3,1,0
+1762,2021-09-08,Czech Republic,Ukraine,1,1,Friendly,0,0,1
+1763,2021-09-08,Guatemala,Nicaragua,2,2,Friendly,0,0,1
+1764,2021-09-08,Kosovo,Spain,0,2,FIFA World Cup qualification,-2,0,1
+1765,2021-09-08,Greece,Sweden,2,1,FIFA World Cup qualification,1,1,0
+1767,2021-09-08,Italy,Lithuania,5,0,FIFA World Cup qualification,5,1,0
+1769,2021-09-08,Belarus,Belgium,0,1,FIFA World Cup qualification,-1,0,1
+1770,2021-09-08,Albania,San Marino,5,0,FIFA World Cup qualification,5,1,0
+1771,2021-09-08,Hungary,Andorra,2,1,FIFA World Cup qualification,1,1,0
+1772,2021-09-08,Poland,England,1,1,FIFA World Cup qualification,0,0,1
+1773,2021-09-08,Iceland,Germany,0,4,FIFA World Cup qualification,-4,0,1
+1774,2021-09-08,Armenia,Liechtenstein,1,1,FIFA World Cup qualification,0,0,1
+1776,2021-09-08,Costa Rica,Jamaica,1,1,FIFA World Cup qualification,0,0,1
+1777,2021-09-08,Panama,Mexico,1,1,FIFA World Cup qualification,0,0,1
+1778,2021-09-08,Canada,El Salvador,3,0,FIFA World Cup qualification,3,1,0
+1779,2021-09-08,Honduras,United States,1,4,FIFA World Cup qualification,-3,0,1
+1780,2021-09-09,Colombia,Chile,3,1,FIFA World Cup qualification,2,1,0
+1781,2021-09-09,Paraguay,Venezuela,2,1,FIFA World Cup qualification,1,1,0
+1782,2021-09-09,Uruguay,Ecuador,1,0,FIFA World Cup qualification,1,1,0
+1783,2021-09-09,Argentina,Bolivia,3,0,FIFA World Cup qualification,3,1,0
+1784,2021-09-09,Brazil,Peru,2,0,FIFA World Cup qualification,2,1,0
+1785,2021-09-24,El Salvador,Guatemala,0,2,Friendly,-2,0,1
+1786,2021-09-30,Egypt,Liberia,2,0,Friendly,2,1,0
+1787,2021-10-06,Sudan,Guinea,1,1,FIFA World Cup qualification,0,0,1
+1788,2021-10-06,Morocco,Guinea-Bissau,5,0,FIFA World Cup qualification,5,1,0
+1789,2021-10-06,Bahrain,Curaçao,4,0,Friendly,4,1,0
+1790,2021-10-06,Jordan,Malaysia,4,0,Friendly,4,1,0
+1791,2021-10-06,Sierra Leone,South Sudan,1,1,Friendly,0,0,1
+1792,2021-10-06,Italy,Spain,1,2,UEFA Nations League,-1,0,1
+1794,2021-10-07,South Korea,Syria,2,1,FIFA World Cup qualification,1,1,0
+1795,2021-10-07,United Arab Emirates,Iran,0,1,FIFA World Cup qualification,-1,0,1
+1796,2021-10-07,Saudi Arabia,Japan,1,0,FIFA World Cup qualification,1,1,0
+1797,2021-10-07,China PR,Vietnam,3,2,FIFA World Cup qualification,1,1,0
+1798,2021-10-07,Australia,Oman,3,1,FIFA World Cup qualification,2,1,0
+1800,2021-10-07,United States,Jamaica,2,0,FIFA World Cup qualification,2,1,0
+1801,2021-10-07,El Salvador,Panama,1,0,FIFA World Cup qualification,1,1,0
+1802,2021-10-07,Mexico,Canada,1,1,FIFA World Cup qualification,0,0,1
+1803,2021-10-07,Equatorial Guinea,Zambia,2,0,FIFA World Cup qualification,2,1,0
+1804,2021-10-07,Tunisia,Mauritania,3,0,FIFA World Cup qualification,3,1,0
+1805,2021-10-07,Liberia,Cape Verde,1,2,FIFA World Cup qualification,-1,0,1
+1806,2021-10-07,Nigeria,Central African Republic,0,1,FIFA World Cup qualification,-1,0,1
+1807,2021-10-07,Rwanda,Uganda,0,1,FIFA World Cup qualification,-1,0,1
+1808,2021-10-07,Mali,Kenya,5,0,FIFA World Cup qualification,5,1,0
+1809,2021-10-07,DR Congo,Madagascar,2,0,FIFA World Cup qualification,2,1,0
+1810,2021-10-07,Tanzania,Benin,0,1,FIFA World Cup qualification,-1,0,1
+1811,2021-10-07,Ecuador,Bolivia,3,0,FIFA World Cup qualification,3,1,0
+1812,2021-10-07,Venezuela,Brazil,1,3,FIFA World Cup qualification,-2,0,1
+1814,2021-10-07,Peru,Chile,2,0,FIFA World Cup qualification,2,1,0
+1816,2021-10-07,Indonesia,Taiwan,2,1,AFC Asian Cup qualification,1,1,0
+1817,2021-10-07,Belgium,France,2,3,UEFA Nations League,-1,0,1
+1818,2021-10-08,Czech Republic,Wales,2,2,FIFA World Cup qualification,0,0,1
+1819,2021-10-08,Estonia,Belarus,2,0,FIFA World Cup qualification,2,1,0
+1820,2021-10-08,Gibraltar,Montenegro,0,3,FIFA World Cup qualification,-3,0,1
+1821,2021-10-08,Latvia,Netherlands,0,1,FIFA World Cup qualification,-1,0,1
+1822,2021-10-08,Turkey,Norway,1,1,FIFA World Cup qualification,0,0,1
+1823,2021-10-08,Malta,Slovenia,0,4,FIFA World Cup qualification,-4,0,1
+1824,2021-10-08,Cyprus,Croatia,0,3,FIFA World Cup qualification,-3,0,1
+1825,2021-10-08,Russia,Slovakia,1,0,FIFA World Cup qualification,1,1,0
+1826,2021-10-08,Iceland,Armenia,1,1,FIFA World Cup qualification,0,0,1
+1827,2021-10-08,Germany,Romania,2,1,FIFA World Cup qualification,1,1,0
+1828,2021-10-08,Liechtenstein,North Macedonia,0,4,FIFA World Cup qualification,-4,0,1
+1829,2021-10-08,Algeria,Niger,6,1,FIFA World Cup qualification,5,1,0
+1830,2021-10-08,Djibouti,Burkina Faso,0,4,FIFA World Cup qualification,-4,0,1
+1831,2021-10-08,Malawi,Ivory Coast,0,3,FIFA World Cup qualification,-3,0,1
+1832,2021-10-08,Cameroon,Mozambique,3,1,FIFA World Cup qualification,2,1,0
+1833,2021-10-08,Angola,Gabon,3,1,FIFA World Cup qualification,2,1,0
+1834,2021-10-08,Egypt,Libya,1,0,FIFA World Cup qualification,1,1,0
+1835,2021-10-09,Azerbaijan,Republic of Ireland,0,3,FIFA World Cup qualification,-3,0,1
+1836,2021-10-09,Luxembourg,Serbia,0,1,FIFA World Cup qualification,-1,0,1
+1837,2021-10-09,Sweden,Kosovo,3,0,FIFA World Cup qualification,3,1,0
+1838,2021-10-09,Georgia,Greece,0,2,FIFA World Cup qualification,-2,0,1
+1839,2021-10-09,Lithuania,Bulgaria,3,1,FIFA World Cup qualification,2,1,0
+1840,2021-10-09,Switzerland,Northern Ireland,2,0,FIFA World Cup qualification,2,1,0
+1841,2021-10-09,Finland,Ukraine,1,2,FIFA World Cup qualification,-1,0,1
+1842,2021-10-09,Kazakhstan,Bosnia and Herzegovina,0,2,FIFA World Cup qualification,-2,0,1
+1843,2021-10-09,Scotland,Israel,3,2,FIFA World Cup qualification,1,1,0
+1844,2021-10-09,Faroe Islands,Austria,0,2,FIFA World Cup qualification,-2,0,1
+1845,2021-10-09,Moldova,Denmark,0,4,FIFA World Cup qualification,-4,0,1
+1846,2021-10-09,Andorra,England,0,5,FIFA World Cup qualification,-5,0,1
+1847,2021-10-09,Hungary,Albania,0,1,FIFA World Cup qualification,-1,0,1
+1848,2021-10-09,Poland,San Marino,5,0,FIFA World Cup qualification,5,1,0
+1849,2021-10-09,Ethiopia,South Africa,1,3,FIFA World Cup qualification,-2,0,1
+1850,2021-10-09,Ghana,Zimbabwe,3,1,FIFA World Cup qualification,2,1,0
+1851,2021-10-09,Togo,Congo,1,1,FIFA World Cup qualification,0,0,1
+1852,2021-10-09,Senegal,Namibia,4,1,FIFA World Cup qualification,3,1,0
+1853,2021-10-09,Guinea,Sudan,2,2,FIFA World Cup qualification,0,0,1
+1854,2021-10-09,Curaçao,New Zealand,1,2,Friendly,-1,0,1
+1855,2021-10-09,Gambia,Sierra Leone,1,2,Friendly,-1,0,1
+1856,2021-10-09,Portugal,Qatar,3,0,Friendly,3,1,0
+1857,2021-10-09,Uzbekistan,Malaysia,5,1,Friendly,4,1,0
+1858,2021-10-09,Guam,Cambodia,0,1,AFC Asian Cup qualification,-1,0,1
+1859,2021-10-09,Morocco,Guinea-Bissau,3,0,FIFA World Cup qualification,3,1,0
+1860,2021-10-10,Costa Rica,El Salvador,2,1,FIFA World Cup qualification,1,1,0
+1862,2021-10-10,Panama,United States,1,0,FIFA World Cup qualification,1,1,0
+1863,2021-10-10,Mexico,Honduras,3,0,FIFA World Cup qualification,3,1,0
+1864,2021-10-10,Zambia,Equatorial Guinea,1,1,FIFA World Cup qualification,0,0,1
+1866,2021-10-10,Central African Republic,Nigeria,0,2,FIFA World Cup qualification,-2,0,1
+1867,2021-10-10,Cape Verde,Liberia,1,0,FIFA World Cup qualification,1,1,0
+1868,2021-10-10,Kenya,Mali,0,1,FIFA World Cup qualification,-1,0,1
+1869,2021-10-10,Uganda,Rwanda,1,0,FIFA World Cup qualification,1,1,0
+1870,2021-10-10,Benin,Tanzania,0,1,FIFA World Cup qualification,-1,0,1
+1871,2021-10-10,Madagascar,DR Congo,1,0,FIFA World Cup qualification,1,1,0
+1872,2021-10-10,Bolivia,Peru,1,0,FIFA World Cup qualification,1,1,0
+1874,2021-10-10,Venezuela,Ecuador,2,1,FIFA World Cup qualification,1,1,0
+1875,2021-10-10,Argentina,Uruguay,3,0,FIFA World Cup qualification,3,1,0
+1876,2021-10-10,Chile,Paraguay,2,0,FIFA World Cup qualification,2,1,0
+1877,2021-10-10,Italy,Belgium,2,1,UEFA Nations League,1,1,0
+1878,2021-10-10,Spain,France,1,2,UEFA Nations League,-1,0,1
+1879,2021-10-11,Belarus,Czech Republic,0,2,FIFA World Cup qualification,-2,0,1
+1880,2021-10-11,Estonia,Wales,0,1,FIFA World Cup qualification,-1,0,1
+1881,2021-10-11,Netherlands,Gibraltar,6,0,FIFA World Cup qualification,6,1,0
+1882,2021-10-11,Norway,Montenegro,2,0,FIFA World Cup qualification,2,1,0
+1883,2021-10-11,Latvia,Turkey,1,2,FIFA World Cup qualification,-1,0,1
+1884,2021-10-11,Cyprus,Malta,2,2,FIFA World Cup qualification,0,0,1
+1885,2021-10-11,Croatia,Slovakia,2,2,FIFA World Cup qualification,0,0,1
+1886,2021-10-11,Slovenia,Russia,1,2,FIFA World Cup qualification,-1,0,1
+1887,2021-10-11,Iceland,Liechtenstein,4,0,FIFA World Cup qualification,4,1,0
+1888,2021-10-11,North Macedonia,Germany,0,4,FIFA World Cup qualification,-4,0,1
+1889,2021-10-11,Romania,Armenia,1,0,FIFA World Cup qualification,1,1,0
+1890,2021-10-11,Burkina Faso,Djibouti,2,0,FIFA World Cup qualification,2,1,0
+1891,2021-10-11,Mozambique,Cameroon,0,1,FIFA World Cup qualification,-1,0,1
+1892,2021-10-11,Ivory Coast,Malawi,2,1,FIFA World Cup qualification,1,1,0
+1893,2021-10-11,Gabon,Angola,2,0,FIFA World Cup qualification,2,1,0
+1894,2021-10-11,Libya,Egypt,0,3,FIFA World Cup qualification,-3,0,1
+1895,2021-10-11,Taiwan,Indonesia,0,3,AFC Asian Cup qualification,-3,0,1
+1896,2021-10-12,Iran,South Korea,1,1,FIFA World Cup qualification,0,0,1
+1897,2021-10-12,Syria,Lebanon,2,3,FIFA World Cup qualification,-1,0,1
+1898,2021-10-12,United Arab Emirates,Iraq,2,2,FIFA World Cup qualification,0,0,1
+1899,2021-10-12,Japan,Australia,2,1,FIFA World Cup qualification,1,1,0
+1900,2021-10-12,Oman,Vietnam,3,1,FIFA World Cup qualification,2,1,0
+1901,2021-10-12,Saudi Arabia,China PR,3,2,FIFA World Cup qualification,1,1,0
+1902,2021-10-12,Portugal,Luxembourg,5,0,FIFA World Cup qualification,5,1,0
+1903,2021-10-12,Serbia,Azerbaijan,3,1,FIFA World Cup qualification,2,1,0
+1904,2021-10-12,Kosovo,Georgia,1,2,FIFA World Cup qualification,-1,0,1
+1905,2021-10-12,Sweden,Greece,2,0,FIFA World Cup qualification,2,1,0
+1906,2021-10-12,Bulgaria,Northern Ireland,2,1,FIFA World Cup qualification,1,1,0
+1907,2021-10-12,Lithuania,Switzerland,0,4,FIFA World Cup qualification,-4,0,1
+1908,2021-10-12,Kazakhstan,Finland,0,2,FIFA World Cup qualification,-2,0,1
+1909,2021-10-12,Ukraine,Bosnia and Herzegovina,1,1,FIFA World Cup qualification,0,0,1
+1910,2021-10-12,Faroe Islands,Scotland,0,1,FIFA World Cup qualification,-1,0,1
+1911,2021-10-12,Denmark,Austria,1,0,FIFA World Cup qualification,1,1,0
+1912,2021-10-12,Israel,Moldova,2,1,FIFA World Cup qualification,1,1,0
+1913,2021-10-12,England,Hungary,1,1,FIFA World Cup qualification,0,0,1
+1914,2021-10-12,Albania,Poland,0,1,FIFA World Cup qualification,-1,0,1
+1915,2021-10-12,San Marino,Andorra,0,3,FIFA World Cup qualification,-3,0,1
+1916,2021-10-12,Niger,Algeria,0,4,FIFA World Cup qualification,-4,0,1
+1917,2021-10-12,Zimbabwe,Ghana,0,1,FIFA World Cup qualification,-1,0,1
+1918,2021-10-12,South Africa,Ethiopia,1,0,FIFA World Cup qualification,1,1,0
+1919,2021-10-12,Namibia,Senegal,1,3,FIFA World Cup qualification,-2,0,1
+1920,2021-10-12,Congo,Togo,1,2,FIFA World Cup qualification,-1,0,1
+1921,2021-10-12,Bahrain,New Zealand,0,1,Friendly,-1,0,1
+1922,2021-10-12,Jordan,Uzbekistan,3,0,Friendly,3,1,0
+1923,2021-10-12,Republic of Ireland,Qatar,4,0,Friendly,4,1,0
+1924,2021-10-12,South Sudan,Gambia,1,2,Friendly,-1,0,1
+1925,2021-10-12,Cambodia,Guam,2,1,AFC Asian Cup qualification,1,1,0
+1926,2021-10-12,Morocco,Guinea,4,1,FIFA World Cup qualification,3,1,0
+1927,2021-10-13,Honduras,Jamaica,0,2,FIFA World Cup qualification,-2,0,1
+1928,2021-10-13,United States,Costa Rica,2,1,FIFA World Cup qualification,1,1,0
+1929,2021-10-13,Canada,Panama,4,1,FIFA World Cup qualification,3,1,0
+1930,2021-10-13,El Salvador,Mexico,0,2,FIFA World Cup qualification,-2,0,1
+1931,2021-10-14,Bolivia,Paraguay,4,0,FIFA World Cup qualification,4,1,0
+1933,2021-10-14,Argentina,Peru,1,0,FIFA World Cup qualification,1,1,0
+1934,2021-10-14,Brazil,Uruguay,4,1,FIFA World Cup qualification,3,1,0
+1935,2021-10-14,Chile,Venezuela,3,0,FIFA World Cup qualification,3,1,0
+1936,2021-10-27,Mexico,Ecuador,2,3,Friendly,-1,0,1
+1937,2021-11-05,El Salvador,Bolivia,0,1,Friendly,-1,0,1
+1938,2021-11-10,Kosovo,Jordan,0,2,Friendly,-2,0,1
+1939,2021-11-10,Nicaragua,Cuba,0,3,Friendly,-3,0,1
+1940,2021-11-11,Czech Republic,Kuwait,7,0,Friendly,7,1,0
+1941,2021-11-11,Kyrgyzstan,Singapore,2,1,Friendly,1,1,0
+1942,2021-11-11,Serbia,Qatar,4,0,Friendly,4,1,0
+1943,2021-11-11,Ukraine,Bulgaria,1,1,Friendly,0,0,1
+1944,2021-11-11,Uganda,Kenya,1,1,FIFA World Cup qualification,0,0,1
+1945,2021-11-11,Rwanda,Mali,0,3,FIFA World Cup qualification,-3,0,1
+1946,2021-11-11,Ethiopia,Ghana,1,1,FIFA World Cup qualification,0,0,1
+1947,2021-11-11,South Africa,Zimbabwe,1,0,FIFA World Cup qualification,1,1,0
+1948,2021-11-11,Congo,Namibia,1,1,FIFA World Cup qualification,0,0,1
+1949,2021-11-11,Togo,Senegal,1,1,FIFA World Cup qualification,0,0,1
+1950,2021-11-11,Tanzania,DR Congo,0,3,FIFA World Cup qualification,-3,0,1
+1951,2021-11-11,Benin,Madagascar,2,0,FIFA World Cup qualification,2,1,0
+1952,2021-11-11,Lebanon,Iran,1,2,FIFA World Cup qualification,-1,0,1
+1953,2021-11-11,Iraq,Syria,1,1,FIFA World Cup qualification,0,0,1
+1954,2021-11-11,South Korea,United Arab Emirates,1,0,FIFA World Cup qualification,1,1,0
+1955,2021-11-11,China PR,Oman,1,1,FIFA World Cup qualification,0,0,1
+1956,2021-11-11,Vietnam,Japan,0,1,FIFA World Cup qualification,-1,0,1
+1959,2021-11-11,Azerbaijan,Luxembourg,1,3,FIFA World Cup qualification,-2,0,1
+1960,2021-11-11,Georgia,Sweden,2,0,FIFA World Cup qualification,2,1,0
+1961,2021-11-11,Greece,Spain,0,1,FIFA World Cup qualification,-1,0,1
+1962,2021-11-11,Russia,Cyprus,6,0,FIFA World Cup qualification,6,1,0
+1963,2021-11-11,Malta,Croatia,1,7,FIFA World Cup qualification,-6,0,1
+1964,2021-11-11,Slovakia,Slovenia,2,2,FIFA World Cup qualification,0,0,1
+1965,2021-11-11,Germany,Liechtenstein,9,0,FIFA World Cup qualification,9,1,0
+1966,2021-11-11,Armenia,North Macedonia,0,5,FIFA World Cup qualification,-5,0,1
+1968,2021-11-11,Ecuador,Venezuela,1,0,FIFA World Cup qualification,1,1,0
+1969,2021-11-11,Paraguay,Chile,0,1,FIFA World Cup qualification,-1,0,1
+1970,2021-11-11,Peru,Bolivia,3,0,FIFA World Cup qualification,3,1,0
+1971,2021-11-11,Brazil,Colombia,1,0,FIFA World Cup qualification,1,1,0
+1972,2021-11-12,Burkina Faso,Niger,1,1,FIFA World Cup qualification,0,0,1
+1973,2021-11-12,Djibouti,Algeria,0,4,FIFA World Cup qualification,-4,0,1
+1974,2021-11-12,Gabon,Libya,1,0,FIFA World Cup qualification,1,1,0
+1975,2021-11-12,Angola,Egypt,2,2,FIFA World Cup qualification,0,0,1
+1977,2021-11-12,Morocco,Sudan,3,0,FIFA World Cup qualification,3,1,0
+1978,2021-11-12,Canada,Costa Rica,1,0,FIFA World Cup qualification,1,1,0
+1979,2021-11-12,Honduras,Panama,2,3,FIFA World Cup qualification,-1,0,1
+1980,2021-11-12,El Salvador,Jamaica,1,1,FIFA World Cup qualification,0,0,1
+1981,2021-11-12,United States,Mexico,2,0,FIFA World Cup qualification,2,1,0
+1982,2021-11-12,Northern Ireland,Lithuania,1,0,FIFA World Cup qualification,1,1,0
+1983,2021-11-12,Italy,Switzerland,1,1,FIFA World Cup qualification,0,0,1
+1984,2021-11-12,Moldova,Scotland,0,2,FIFA World Cup qualification,-2,0,1
+1985,2021-11-12,Denmark,Faroe Islands,3,1,FIFA World Cup qualification,2,1,0
+1986,2021-11-12,Austria,Israel,4,2,FIFA World Cup qualification,2,1,0
+1987,2021-11-12,England,Albania,5,0,FIFA World Cup qualification,5,1,0
+1988,2021-11-12,Andorra,Poland,1,4,FIFA World Cup qualification,-3,0,1
+1989,2021-11-12,Hungary,San Marino,4,0,FIFA World Cup qualification,4,1,0
+1990,2021-11-12,Uruguay,Argentina,0,1,FIFA World Cup qualification,-1,0,1
+1991,2021-11-13,Burundi,Myanmar,2,1,Friendly,1,1,0
+1992,2021-11-13,Nicaragua,Cuba,2,0,Friendly,2,1,0
+1993,2021-11-13,Sierra Leone,Comoros,0,2,Friendly,-2,0,1
+1994,2021-11-13,Zambia,Mauritania,4,0,FIFA World Cup qualification,4,1,0
+1995,2021-11-13,Equatorial Guinea,Tunisia,1,0,FIFA World Cup qualification,1,1,0
+1996,2021-11-13,Cape Verde,Central African Republic,2,1,FIFA World Cup qualification,1,1,0
+1997,2021-11-13,Liberia,Nigeria,0,2,FIFA World Cup qualification,-2,0,1
+1998,2021-11-13,Malawi,Cameroon,0,4,FIFA World Cup qualification,-4,0,1
+1999,2021-11-13,Ivory Coast,Mozambique,3,0,FIFA World Cup qualification,3,1,0
+2000,2021-11-13,Bosnia and Herzegovina,Finland,1,3,FIFA World Cup qualification,-2,0,1
+2001,2021-11-13,France,Kazakhstan,8,0,FIFA World Cup qualification,8,1,0
+2002,2021-11-13,Wales,Belarus,5,1,FIFA World Cup qualification,4,1,0
+2003,2021-11-13,Belgium,Estonia,3,1,FIFA World Cup qualification,2,1,0
+2005,2021-11-13,Turkey,Gibraltar,6,0,FIFA World Cup qualification,6,1,0
+2006,2021-11-13,Montenegro,Netherlands,2,2,FIFA World Cup qualification,0,0,1
+2007,2021-11-14,Azerbaijan,Qatar,2,2,Friendly,0,0,1
+2008,2021-11-14,Nicaragua,Cuba,2,0,Friendly,2,1,0
+2009,2021-11-14,Mali,Uganda,1,0,FIFA World Cup qualification,1,1,0
+2010,2021-11-14,Zimbabwe,Ethiopia,1,1,FIFA World Cup qualification,0,0,1
+2011,2021-11-14,Ghana,South Africa,1,0,FIFA World Cup qualification,1,1,0
+2012,2021-11-14,Senegal,Congo,2,0,FIFA World Cup qualification,2,1,0
+2013,2021-11-14,DR Congo,Benin,2,0,FIFA World Cup qualification,2,1,0
+2014,2021-11-14,Madagascar,Tanzania,1,1,FIFA World Cup qualification,0,0,1
+2015,2021-11-14,Portugal,Serbia,1,2,FIFA World Cup qualification,-1,0,1
+2016,2021-11-14,Luxembourg,Republic of Ireland,0,3,FIFA World Cup qualification,-3,0,1
+2017,2021-11-14,Spain,Sweden,1,0,FIFA World Cup qualification,1,1,0
+2018,2021-11-14,Greece,Kosovo,1,1,FIFA World Cup qualification,0,0,1
+2019,2021-11-14,Croatia,Russia,1,0,FIFA World Cup qualification,1,1,0
+2020,2021-11-14,Malta,Slovakia,0,6,FIFA World Cup qualification,-6,0,1
+2021,2021-11-14,Slovenia,Cyprus,2,1,FIFA World Cup qualification,1,1,0
+2022,2021-11-14,Liechtenstein,Romania,0,2,FIFA World Cup qualification,-2,0,1
+2023,2021-11-14,North Macedonia,Iceland,3,1,FIFA World Cup qualification,2,1,0
+2024,2021-11-14,Armenia,Germany,1,4,FIFA World Cup qualification,-3,0,1
+2025,2021-11-15,Georgia,Uzbekistan,1,0,Friendly,1,1,0
+2026,2021-11-15,Lithuania,Kuwait,1,1,Friendly,0,0,1
+2027,2021-11-15,Niger,Djibouti,7,2,FIFA World Cup qualification,5,1,0
+2028,2021-11-15,Kenya,Rwanda,2,1,FIFA World Cup qualification,1,1,0
+2029,2021-11-15,Namibia,Togo,0,1,FIFA World Cup qualification,-1,0,1
+2032,2021-11-15,Switzerland,Bulgaria,4,0,FIFA World Cup qualification,4,1,0
+2033,2021-11-15,Scotland,Denmark,2,0,FIFA World Cup qualification,2,1,0
+2034,2021-11-15,Austria,Moldova,4,1,FIFA World Cup qualification,3,1,0
+2035,2021-11-15,Israel,Faroe Islands,3,2,FIFA World Cup qualification,1,1,0
+2036,2021-11-15,Albania,Andorra,1,0,FIFA World Cup qualification,1,1,0
+2037,2021-11-15,Poland,Hungary,1,2,FIFA World Cup qualification,-1,0,1
+2038,2021-11-15,San Marino,England,0,10,FIFA World Cup qualification,-10,0,1
+2039,2021-11-16,Bahrain,Kyrgyzstan,4,2,Friendly,2,1,0
+2040,2021-11-16,Belarus,Jordan,1,0,Friendly,1,1,0
+2041,2021-11-16,Kazakhstan,Tajikistan,1,0,Friendly,1,1,0
+2042,2021-11-16,New Zealand,Gambia,2,0,Friendly,2,1,0
+2043,2021-11-16,Indonesia,Afghanistan,0,1,Friendly,-1,0,1
+2044,2021-11-16,Algeria,Burkina Faso,2,2,FIFA World Cup qualification,0,0,1
+2045,2021-11-16,Mauritania,Equatorial Guinea,1,1,FIFA World Cup qualification,0,0,1
+2046,2021-11-16,Tunisia,Zambia,3,1,FIFA World Cup qualification,2,1,0
+2047,2021-11-16,Liberia,Central African Republic,3,1,FIFA World Cup qualification,2,1,0
+2048,2021-11-16,Nigeria,Cape Verde,1,1,FIFA World Cup qualification,0,0,1
+2049,2021-11-16,Mozambique,Malawi,1,0,FIFA World Cup qualification,1,1,0
+2050,2021-11-16,Cameroon,Ivory Coast,1,0,FIFA World Cup qualification,1,1,0
+2051,2021-11-16,Egypt,Gabon,2,1,FIFA World Cup qualification,1,1,0
+2052,2021-11-16,Libya,Angola,1,1,FIFA World Cup qualification,0,0,1
+2053,2021-11-16,Morocco,Guinea,3,0,FIFA World Cup qualification,3,1,0
+2054,2021-11-16,Lebanon,United Arab Emirates,0,1,FIFA World Cup qualification,-1,0,1
+2055,2021-11-16,Iraq,South Korea,0,3,FIFA World Cup qualification,-3,0,1
+2056,2021-11-16,Syria,Iran,0,3,FIFA World Cup qualification,-3,0,1
+2057,2021-11-16,China PR,Australia,1,1,FIFA World Cup qualification,0,0,1
+2058,2021-11-16,Vietnam,Saudi Arabia,0,1,FIFA World Cup qualification,-1,0,1
+2059,2021-11-16,Oman,Japan,0,1,FIFA World Cup qualification,-1,0,1
+2060,2021-11-16,Jamaica,United States,1,1,FIFA World Cup qualification,0,0,1
+2061,2021-11-16,Canada,Mexico,2,1,FIFA World Cup qualification,1,1,0
+2062,2021-11-16,Costa Rica,Honduras,2,1,FIFA World Cup qualification,1,1,0
+2063,2021-11-16,Panama,El Salvador,2,1,FIFA World Cup qualification,1,1,0
+2064,2021-11-16,Bosnia and Herzegovina,Ukraine,0,2,FIFA World Cup qualification,-2,0,1
+2065,2021-11-16,Finland,France,0,2,FIFA World Cup qualification,-2,0,1
+2066,2021-11-16,Wales,Belgium,1,1,FIFA World Cup qualification,0,0,1
+2067,2021-11-16,Czech Republic,Estonia,2,0,FIFA World Cup qualification,2,1,0
+2068,2021-11-16,Gibraltar,Latvia,1,3,FIFA World Cup qualification,-2,0,1
+2069,2021-11-16,Montenegro,Turkey,1,2,FIFA World Cup qualification,-1,0,1
+2070,2021-11-16,Netherlands,Norway,2,0,FIFA World Cup qualification,2,1,0
+2071,2021-11-16,Bolivia,Uruguay,3,0,FIFA World Cup qualification,3,1,0
+2072,2021-11-16,Venezuela,Peru,1,2,FIFA World Cup qualification,-1,0,1
+2075,2021-11-16,Chile,Ecuador,0,2,FIFA World Cup qualification,-2,0,1
+2076,2021-11-25,Indonesia,Myanmar,4,1,Friendly,3,1,0
+2077,2021-12-04,El Salvador,Ecuador,1,1,Friendly,0,0,1
+2078,2021-12-08,Mexico,Chile,2,2,Friendly,0,0,1
+2079,2021-12-09,Tanzania,Uganda,0,2,Friendly,-2,0,1
+2080,2021-12-11,El Salvador,Chile,0,1,Friendly,-1,0,1
+2081,2021-12-18,United States,Bosnia and Herzegovina,1,0,Friendly,1,1,0
+2083,2021-12-30,Sudan,Ethiopia,2,3,Friendly,-1,0,1
+2084,2021-12-31,Malawi,Comoros,2,1,Friendly,1,1,0
+2085,2022-01-02,Gabon,Burkina Faso,0,3,Friendly,-3,0,1
+2087,2022-01-03,Rwanda,Guinea,3,0,Friendly,3,1,0
+2088,2022-01-04,Mauritania,Gabon,1,1,Friendly,0,0,1
+2089,2022-01-05,Algeria,Ghana,3,0,Friendly,3,1,0
+2090,2022-01-06,Rwanda,Guinea,0,2,Friendly,-2,0,1
+2091,2022-01-09,Cameroon,Burkina Faso,2,1,African Cup of Nations,1,1,0
+2092,2022-01-09,Ethiopia,Cape Verde,0,1,African Cup of Nations,-1,0,1
+2093,2022-01-10,Senegal,Zimbabwe,1,0,African Cup of Nations,1,1,0
+2094,2022-01-10,Guinea,Malawi,1,0,African Cup of Nations,1,1,0
+2095,2022-01-10,Morocco,Ghana,1,0,African Cup of Nations,1,1,0
+2096,2022-01-10,Comoros,Gabon,0,1,African Cup of Nations,-1,0,1
+2097,2022-01-11,Nigeria,Egypt,1,0,African Cup of Nations,1,1,0
+2100,2022-01-12,Iceland,Uganda,1,1,Friendly,0,0,1
+2101,2022-01-12,Equatorial Guinea,Ivory Coast,0,1,African Cup of Nations,-1,0,1
+2102,2022-01-12,Tunisia,Mali,0,1,African Cup of Nations,-1,0,1
+2103,2022-01-12,Mauritania,Gambia,0,1,African Cup of Nations,-1,0,1
+2104,2022-01-13,Cameroon,Ethiopia,4,1,African Cup of Nations,3,1,0
+2105,2022-01-13,Cape Verde,Burkina Faso,0,1,African Cup of Nations,-1,0,1
+2107,2022-01-14,Malawi,Zimbabwe,2,1,African Cup of Nations,1,1,0
+2108,2022-01-14,Morocco,Comoros,2,0,African Cup of Nations,2,1,0
+2109,2022-01-14,Gabon,Ghana,1,1,African Cup of Nations,0,0,1
+2110,2022-01-15,South Korea,Iceland,5,1,Friendly,4,1,0
+2111,2022-01-15,Nigeria,Sudan,3,1,African Cup of Nations,2,1,0
+2112,2022-01-15,Guinea-Bissau,Egypt,0,1,African Cup of Nations,-1,0,1
+2113,2022-01-16,Colombia,Honduras,2,1,Friendly,1,1,0
+2114,2022-01-16,Peru,Panama,1,1,Friendly,0,0,1
+2115,2022-01-16,Ivory Coast,Sierra Leone,2,2,African Cup of Nations,0,0,1
+2116,2022-01-16,Algeria,Equatorial Guinea,0,1,African Cup of Nations,-1,0,1
+2117,2022-01-16,Gambia,Mali,1,1,African Cup of Nations,0,0,1
+2118,2022-01-16,Tunisia,Mauritania,4,0,African Cup of Nations,4,1,0
+2119,2022-01-17,Burkina Faso,Ethiopia,1,1,African Cup of Nations,0,0,1
+2120,2022-01-17,Cameroon,Cape Verde,1,1,African Cup of Nations,0,0,1
+2121,2022-01-18,Moldova,Uganda,2,3,Friendly,-1,0,1
+2123,2022-01-18,Zimbabwe,Guinea,2,1,African Cup of Nations,1,1,0
+2124,2022-01-18,Gabon,Morocco,2,2,African Cup of Nations,0,0,1
+2125,2022-01-18,Ghana,Comoros,2,3,African Cup of Nations,-1,0,1
+2126,2022-01-19,Egypt,Sudan,1,0,African Cup of Nations,1,1,0
+2127,2022-01-19,Guinea-Bissau,Nigeria,0,2,African Cup of Nations,-2,0,1
+2128,2022-01-20,South Korea,Moldova,4,0,Friendly,4,1,0
+2129,2022-01-20,Peru,Jamaica,3,0,Friendly,3,1,0
+2130,2022-01-20,Ivory Coast,Algeria,3,1,African Cup of Nations,2,1,0
+2131,2022-01-20,Sierra Leone,Equatorial Guinea,0,1,African Cup of Nations,-1,0,1
+2132,2022-01-20,Gambia,Tunisia,1,0,African Cup of Nations,1,1,0
+2133,2022-01-20,Mali,Mauritania,2,0,African Cup of Nations,2,1,0
+2134,2022-01-21,Bolivia,Trinidad and Tobago,5,0,Friendly,5,1,0
+2135,2022-01-21,Iraq,Uganda,1,0,Friendly,1,1,0
+2136,2022-01-23,Burkina Faso,Gabon,1,1,African Cup of Nations,0,0,1
+2137,2022-01-23,Nigeria,Tunisia,0,1,African Cup of Nations,-1,0,1
+2138,2022-01-24,Cameroon,Comoros,2,1,African Cup of Nations,1,1,0
+2139,2022-01-24,Guinea,Gambia,0,1,African Cup of Nations,-1,0,1
+2140,2022-01-25,Morocco,Malawi,2,1,African Cup of Nations,1,1,0
+2141,2022-01-25,Senegal,Cape Verde,2,0,African Cup of Nations,2,1,0
+2144,2022-01-27,Bahrain,Uganda,3,1,Friendly,2,1,0
+2145,2022-01-27,Indonesia,Timor-Leste,4,1,Friendly,3,1,0
+2146,2022-01-27,Uzbekistan,South Sudan,3,0,Friendly,3,1,0
+2147,2022-01-28,Jordan,New Zealand,3,1,Friendly,2,1,0
+2148,2022-01-28,Suriname,Barbados,1,0,Friendly,1,1,0
+2149,2022-01-29,Kuwait,Libya,2,0,Friendly,2,1,0
+2150,2022-01-29,Nepal,Mauritius,1,0,Friendly,1,1,0
+2151,2022-01-29,Nicaragua,Belize,4,0,Friendly,4,1,0
+2152,2022-01-29,Burkina Faso,Tunisia,1,0,African Cup of Nations,1,1,0
+2153,2022-01-29,Cameroon,Gambia,2,0,African Cup of Nations,2,1,0
+2154,2022-01-30,Indonesia,Timor-Leste,3,0,Friendly,3,1,0
+2155,2022-01-30,Egypt,Morocco,2,1,African Cup of Nations,1,1,0
+2156,2022-01-30,Senegal,Equatorial Guinea,3,1,African Cup of Nations,2,1,0
+2157,2022-02-01,Bahrain,DR Congo,1,0,Friendly,1,1,0
+2158,2022-02-01,Kuwait,Libya,0,2,Friendly,-2,0,1
+2159,2022-02-01,Nepal,Mauritius,1,0,Friendly,1,1,0
+2160,2022-02-01,Nicaragua,Belize,1,1,Friendly,0,0,1
+2161,2022-02-01,Suriname,Guyana,2,1,Friendly,1,1,0
+2162,2022-02-02,Burkina Faso,Senegal,1,3,African Cup of Nations,-2,0,1
+2164,2022-02-05,Cameroon,Burkina Faso,3,3,African Cup of Nations,0,0,1

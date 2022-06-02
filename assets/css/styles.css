@@ -318,6 +318,24 @@ img {
   color: var(--white-color);
 }
 
+table {
+  border-collapse: collapse;
+  width: 1000px;
+}
+
+th {
+  font-weight: normal;
+  text-align: right;
+  padding-right: 6px;
+  min-width: 125px;
+}
+
+tbody tr:first-child td {
+  padding-top: 2px;
+}
+
+
+
 /*=============== PLAYER ===============*/
 .player__container {
   padding-top: 1rem;

@@ -22,11 +22,6 @@ class RadarPlot {
     constructor() {
         const playerStats = {
             fieldNames: ['Shoot', 'Pass', 'Dribble', 'Attack', 'Skill', 'Movement', 'Power', 'Mentality'],
-            values: [
-                [10,20,30,40,50,60,70,80],
-                [40,30,10,80,50,50,80,90],
-                [90,70,60,10,20,90,20,30]
-            ]
         }
 
         const radar = {
@@ -139,8 +134,10 @@ class RadarPlot {
             .text(function(d,i) {
                 return playerStats.fieldNames[i]
             })
-            .style("font-family", "sans-serif")
-            .style("font-size", "15px")
+            .style("font-family", "'Exo', sans-serif")
+            .style("font-size", "1rem")
+            .style("font-medium", '500')
+            .style('font-semi-bold', '600')
             .attr("transform", "translate(" + radar.width/2 + ", " + radar.height/2 + ")")
             .attr("fill", "white")
             .attr("text-anchor", "middle")
@@ -169,12 +166,12 @@ class RadarPlot {
 
         let radarPlot = this.svg
 
-        d3.csv('data/players.csv').then(function (data) {
+        d3.csv('data/players.csv', function (err, data) {
             // Calculate coordinates of radar chart
             const areasData = [];
             const values = [];
 
-            // Append statistics of selected players
+            // Collect statistics of selected players
             _.filter(data, {'short_name': 'L. Messi'}).forEach( function(player) {
                     let shooting  = +player.shooting,
                         passing   = +player.passing,
@@ -214,7 +211,7 @@ class RadarPlot {
                     polygon: area,
                     points: points
                 });
-                
+
 
                 // Draw capability
                 for(let i=0; i< areasData.length; i++) {
