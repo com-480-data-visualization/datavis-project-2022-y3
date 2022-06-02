@@ -25,9 +25,6 @@ d3.csv("data/sankey_data.csv", function(error, csvdata){
         data.links.push({"source": d.nationality_name, "target": d.club_name, "value": +d.short_name});
     });
 
-    //console.log(data.nodes.length);//196
-    //console.log(data.links.length);//98
-
     // data.nodesName = d3.keys(d3.nest().key(function (d) {  return d.name; }).map(data.nodes));
     data.nodesName = d3.nest().key(function (d) {  return d.name; }).entries(data.nodes).map(d => d.key);
     console.log('data.nodesName.length ' + data.nodesName.length);
