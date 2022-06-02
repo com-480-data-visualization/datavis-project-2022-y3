@@ -334,6 +334,29 @@ tbody tr:first-child td {
   padding-top: 2px;
 }
 
+/*=============== Sankey ===============*/
+
+.sankey {
+  /*margin-left: auto;*/
+  /*margin-right: auto;*/
+  /*margin-bottom: 4.5rem;*/
+}
+
+.sankey__container {
+  /*display: flex;*/
+  /*position: relative;*/
+  /*top: -22rem;*/
+  /*left: 9rem;*/
+}
+/*.link {*/
+/*  fill: none;*/
+/*  stroke: #F6B4A6;*/
+/*  stroke-opacity: .2;*/
+/*}*/
+.link:hover {
+  stroke-opacity: .8;
+}
+
 
 
 /*=============== PLAYER ===============*/

@@ -282,9 +282,6 @@ class RadarPlot {
 }
 
 whenDocumentLoaded(() => {
-
-
-
     // console.log(s)
 
     const plot = new RadarPlot();
