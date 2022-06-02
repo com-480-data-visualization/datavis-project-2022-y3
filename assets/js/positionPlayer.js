@@ -128,18 +128,8 @@ $(document).ready(function() {
         }
     })
 
-    $.csv("../../data/players_nospace.csv", function (data) {
+    $.csv("./../../data/players_nospace.csv", function (data) {
         playerPosition = data
-        // console.log(playerPosition)
-        // let list = []
-        // let nation = $(".formation__pitch-selector_team").val()
-        //
-        // $.each(data, function (index, value){
-        //     if(value.nationality_name == nation & value.player_positions.indexOf(position) >= 0)
-        //         list.push(value)
-        // })
-        // console.log(list)
-        // console.log(data)
     })
 
 
