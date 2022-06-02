@@ -89,11 +89,13 @@ class ConnectedDotPlot {
         //Create table rows
         let tbody = d3.select('.match__table-view').select('tbody')
 
+        let self = this;
         let tbodytr = tbody.selectAll('tr')
             .data(this.tableElements)
             .enter()
             .append('tr')
             .attr('class',function(d){return d.value.type;})
+            .on('click', function(d,i){self.updateList(i)})
 
         //Append th elements for the Team Names
         //Note: return []!!!
@@ -197,9 +199,31 @@ class ConnectedDotPlot {
             .style('fill','#fbecde')
             .attr('y', this.cell.buffer-1)
             .attr('x', 1);
+    }
 
+    updateList(i) {
+        //Only update list for aggregate clicks, not game clicks
+        if(i===undefined || this.tableElements[i].value.type !=='aggregate') return;
 
+        //expand
+        if(this.tableElements[i+1]===undefined || this.tableElements[i+1].value.type==='aggregate'){
+            let gameslist = this.tableElements[i].value.games;
+            this.tableElements = this.tableElements.slice(0, i+1).concat(gameslist).concat(this.tableElements.slice(i+1));
+        }
+        //shrink
+        else{
+            this.tableElements = this.tableElements.slice(0, i+1).concat(this.tableElements.slice(i+1+this.tableElements[i].value.games.length));
+        }
+        d3.select('#matchTable').select('tbody').selectAll('tr').remove();
+        this.updateTable();
+    }
 
+    /**
+     * Collapses all expanded countries, leaving only rows for aggregate values per country.
+     *
+     */
+    collapseList() {
+        return this.tableElements.filter(function(d) { return d.value.type === 'aggregate'; });
     }
 }
 

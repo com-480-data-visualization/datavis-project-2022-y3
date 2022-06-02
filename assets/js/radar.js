@@ -18,13 +18,12 @@ function getColor(idx) {
 }
 
 
-class RadarPlot {
+export class RadarPlot {
     constructor() {
-        const playerStats = {
-            fieldNames: ['Shoot', 'Pass', 'Dribble', 'Attack', 'Skill', 'Movement', 'Power', 'Mentality'],
-        }
+        this.fieldNames = ['Shoot', 'Pass', 'Dribble', 'Attack', 'Skill', 'Movement', 'Power', 'Mentality']
+        this.fifaId = []
 
-        const radar = {
+        this.radar = {
             width: 600,
             height: 600,
             margin: {top: 20, right: 20, bottom: 20, left: 20},
@@ -43,40 +42,44 @@ class RadarPlot {
             arc: 2 * Math.PI
         }
 
-        this.svg = d3.select(".capability__container")
-            .append("svg")
-            .attr('width', radar.width)
-            .attr('height', radar.height)
-
-
-        const onePiece = radar.arc/radar.total
+        this.onePiece = this.radar.arc/this.radar.total
 
         // 计算网轴的正多边形的坐标
-        const polygons = {
+        this.polygons = {
             webs: [],
             webPoints: []
         };
 
-        for(let k=radar.level; k>0; k--) {
+        this.svg = d3.select(".capability__container")
+            .append("svg")
+            .attr('width', this.radar.width)
+            .attr('height', this.radar.height)
+    }
+
+    createRadarBackground() {
+
+        let fields = this.fieldNames
+
+        for(let k=this.radar.level; k>0; k--) {
             let webs = '',
                 webPoints = [];
-            let r = radar.radius/radar.level * k;
-            for(let i=0; i<radar.total; i++) {
-                let x = r * Math.sin(i * onePiece),
-                    y = r * Math.cos(i * onePiece);
+            let r = this.radar.radius/this.radar.level * k;
+            for(let i=0; i<this.radar.total; i++) {
+                let x = r * Math.sin(i * this.onePiece),
+                    y = r * Math.cos(i * this.onePiece);
                 webs += x + ',' + y + ' ';
                 webPoints.push({
                     x: x,
                     y: y
                 });
             }
-            polygons.webs.push(webs);
-            polygons.webPoints.push(webPoints);
+            this.polygons.webs.push(webs);
+            this.polygons.webPoints.push(webPoints);
         }
 
         this.svg.append('g')
             .selectAll('polygon')
-            .data(polygons.webs)
+            .data(this.polygons.webs)
             .enter()
             .append('polygon')
             .attr('points', function(d) {
@@ -86,33 +89,33 @@ class RadarPlot {
             .style('fill-opacity', '0.5')
             .style('stroke', 'grey')
             .style('stroke-dasharray', '10 6')
-            .attr("transform", "translate(" + radar.width/2 + ", " + radar.height/2 + ")");
+            .attr("transform", "translate(" + this.radar.width/2 + ", " + this.radar.height/2 + ")");
 
         this.svg.append('g')
             .selectAll('line')
-            .data(polygons.webPoints[0])
+            .data(this.polygons.webPoints[0])
             .enter()
             .append('line')
             .style('fill', 'red')
             .attr('x1', 0)
             .attr('y1', 0)
             .attr('x2', function(d) {
-            return d.x;
+                return d.x;
             })
             .attr('y2', function(d) {
                 return d.y;
             })
-            .attr("transform", "translate(" + radar.width/2 + ", " + radar.height/2 + ")")
+            .attr("transform", "translate(" + this.radar.width/2 + ", " + this.radar.height/2 + ")")
             .style("stroke", "grey")
             .style('stroke-dasharray', '10 6')
 
         // Add Text FieldName
         const textPoints = []
-        const textRadius = radar.radius + 20
+        const textRadius = this.radar.radius + 20
 
-        for (let i=0; i<radar.total; i++) {
-            let x = textRadius * Math.sin(i * onePiece),
-                y = textRadius * Math.cos(i * onePiece)
+        for (let i=0; i<this.radar.total; i++) {
+            let x = textRadius * Math.sin(i * this.onePiece),
+                y = textRadius * Math.cos(i * this.onePiece)
 
             textPoints.push({
                 x: x,
@@ -132,19 +135,21 @@ class RadarPlot {
                 return d.y
             })
             .text(function(d,i) {
-                return playerStats.fieldNames[i]
+                return fields[i]
             })
             .style("font-family", "'Exo', sans-serif")
             .style("font-size", "1rem")
             .style("font-medium", '500')
             .style('font-semi-bold', '600')
-            .attr("transform", "translate(" + radar.width/2 + ", " + radar.height/2 + ")")
+            .attr("transform", "translate(" + this.radar.width/2 + ", " + this.radar.height/2 + ")")
             .attr("fill", "white")
             .attr("text-anchor", "middle")
 
         // Add text indicate %
-        for (let i = 0; i < radar.level; i++) {
-            let levelFactor = radar.factor * radar.radius * ((i + 1) / radar.level)
+        let factor = this.radar.factor
+
+        for (let i = 0; i < this.radar.level; i++) {
+            let levelFactor = this.radar.factor * this.radar.radius * ((i + 1) / this.radar.level)
             let Format = d3.format('.0%');
 
             this.svg.selectAll(".levels")
@@ -152,27 +157,37 @@ class RadarPlot {
                 .enter()
                 .append('svg:text')
                 .attr('x', function (d) {
-                    return levelFactor * (1 - radar.factor * Math.sin(0))
+                    return levelFactor * (1 - factor * Math.sin(0))
                 })
                 .attr('y', function (d) {
-                    return levelFactor * (1 - radar.factor * Math.cos(0))
+                    return levelFactor * (1 - factor * Math.cos(0))
                 })
                 .style("font-family", "sans-serif")
                 .style("font-size", "10px")
-                .attr("transform", "translate(" + (radar.width / 2 - levelFactor + radar.toRight) + ", " + (radar.height / 2 - levelFactor) + ")")
+                .style("font-size", "10px")
+                .attr("transform", "translate(" + (this.radar.width / 2 - levelFactor + this.radar.toRight) + ", " + (this.radar.height / 2 - levelFactor) + ")")
                 .attr("fill", "white")
-                .text(Format((i + 1) * radar.maxValue / radar.level))
+                .text(Format((i + 1) * this.radar.maxValue / this.radar.level))
         }
+    }
 
+
+    drawRadarArea(selected_player) {
         let radarPlot = this.svg
+        let radar     = this.radar
+        let onePiece  = this.onePiece
 
         d3.csv('data/players.csv', function (err, data) {
             // Calculate coordinates of radar chart
-            const areasData = [];
-            const values = [];
+            const areasData = []
+            const values    = []
 
-            // Collect statistics of selected players
-            _.filter(data, {'short_name': 'L. Messi'}).forEach( function(player) {
+            // Collect statistics of selected players.csv
+            _(data)
+                .keyBy('sofifa_id')
+                .at(selected_player)
+                .value()
+                .forEach( function(player) {
                     let shooting  = +player.shooting,
                         passing   = +player.passing,
                         dribble   = +player.dribbling,
@@ -190,7 +205,10 @@ class RadarPlot {
                     values.push(value)
                 })
 
+
             // Calculate point coordination
+
+
             for(let i=0; i<values.length; i++) {
                 let value = values[i],
                     area = '',
@@ -217,6 +235,8 @@ class RadarPlot {
                 for(let i=0; i< areasData.length; i++) {
                     let areaData = areasData[i];
 
+                    radarPlot.selectAll('.select_player'+selected_player[i]).remove()
+
                     // Classify areas for later selection
                     radarPlot.append('g')
                         .selectAll('areas')
@@ -228,9 +248,9 @@ class RadarPlot {
                         })
 
                     // Draw areas
-                    radarPlot.select('.area' + (i + 1))
+                    radarPlot.select('.area' + (i+1))
                         .append('polygon')
-                        .attr('class', 'select_player')
+                        .attr('class', 'select_player' + selected_player[i])
                         .attr('points', areaData.polygon)
                         .attr('stroke', function (d, index) {
                             return getColor(i);
@@ -242,7 +262,7 @@ class RadarPlot {
                         .attr('stroke-width', 3)
                         .attr("transform", "translate(" + radar.width / 2 + ", " + radar.height / 2 + ")")
                         .on('mouseover', function (d) {
-                            d3.selectAll("polygon.select_player")
+                            d3.selectAll("polygon.select_player"+selected_player[i])
                                 .transition(200)
                                 .style("fill-opacity", 0.1);
 
@@ -251,7 +271,7 @@ class RadarPlot {
                                 .style('fill-opacity', .8)
                         })
                         .on('mouseout', function (d) {
-                            d3.selectAll("polygon.select_player")
+                            d3.selectAll("polygon.select_player"+selected_player[i])
                                 .transition(200)
                                 .style('fill-opacity', .4)
                         })
@@ -262,6 +282,7 @@ class RadarPlot {
                         .data(areaData.points)
                         .enter()
                         .append('circle')
+                        .attr('class', 'select_circle'+selected_player[i])
                         .attr('cx', function (d) {
                             return d.x;
                         })
@@ -279,13 +300,14 @@ class RadarPlot {
             }
         })
     }
+
+    removeRadarArea(selected_player) {
+        this.svg.selectAll('.select_player'+selected_player).remove()
+        this.svg.selectAll('.select_circle'+selected_player).remove()
+    }
+
 }
 
 whenDocumentLoaded(() => {
-
-
-
-    // console.log(s)
-
-    const plot = new RadarPlot();
+    // const plot = new RadarPlot();
 });
