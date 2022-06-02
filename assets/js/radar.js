@@ -159,6 +159,7 @@ class RadarPlot {
                 })
                 .style("font-family", "sans-serif")
                 .style("font-size", "10px")
+                .style("font-size", "10px")
                 .attr("transform", "translate(" + (radar.width / 2 - levelFactor + radar.toRight) + ", " + (radar.height / 2 - levelFactor) + ")")
                 .attr("fill", "white")
                 .text(Format((i + 1) * radar.maxValue / radar.level))
@@ -171,7 +172,7 @@ class RadarPlot {
             const areasData = [];
             const values = [];
 
-            // Collect statistics of selected players
+            // Collect statistics of selected players.csv
             _.filter(data, {'short_name': 'L. Messi'}).forEach( function(player) {
                     let shooting  = +player.shooting,
                         passing   = +player.passing,

@@ -7,59 +7,85 @@ function whenDocumentLoaded(action) {
     }
 }
 
-function appendPlayerCard(){
-    const player = d3.select('.swiper-wrapper')
-        .append('article')
-        .classed('player__card', true)
-        .classed('swiper-slide', true)
-        .classed('swiper-slide-duplicate', true)
-        .classed('swiper-slide-duplicate-active', true)
-        .style('background_color', 'hsl(219, 4%, 7%)')
+function appendPlayerCard(selected_player){
 
-    player.append('div')
-        .classed('shape shape__smaller', true)
+    d3.csv('data/players.csv', function (error, data){
 
-    player.append('h1')
-        .classed('player__title', true)
-        .text('zhang san')
+        selected_player = ['158023', '20801']
 
-    player.append('h3')
-        .classed('player__subtitle',true)
-        .text('China')
+        let stats = _(data)
+            .keyBy('sofifa_id')
+            .at(selected_player)
+            .value()
 
-    player.append('img')
-        .classed('player__img',true)
-        .attr("src", 'https://cdn.sofifa.net/players/188/545/22_120.png')
 
-    const player_data = player.append('div')
-        .classed('player__data', true)
+        stats.forEach(function (stat) {
+            let sofifa_id = stat['sofifa_id'],
+                name      = stat['short_name'],
+                overall   = stat['overall'],
+                face_img  = stat['player_face_url'],
+                position  = stat['player_positions'].split(",")[0],
+                value     = stat['value_eur'],
+                nation    = stat['nationality_name'],
+                club      = stat['club_name']
 
-    player_data.append('div')
-        .classed('player__data-group', true)
-        .append('i')
-        .classed('ri-dashboard-3-line', true)
-        .text('93')
+            const player = d3.select('.swiper-wrapper')
+                .append('article')
+                .classed('player__card', true)
+                .classed('swiper-slide', true)
+                .classed('swiper-slide-duplicate', true)
+                .classed('swiper-slide-duplicate-active', true)
+                .style('background_color', 'hsl(219, 4%, 7%)')
+                .attr('id', sofifa_id)
 
-    player_data.append('div')
-        .classed('player__data-group', true)
-        .append('i')
-        .classed('ri-dashboard-3-line', true)
-        .text('RS')
+            player.append('div')
+                .classed('shape shape__smaller', true)
 
-    player_data.append('div')
-        .classed('player__data-group', true)
-        .append('i')
-        .classed('ri-dashboard-3-line', true)
-        .text('9')
+            player.append('h1')
+                .classed('player__title', true)
+                .text(name)
 
-    player.append('h3')
-        .classed('player__price',true)
-        .text('£120000')
+            player.append('h3')
+                .classed('player__subtitle',true)
+                .text(nation)
 
-    player.append('button')
-        .classed('button player__button',true)
-        // .append('i')
-        // .classed('ri-shopping-bag-2-line', true)
+            player.append('img')
+                .classed('player__img',true)
+                .attr("src", face_img)
+
+            const player_data = player.append('div')
+                .classed('player__data', true)
+
+            player_data.append('div')
+                .classed('player__data-group', true)
+                .append('i')
+                .classed('ri-dashboard-3-line', true)
+                .text(overall)
+
+            player_data.append('div')
+                .classed('player__data-group', true)
+                .append('i')
+                .classed('ri-dashboard-3-line', true)
+                .text(position)
+
+            player_data.append('div')
+                .classed('player__data-group', true)
+                .append('i')
+                .classed('ri-dashboard-3-line', true)
+                .text(club)
+
+            player.append('h3')
+                .classed('player__price',true)
+                .text('€' + value)
+
+            player.append('button')
+                .classed('button player__button',true)
+                .on('click', function (d) {
+                    console.log(player.attr('id'));
+                })
+        })
+    })
+
 }
 
 appendPlayerCard()

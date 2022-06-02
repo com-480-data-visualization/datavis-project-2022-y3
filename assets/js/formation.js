@@ -316,7 +316,7 @@ var playerList = {
 
 
 
-var playersContainer = pitchElement.append("g").attr("class", "players");
+var playersContainer = pitchElement.append("g").attr("class", "players.csv");
 
 
 // For soccer jersey
