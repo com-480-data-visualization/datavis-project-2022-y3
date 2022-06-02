@@ -1,278 +1,55 @@
 {
   "Argentina": {
-    "442": [
-      {"x": 25, "y": 20, "text": "Á. Di María"},
-      {"x": 55, "y": 20, "text": "L. Messi"},
-      {"x": 10, "y": 45, "text": "M. Acuña"},
-      {"x": 30, "y": 45, "text": "G. Lo Celso"},
-      {"x": 50, "y": 45, "text": "Á. Correa"},
-      {"x": 70, "y": 45, "text": "E. Buendía"},
-      {"x": 10, "y": 75, "text": "F. Angileri"},
-      {"x": 30, "y": 75, "text": "M. Acuña"},
-      {"x": 50, "y": 75, "text": "G. Montiel"},
-      {"x": 70, "y": 75, "text": "F. Bustos"},
-      {"x": 40, "y": 90, "text": "E. Martínez"}
-    ],
-    "541": [
-      {"x": 40, "y": 20, "text": "L. Messi"},
-      {"x": 50, "y": 45, "text": "M. Acuña"},
-      {"x": 10, "y": 40, "text": "R. Pereyra"},
-      {"x": 30, "y": 45, "text": "Á. Correa"},
-      {"x": 55, "y": 75, "text": "E. Buendía"},
-      {"x": 70, "y": 40, "text": "F. Angileri"},
-      {"x": 10, "y": 70, "text": "M. Acuña"},
-      {"x": 25, "y": 75, "text": "C. Romero"},
-      {"x": 40, "y": 77, "text": "G. Montiel"},
-      {"x": 70, "y": 70, "text": "F. Bustos"},
-      {"x": 40, "y": 90, "text": "E. Martínez"}
-    ],
-    "352": [
-      { "x": 25, "y": 20, "text": "L. Messi" },
-      { "x": 55, "y": 20, "text": "G. Montiel" },
-      { "x": 10, "y": 45, "text": "M. Acuña" },
-      { "x": 40, "y": 40, "text": "R. Pereyra" },
-      { "x": 50, "y": 60, "text": "G. Lo Celso" },
-      { "x": 70, "y": 45, "text": "Á. Correa" },
-      { "x": 10, "y": 75, "text": "E. Buendía" },
-      { "x": 30, "y": 60, "text": "F. Angileri" },
-      { "x": 40, "y": 75, "text": "C. Romero" },
-      { "x": 70, "y": 75, "text": "G. Montiel" },
-      {"x": 40, "y": 90, "text": "E. Martínez"}
-    ]
+    "442": [{"x": 25, "y": 20, "text": "\u00c1. Di Mar\u00eda"}, {"x": 55, "y": 20, "text": "L. Messi"}, {"x": 10, "y": 45, "text": "M. Acu\u00f1a"}, {"x": 30, "y": 45, "text": "G. Lo Celso"}, {"x": 50, "y": 45, "text": "\u00c1. Correa"}, {"x": 70, "y": 45, "text": "E. Buend\u00eda"}, {"x": 10, "y": 75, "text": "M. Acu\u00f1a"}, {"x": 30, "y": 75, "text": "F. Angileri"}, {"x": 50, "y": 75, "text": "G. Montiel"}, {"x": 70, "y": 75, "text": "F. Bustos"}, {"x": 40, "y": 90, "text": "E. Mart\u00ednez"}],
+    "541": [{"x": 40, "y": 20, "text": "L. Messi"}, {"x": 50, "y": 45, "text": "\u00c1. Correa"}, {"x": 10, "y": 40, "text": "R. Pereyra"}, {"x": 30, "y": 45, "text": "M. Acu\u00f1a"}, {"x": 55, "y": 75, "text": "G. Montiel"}, {"x": 70, "y": 40, "text": "E. Buend\u00eda"}, {"x": 10, "y": 70, "text": "M. Acu\u00f1a"}, {"x": 25, "y": 75, "text": "F. Angileri"}, {"x": 40, "y": 77, "text": "C. Romero"}, {"x": 70, "y": 70, "text": "F. Bustos"}, {"x": 40, "y": 90, "text": "E. Mart\u00ednez"}],
+    "352": [{"x": 25, "y": 20, "text": "L. Messi"}, {"x": 55, "y": 20, "text": "L. Messi"}, {"x": 10, "y": 45, "text": "M. Acu\u00f1a"}, {"x": 40, "y": 40, "text": "G. Lo Celso"}, {"x": 50, "y": 60, "text": "\u00c1. Correa"}, {"x": 70, "y": 45, "text": "E. Buend\u00eda"}, {"x": 10, "y": 75, "text": "F. Angileri"}, {"x": 30, "y": 60, "text": "R. Pereyra"}, {"x": 40, "y": 75, "text": "C. Romero"}, {"x": 70, "y": 75, "text": "G. Montiel"}, {"x": 40, "y": 90, "text": "E. Mart\u00ednez"}]
   },
   "Belgium": {
-    "442": [
-      {"x": 25, "y": 20, "text": "E. Hazard"},
-      {"x": 55, "y": 20, "text": "A. Januzaj"},
-      {"x": 10, "y": 45, "text": "Y. Carrasco"},
-      {"x": 30, "y": 45, "text": "K. De Bruyne"},
-      {"x": 50, "y": 45, "text": "A. Januzaj"},
-      {"x": 70, "y": 45, "text": "J. Doku"},
-      {"x": 10, "y": 75, "text": "J. Kayembe"},
-      {"x": 30, "y": 75, "text": "T. Foket"},
-      {"x": 50, "y": 75, "text": "T. Castagne"},
-      {"x": 70, "y": 75, "text": "H. Siquet"},
-      {"x": 40, "y": 90, "text": "T. Courtois"}
-
-    ],
-    "541": [
-      {"x": 40, "y": 20, "text": "R. Lukaku"},
-      {"x": 50, "y": 45, "text": "T. Castagne"},
-      {"x": 10, "y": 40, "text": "Y. Carrasco"},
-      {"x": 30, "y": 45, "text": "T. Hazard"},
-      {"x": 55, "y": 75, "text": "A. Januzaj"},
-      {"x": 70, "y": 40, "text": "J. Doku"},
-      {"x": 10, "y": 70, "text": "T. Castagne"},
-      {"x": 25, "y": 75, "text": "J. Kayembe"},
-      {"x": 40, "y": 77, "text": "J. Denayer"},
-      {"x": 70, "y": 70, "text": "A. Castro-Montes"},
-      {"x": 40, "y": 90, "text": "T. Courtois"}
-    ],
-    "352": [
-      { "x": 25, "y": 20, "text": "R. Lukaku" },
-      { "x": 55, "y": 20, "text": "Y. Carrasco" },
-      { "x": 10, "y": 45, "text": "T. Hazard" },
-      { "x": 40, "y": 40, "text": "A. Januzaj" },
-      { "x": 50, "y": 60, "text": "J. Doku" },
-      { "x": 70, "y": 45, "text": "J. Kayembe" },
-      { "x": 10, "y": 75, "text": "T. Foket" },
-      { "x": 30, "y": 60, "text": "J. Denayer" },
-      { "x": 40, "y": 75, "text": "T. Castagne" },
-      { "x": 70, "y": 75, "text": "A. Castro-Montes" },
-      {"x": 40, "y": 90, "text": "T. Courtois"}
-    ]
+    "442": [{"x": 25, "y": 20, "text": "E. Hazard"}, {"x": 55, "y": 20, "text": "A. Januzaj"}, {"x": 10, "y": 45, "text": "Y. Carrasco"}, {"x": 30, "y": 45, "text": "K. De Bruyne"}, {"x": 50, "y": 45, "text": "A. Januzaj"}, {"x": 70, "y": 45, "text": "J. Doku"}, {"x": 10, "y": 75, "text": "T. Foket"}, {"x": 30, "y": 75, "text": "J. Kayembe"}, {"x": 50, "y": 75, "text": "T. Castagne"}, {"x": 70, "y": 75, "text": "T. Meunier"}, {"x": 40, "y": 90, "text": "T. Courtois"}],
+    "541": [{"x": 40, "y": 20, "text": "R. Lukaku"}, {"x": 50, "y": 45, "text": "A. Januzaj"}, {"x": 10, "y": 40, "text": "T. Hazard"}, {"x": 30, "y": 45, "text": "Y. Carrasco"}, {"x": 55, "y": 75, "text": "T. Castagne"}, {"x": 70, "y": 40, "text": "J. Doku"}, {"x": 10, "y": 70, "text": "T. Foket"}, {"x": 25, "y": 75, "text": "J. Kayembe"}, {"x": 40, "y": 77, "text": "J. Denayer"}, {"x": 70, "y": 70, "text": "T. Meunier"}, {"x": 40, "y": 90, "text": "T. Courtois"}],
+    "352": [{"x": 25, "y": 20, "text": "R. Lukaku"}, {"x": 55, "y": 20, "text": "A. Januzaj"}, {"x": 10, "y": 45, "text": "Y. Carrasco"}, {"x": 40, "y": 40, "text": "K. De Bruyne"}, {"x": 50, "y": 60, "text": "A. Januzaj"}, {"x": 70, "y": 45, "text": "J. Doku"}, {"x": 10, "y": 75, "text": "J. Kayembe"}, {"x": 30, "y": 60, "text": "T. Hazard"}, {"x": 40, "y": 75, "text": "J. Denayer"}, {"x": 70, "y": 75, "text": "T. Castagne"}, {"x": 40, "y": 90, "text": "T. Courtois"}]
   },
   "Brazil": {
-    "442": [
-      {"x": 25, "y": 20, "text": "Neymar Jr"},
-      {"x": 55, "y": 20, "text": "Raphinha"},
-      {"x": 10, "y": 45, "text": "Richarlison"},
-      {"x": 30, "y": 45, "text": "Arthur"},
-      {"x": 50, "y": 45, "text": "Raphinha"},
-      {"x": 70, "y": 45, "text": "Ronaldo Cabrais"},
-      {"x": 10, "y": 75, "text": "Adryan Zonta"},
-      {"x": 30, "y": 75, "text": "Renan Lodi"},
-      {"x": 50, "y": 75, "text": "Emerson"},
-      {"x": 70, "y": 75, "text": "Bruno Peres"},
-      {"x": 40, "y": 90, "text": "Ederson"}
-
-    ],
-    "541": [
-      {"x": 40, "y": 20, "text": "Gabriel Jesus"},
-      {"x": 50, "y": 45, "text": "Richarlison"},
-      {"x": 10, "y": 40, "text": "Matheus Cunha"},
-      {"x": 30, "y": 45, "text": "Raphinha"},
-      {"x": 55, "y": 75, "text": "Ronaldo Cabrais"},
-      {"x": 70, "y": 40, "text": "Adryan Zonta"},
-      {"x": 10, "y": 70, "text": "Renan Lodi"},
-      {"x": 25, "y": 75, "text": "Marquinhos"},
-      {"x": 40, "y": 77, "text": "Emerson"},
-      {"x": 70, "y": 70, "text": "Bruno Peres"},
-      {"x": 40, "y": 90, "text": "Ederson"}
-    ],
-    "352": [
-      { "x": 25, "y": 20, "text": "Gabriel Jesus" },
-      { "x": 55, "y": 20, "text": "Emerson" },
-      { "x": 10, "y": 45, "text": "Richarlison" },
-      { "x": 40, "y": 40, "text": "Matheus Cunha" },
-      { "x": 50, "y": 60, "text": "Arthur" },
-      { "x": 70, "y": 45, "text": "Raphinha" },
-      { "x": 10, "y": 75, "text": "Ronaldo Cabrais" },
-      { "x": 30, "y": 60, "text": "Adryan Zonta" },
-      { "x": 40, "y": 75, "text": "Marquinhos" },
-      { "x": 70, "y": 75, "text": "Bruno Peres" },
-      {"x": 40, "y": 90, "text": "Ederson"}
-    ]
+    "442": [{"x": 25, "y": 20, "text": "Neymar Jr"}, {"x": 55, "y": 20, "text": "Raphinha"}, {"x": 10, "y": 45, "text": "Richarlison"}, {"x": 30, "y": 45, "text": "Arthur"}, {"x": 50, "y": 45, "text": "Raphinha"}, {"x": 70, "y": 45, "text": "Ronaldo Cabrais"}, {"x": 10, "y": 75, "text": "Renan Lodi"}, {"x": 30, "y": 75, "text": "Adryan Zonta"}, {"x": 50, "y": 75, "text": "Emerson"}, {"x": 70, "y": 75, "text": "Danilo"}, {"x": 40, "y": 90, "text": "Ederson"}],
+    "541": [{"x": 40, "y": 20, "text": "Gabriel Jesus"}, {"x": 50, "y": 45, "text": "Raphinha"}, {"x": 10, "y": 40, "text": "Matheus Cunha"}, {"x": 30, "y": 45, "text": "Richarlison"}, {"x": 55, "y": 75, "text": "Emerson"}, {"x": 70, "y": 40, "text": "Ronaldo Cabrais"}, {"x": 10, "y": 70, "text": "Renan Lodi"}, {"x": 25, "y": 75, "text": "Adryan Zonta"}, {"x": 40, "y": 77, "text": "Marquinhos"}, {"x": 70, "y": 70, "text": "Danilo"}, {"x": 40, "y": 90, "text": "Ederson"}],
+    "352": [{"x": 25, "y": 20, "text": "Gabriel Jesus"}, {"x": 55, "y": 20, "text": "Raphinha"}, {"x": 10, "y": 45, "text": "Richarlison"}, {"x": 40, "y": 40, "text": "Arthur"}, {"x": 50, "y": 60, "text": "Raphinha"}, {"x": 70, "y": 45, "text": "Ronaldo Cabrais"}, {"x": 10, "y": 75, "text": "Adryan Zonta"}, {"x": 30, "y": 60, "text": "Matheus Cunha"}, {"x": 40, "y": 75, "text": "Marquinhos"}, {"x": 70, "y": 75, "text": "Emerson"}, {"x": 40, "y": 90, "text": "Ederson"}]
   },
   "Chile": {
-    "442": [
-      {"x": 25, "y": 20, "text": "E. Mena"},
-      {"x": 55, "y": 20, "text": "D. Valencia"},
-      {"x": 10, "y": 45, "text": "J. Meneses"},
-      {"x": 30, "y": 45, "text": "C. Aránguiz"},
-      {"x": 50, "y": 45, "text": "J. Meneses"},
-      {"x": 70, "y": 45, "text": "F. Mora"},
-      {"x": 10, "y": 75, "text": "J. Flores"},
-      {"x": 30, "y": 75, "text": "S. Vegas"},
-      {"x": 50, "y": 75, "text": "R. Rebolledo"},
-      {"x": 70, "y": 75, "text": "J. Fuenzalida"},
-      {"x": 40, "y": 90, "text": "G. Arias"}
-    ],
-    "541": [
-      {"x": 40, "y": 20, "text": "A. Sánchez"},
-      {"x": 50, "y": 45, "text": "É. Puch"},
-      {"x": 10, "y": 40, "text": "J. Meneses"},
-      {"x": 30, "y": 45, "text": "É. Puch"},
-      {"x": 55, "y": 75, "text": "E. Mena"},
-      {"x": 70, "y": 40, "text": "F. Mora"},
-      {"x": 10, "y": 70, "text": "G. Maripán"},
-      {"x": 25, "y": 75, "text": "E. Mena"},
-      {"x": 40, "y": 77, "text": "J. Fuenzalida"},
-      {"x": 70, "y": 70, "text": " R. Rebolledo"},
-      {"x": 40, "y": 90, "text": "G. Arias"}
-    ],
-    "352": [
-      {"x": 25, "y": 20, "text": "A. Sánchez"},
-      {"x": 55, "y": 20, "text": "R. Rebolledo"},
-      {"x": 10, "y": 45, "text": "J. Meneses"},
-      {"x": 40, "y": 40, "text": "É. Puch"},
-      {"x": 50, "y": 60, "text": "C. Aránguiz"},
-      {"x": 70, "y": 45, "text": "F. Mora"},
-      {"x": 10, "y": 76, "text": "J. Flores"},
-      {"x": 30, "y": 60, "text": "E. Mena"},
-      {"x": 40, "y": 75, "text": "G. Maripán"},
-      {"x": 70, "y": 75, "text": "S. Vegas"},
-      {"x": 40, "y": 90, "text": "G. Arias"}
-    ]
+    "442": [{"x": 25, "y": 20, "text": "E. Mena"}, {"x": 55, "y": 20, "text": "D. Valencia"}, {"x": 10, "y": 45, "text": "J. Meneses"}, {"x": 30, "y": 45, "text": "C. Ar\u00e1nguiz"}, {"x": 50, "y": 45, "text": "J. Meneses"}, {"x": 70, "y": 45, "text": "F. Mora"}, {"x": 10, "y": 75, "text": "S. Vegas"}, {"x": 30, "y": 75, "text": "E. Mena"}, {"x": 50, "y": 75, "text": "R. Rebolledo"}, {"x": 70, "y": 75, "text": "J. Fuenzalida"}, {"x": 40, "y": 90, "text": "G. Arias"}],
+    "541": [{"x": 40, "y": 20, "text": "A. S\u00e1nchez"}, {"x": 50, "y": 45, "text": "J. Meneses"}, {"x": 10, "y": 40, "text": "\u00c9. Puch"}, {"x": 30, "y": 45, "text": "J. Meneses"}, {"x": 55, "y": 75, "text": "R. Rebolledo"}, {"x": 70, "y": 40, "text": "F. Mora"}, {"x": 10, "y": 70, "text": "S. Vegas"}, {"x": 25, "y": 75, "text": "E. Mena"}, {"x": 40, "y": 77, "text": "G. Marip\u00e1n"}, {"x": 70, "y": 70, "text": "J. Fuenzalida"}, {"x": 40, "y": 90, "text": "G. Arias"}],
+    "352": [{"x": 25, "y": 20, "text": "A. S\u00e1nchez"}, {"x": 55, "y": 20, "text": "D. Valencia"}, {"x": 10, "y": 45, "text": "J. Meneses"}, {"x": 40, "y": 40, "text": "C. Ar\u00e1nguiz"}, {"x": 50, "y": 60, "text": "J. Meneses"}, {"x": 70, "y": 45, "text": "F. Mora"}, {"x": 10, "y": 75, "text": "E. Mena"}, {"x": 30, "y": 60, "text": "\u00c9. Puch"}, {"x": 40, "y": 75, "text": "G. Marip\u00e1n"}, {"x": 70, "y": 75, "text": "R. Rebolledo"}, {"x": 40, "y": 90, "text": "G. Arias"}]
   },
   "Colombia": {
-    "442": [
-      {"x": 25, "y": 20, "text": "L. Sinisterra"},
-      {"x": 55, "y": 20, "text": "J. Rodríguez"},
-      {"x": 10, "y": 45, "text": "L. Díaz"},
-      {"x": 30, "y": 45, "text": "J. Rodríguez"},
-      {"x": 50, "y": 45, "text": "J. Cuadrado"},
-      {"x": 70, "y": 45, "text": "S. Villa"},
-      {"x": 10, "y": 75, "text": "J. Mojica"},
-      {"x": 30, "y": 75, "text": "F. Fabra"},
-      {"x": 50, "y": 75, "text": "J. Cuadrado"},
-      {"x": 70, "y": 75, "text": "S. Arias"},
-      {"x": 40, "y": 90, "text": "D. Ospina"}
-    ],
-    "541": [
-      {"x": 40, "y": 20, "text": "D. Zapata"},
-      {"x": 50, "y": 45, "text": "L. Díaz"},
-      {"x": 10, "y": 40, "text": "L. Suárez"},
-      {"x": 30, "y": 45, "text": "J. Cuadrado"},
-      {"x": 55, "y": 75, "text": "S. Villa"},
-      {"x": 70, "y": 40, "text": "J. Mojica"},
-      {"x": 10, "y": 70, "text": " S. Villa"},
-      {"x": 25, "y": 75, "text": "F. Fabra"},
-      {"x": 40, "y": 77, "text": "D. Sánchez"},
-      {"x": 70, "y": 70, "text": "S. Arias"},
-      {"x": 40, "y": 90, "text": "D. Ospina"}
-    ],
-    "352": [
-      {"x": 25, "y": 20, "text": "D. Zapata"},
-      {"x": 55, "y": 20, "text": "J. Cuadrado"},
-      {"x": 10, "y": 45, "text": "L. Díaz"},
-      {"x": 40, "y": 40, "text": "L. Suárez"},
-      {"x": 50, "y": 60, "text": "J. Rodríguez"},
-      {"x": 70, "y": 45, "text": "J. Cuadrado"},
-      {"x": 10, "y": 75, "text": " S. Villa"},
-      {"x": 30, "y": 60, "text": "J. Mojica"},
-      {"x": 40, "y": 75, "text": "D. Sánchez"},
-      {"x": 70, "y": 75, "text": "Y. Mina"},
-      {"x": 40, "y": 90, "text": "D. Ospina"}
-    ]
+    "442": [{"x": 25, "y": 20, "text": "L. Sinisterra"}, {"x": 55, "y": 20, "text": "J. Rodr\u00edguez"}, {"x": 10, "y": 45, "text": "L. D\u00edaz"}, {"x": 30, "y": 45, "text": "J. Rodr\u00edguez"}, {"x": 50, "y": 45, "text": "J. Cuadrado"}, {"x": 70, "y": 45, "text": "S. Villa"}, {"x": 10, "y": 75, "text": "F. Fabra"}, {"x": 30, "y": 75, "text": "J. Mojica"}, {"x": 50, "y": 75, "text": "J. Cuadrado"}, {"x": 70, "y": 75, "text": "S. Arias"}, {"x": 40, "y": 90, "text": "D. Ospina"}],
+    "541": [{"x": 40, "y": 20, "text": "D. Zapata"}, {"x": 50, "y": 45, "text": "J. Cuadrado"}, {"x": 10, "y": 40, "text": "L. Su\u00e1rez"}, {"x": 30, "y": 45, "text": "L. D\u00edaz"}, {"x": 55, "y": 75, "text": "J. Cuadrado"}, {"x": 70, "y": 40, "text": "S. Villa"}, {"x": 10, "y": 70, "text": "F. Fabra"}, {"x": 25, "y": 75, "text": "J. Mojica"}, {"x": 40, "y": 77, "text": "D. S\u00e1nchez"}, {"x": 70, "y": 70, "text": "S. Arias"}, {"x": 40, "y": 90, "text": "D. Ospina"}],
+    "352": [{"x": 25, "y": 20, "text": "D. Zapata"}, {"x": 55, "y": 20, "text": "J. Rodr\u00edguez"}, {"x": 10, "y": 45, "text": "L. D\u00edaz"}, {"x": 40, "y": 40, "text": "J. Rodr\u00edguez"}, {"x": 50, "y": 60, "text": "J. Cuadrado"}, {"x": 70, "y": 45, "text": "S. Villa"}, {"x": 10, "y": 75, "text": "J. Mojica"}, {"x": 30, "y": 60, "text": "L. Su\u00e1rez"}, {"x": 40, "y": 75, "text": "D. S\u00e1nchez"}, {"x": 70, "y": 75, "text": "J. Cuadrado"}, {"x": 40, "y": 90, "text": "D. Ospina"}]
   },
   "Croatia": {
-    "442": [
-      {"x": 25, "y": 20, "text": "I. Perišić"},
-      {"x": 55, "y": 20, "text": "M. Pjaca"},
-      {"x": 10, "y": 45, "text": "A. Rebić"},
-      {"x": 30, "y": 45, "text": "M. Kovačić"},
-      {"x": 50, "y": 45, "text": "Š. Vrsaljko"},
-      {"x": 70, "y": 45, "text": "L. Majer"},
-      {"x": 10, "y": 75, "text": "I. Perišić"},
-      {"x": 30, "y": 75, "text": "J. Gvardiol"},
-      {"x": 50, "y": 75, "text": "Š. Vrsaljko"},
-      {"x": 70, "y": 75, "text": "T. Jedvaj"},
-      {"x": 40, "y": 90, "text": " D. Livaković"}
-    ],
-    "541": [
-      {"x": 40, "y": 20, "text": "A. Kramarić"},
-      {"x": 50, "y": 45, "text": "I. Perišić"},
-      {"x": 10, "y": 40, "text": "A. Rebić"},
-      {"x": 30, "y": 45, "text": "M. Kovačić"},
-      {"x": 55, "y": 75, "text": "Š. Vrsaljko"},
-      {"x": 70, "y": 40, "text": "L. Majer"},
-      {"x": 10, "y": 70, "text": "I. Perišić"},
-      {"x": 25, "y": 75, "text": "D. Ćaleta-Car"},
-      {"x": 40, "y": 77, "text": "Š. Vrsaljko"},
-      {"x": 70, "y": 70, "text": "T. Jedvaj"},
-      {"x": 40, "y": 90, "text": " D. Livaković"}
-    ],
-    "352": [
-      {"x": 25, "y": 20, "text": "A. Kramarić"},
-      {"x": 55, "y": 20, "text": "Š. Vrsaljko"},
-      {"x": 10, "y": 45, "text": "A. Rebić"},
-      {"x": 40, "y": 40, "text": "M. Kovačić"},
-      {"x": 50, "y": 60, "text": "Š. Vrsaljko"},
-      {"x": 70, "y": 45, "text": "L. Majer"},
-      {"x": 10, "y": 75, "text": "I. Perišić"},
-      {"x": 30, "y": 60, "text": "J. Gvardiol"},
-      {"x": 40, "y": 75, "text": "Š. Vrsaljko"},
-      {"x": 70, "y": 75, "text": "D. Ćaleta-Car"},
-      {"x": 40, "y": 90, "text": " D. Livaković"}
-    ]
+    "442": [{"x": 25, "y": 20, "text": "I. Peri\u0161i\u0107"}, {"x": 55, "y": 20, "text": "M. Pjaca"}, {"x": 10, "y": 45, "text": "A. Rebi\u0107"}, {"x": 30, "y": 45, "text": "M. Kova\u010di\u0107"}, {"x": 50, "y": 45, "text": "\u0160. Vrsaljko"}, {"x": 70, "y": 45, "text": "L. Majer"}, {"x": 10, "y": 75, "text": "J. Gvardiol"}, {"x": 30, "y": 75, "text": "I. Peri\u0161i\u0107"}, {"x": 50, "y": 75, "text": "\u0160. Vrsaljko"}, {"x": 70, "y": 75, "text": "T. Jedvaj"}, {"x": 40, "y": 90, "text": "D. Livakovi\u0107"}],
+    "541": [{"x": 40, "y": 20, "text": "A. Kramari\u0107"}, {"x": 50, "y": 45, "text": "\u0160. Vrsaljko"}, {"x": 10, "y": 40, "text": "I. Peri\u0161i\u0107"}, {"x": 30, "y": 45, "text": "A. Rebi\u0107"}, {"x": 55, "y": 75, "text": "\u0160. Vrsaljko"}, {"x": 70, "y": 40, "text": "L. Majer"}, {"x": 10, "y": 70, "text": "J. Gvardiol"}, {"x": 25, "y": 75, "text": "I. Peri\u0161i\u0107"}, {"x": 40, "y": 77, "text": "D. \u0106aleta-Car"}, {"x": 70, "y": 70, "text": "T. Jedvaj"}, {"x": 40, "y": 90, "text": "D. Livakovi\u0107"}],
+    "352": [{"x": 25, "y": 20, "text": "A. Kramari\u0107"}, {"x": 55, "y": 20, "text": "M. Pjaca"}, {"x": 10, "y": 45, "text": "A. Rebi\u0107"}, {"x": 40, "y": 40, "text": "M. Kova\u010di\u0107"}, {"x": 50, "y": 60, "text": "\u0160. Vrsaljko"}, {"x": 70, "y": 45, "text": "L. Majer"}, {"x": 10, "y": 75, "text": "I. Peri\u0161i\u0107"}, {"x": 30, "y": 60, "text": "I. Peri\u0161i\u0107"}, {"x": 40, "y": 75, "text": "D. \u0106aleta-Car"}, {"x": 70, "y": 75, "text": "\u0160. Vrsaljko"}, {"x": 40, "y": 90, "text": "D. Livakovi\u0107"}]
   },
   "Denmark": {
-    "442": [
-      {"x": 25, "y": 20, "text": "M. Damsgaard"}, {"x": 55, "y": 20, "text": "J. M\u00e6hle"}, {"x": 10, "y": 45, "text": "M. Damsgaard"}, {"x": 30, "y": 45, "text": "P. H\u00f8jbjerg"}, {"x": 50, "y": 45, "text": "J. M\u00e6hle"}, {"x": 70, "y": 45, "text": "D. Wass"}, {"x": 10, "y": 75, "text": "R. Skov"}, {"x": 30, "y": 75, "text": "R. Skov"}, {"x": 50, "y": 75, "text": "J. M\u00e6hle"}, {"x": 70, "y": 75, "text": "D. Wass"}, {"x": 40, "y": 90, "text": "K. Schmeichel"}
-    ],
-    "541": [
-      {"x": 40, "y": 20, "text": "K. Dolberg"}, {"x": 50, "y": 45, "text": "M. Damsgaard"}, {"x": 10, "y": 40, "text": "J. Bruun Larsen"}, {"x": 30, "y": 45, "text": "J. M\u00e6hle"}, {"x": 55, "y": 75, "text": "D. Wass"}, {"x": 70, "y": 40, "text": "R. Skov"}, {"x": 10, "y": 70, "text": "R. Skov"}, {"x": 25, "y": 75, "text": "A. Christensen"}, {"x": 40, "y": 77, "text": "J. M\u00e6hle"}, {"x": 70, "y": 70, "text": "D. Wass"}, {"x": 40, "y": 90, "text": "K. Schmeichel"}
-    ],
-    "352": [
-      {"x": 25, "y": 20, "text": "K. Dolberg"}, {"x": 55, "y": 20, "text": "J. M\u00e6hle"}, {"x": 10, "y": 45, "text": "M. Damsgaard"}, {"x": 40, "y": 40, "text": "J. Bruun Larsen"}, {"x": 50, "y": 60, "text": "P. H\u00f8jbjerg"}, {"x": 70, "y": 45, "text": "J. M\u00e6hle"}, {"x": 10, "y": 75, "text": "D. Wass"}, {"x": 30, "y": 60, "text": "R. Skov"}, {"x": 40, "y": 75, "text": "A. Christensen"}, {"x": 70, "y": 75, "text": "S. Kj\u00e6r"}, {"x": 40, "y": 90, "text": "K. Schmeichel"}
-    ]
+    "442": [{"x": 25, "y": 20, "text": "M. Damsgaard"}, {"x": 55, "y": 20, "text": "J. M\u00e6hle"}, {"x": 10, "y": 45, "text": "M. Damsgaard"}, {"x": 30, "y": 45, "text": "P. H\u00f8jbjerg"}, {"x": 50, "y": 45, "text": "J. M\u00e6hle"}, {"x": 70, "y": 45, "text": "D. Wass"}, {"x": 10, "y": 75, "text": "R. Skov"}, {"x": 30, "y": 75, "text": "R. Skov"}, {"x": 50, "y": 75, "text": "J. M\u00e6hle"}, {"x": 70, "y": 75, "text": "D. Wass"}, {"x": 40, "y": 90, "text": "K. Schmeichel"}],
+    "541": [{"x": 40, "y": 20, "text": "K. Dolberg"}, {"x": 50, "y": 45, "text": "J. M\u00e6hle"}, {"x": 10, "y": 40, "text": "J. Bruun Larsen"}, {"x": 30, "y": 45, "text": "M. Damsgaard"}, {"x": 55, "y": 75, "text": "J. M\u00e6hle"}, {"x": 70, "y": 40, "text": "D. Wass"}, {"x": 10, "y": 70, "text": "R. Skov"}, {"x": 25, "y": 75, "text": "R. Skov"}, {"x": 40, "y": 77, "text": "A. Christensen"}, {"x": 70, "y": 70, "text": "D. Wass"}, {"x": 40, "y": 90, "text": "K. Schmeichel"}],
+    "352": [{"x": 25, "y": 20, "text": "K. Dolberg"}, {"x": 55, "y": 20, "text": "J. M\u00e6hle"}, {"x": 10, "y": 45, "text": "M. Damsgaard"}, {"x": 40, "y": 40, "text": "P. H\u00f8jbjerg"}, {"x": 50, "y": 60, "text": "J. M\u00e6hle"}, {"x": 70, "y": 45, "text": "D. Wass"}, {"x": 10, "y": 75, "text": "R. Skov"}, {"x": 30, "y": 60, "text": "J. Bruun Larsen"}, {"x": 40, "y": 75, "text": "A. Christensen"}, {"x": 70, "y": 75, "text": "J. M\u00e6hle"}, {"x": 40, "y": 90, "text": "K. Schmeichel"}]
   },
   "France": {
-    "442": [{"x": 25, "y": 20, "text": "K. Mbapp\u00e9"}, {"x": 55, "y": 20, "text": "O. Demb\u00e9l\u00e9"}, {"x": 10, "y": 45, "text": "K. Coman"}, {"x": 30, "y": 45, "text": "N. Kant\u00e9"}, {"x": 50, "y": 45, "text": "K. Coman"}, {"x": 70, "y": 45, "text": "T. Lemar"}, {"x": 10, "y": 75, "text": "T. Delaine"}, {"x": 30, "y": 75, "text": "T. Hern\u00e1ndez"}, {"x": 50, "y": 75, "text": "B. Pavard"}, {"x": 70, "y": 75, "text": "R. Aguilar"}, {"x": 40, "y": 90, "text": "M. Maignan"}],
-    "541": [{"x": 40, "y": 20, "text": "K. Mbapp\u00e9"}, {"x": 50, "y": 45, "text": "K. Coman"}, {"x": 10, "y": 40, "text": "P. Pogba"}, {"x": 30, "y": 45, "text": "K. Coman"}, {"x": 55, "y": 75, "text": "T. Lemar"}, {"x": 70, "y": 40, "text": "T. Delaine"}, {"x": 10, "y": 70, "text": "T. Hern\u00e1ndez"}, {"x": 25, "y": 75, "text": "R. Varane"}, {"x": 40, "y": 77, "text": "B. Pavard"}, {"x": 70, "y": 70, "text": "R. Aguilar"}, {"x": 40, "y": 90, "text": "M. Maignan"}],
-    "352": [{"x": 25, "y": 20, "text": "K. Mbapp\u00e9"}, {"x": 55, "y": 20, "text": "B. Pavard"}, {"x": 10, "y": 45, "text": "K. Coman"}, {"x": 40, "y": 40, "text": "P. Pogba"}, {"x": 50, "y": 60, "text": "N. Kant\u00e9"}, {"x": 70, "y": 45, "text": "K. Coman"}, {"x": 10, "y": 75, "text": "T. Lemar"}, {"x": 30, "y": 60, "text": "T. Delaine"}, {"x": 40, "y": 75, "text": "R. Varane"}, {"x": 70, "y": 75, "text": "D. Upamecano"}, {"x": 40, "y": 90, "text": "M. Maignan"}]
+    "442": [{"x": 25, "y": 20, "text": "K. Mbapp\u00e9"}, {"x": 55, "y": 20, "text": "O. Demb\u00e9l\u00e9"}, {"x": 10, "y": 45, "text": "K. Coman"}, {"x": 30, "y": 45, "text": "N. Kant\u00e9"}, {"x": 50, "y": 45, "text": "K. Coman"}, {"x": 70, "y": 45, "text": "T. Lemar"}, {"x": 10, "y": 75, "text": "T. Hern\u00e1ndez"}, {"x": 30, "y": 75, "text": "T. Delaine"}, {"x": 50, "y": 75, "text": "B. Pavard"}, {"x": 70, "y": 75, "text": "R. Aguilar"}, {"x": 40, "y": 90, "text": "M. Maignan"}],
+    "541": [{"x": 40, "y": 20, "text": "K. Mbapp\u00e9"}, {"x": 50, "y": 45, "text": "K. Coman"}, {"x": 10, "y": 40, "text": "P. Pogba"}, {"x": 30, "y": 45, "text": "K. Coman"}, {"x": 55, "y": 75, "text": "B. Pavard"}, {"x": 70, "y": 40, "text": "T. Lemar"}, {"x": 10, "y": 70, "text": "T. Hern\u00e1ndez"}, {"x": 25, "y": 75, "text": "T. Delaine"}, {"x": 40, "y": 77, "text": "R. Varane"}, {"x": 70, "y": 70, "text": "R. Aguilar"}, {"x": 40, "y": 90, "text": "M. Maignan"}],
+    "352":[{"x": 25, "y": 20, "text": "K. Mbapp\u00e9"}, {"x": 55, "y": 20, "text": "O. Demb\u00e9l\u00e9"}, {"x": 10, "y": 45, "text": "K. Coman"}, {"x": 40, "y": 40, "text": "N. Kant\u00e9"}, {"x": 50, "y": 60, "text": "K. Coman"}, {"x": 70, "y": 45, "text": "T. Lemar"}, {"x": 10, "y": 75, "text": "T. Delaine"}, {"x": 30, "y": 60, "text": "P. Pogba"}, {"x": 40, "y": 75, "text": "R. Varane"}, {"x": 70, "y": 75, "text": "B. Pavard"}, {"x": 40, "y": 90, "text": "M. Maignan"}]
   },
   "Germany": {
     "442": [{"x": 25, "y": 20, "text": "T. Werner"}, {"x": 55, "y": 20, "text": "T. M\u00fcller"}, {"x": 10, "y": 45, "text": "S. Gnabry"}, {"x": 30, "y": 45, "text": "K. Havertz"}, {"x": 50, "y": 45, "text": "T. M\u00fcller"}, {"x": 70, "y": 45, "text": "S. Gnabry"}, {"x": 10, "y": 75, "text": "R. Gosens"}, {"x": 30, "y": 75, "text": "R. Gosens"}, {"x": 50, "y": 75, "text": "J. Kimmich"}, {"x": 70, "y": 75, "text": "N. S\u00fcle"}, {"x": 40, "y": 90, "text": "M. ter Stegen"}],
-    "541": [{"x": 40, "y": 20, "text": "T. Werner"}, {"x": 50, "y": 45, "text": "S. Gnabry"}, {"x": 10, "y": 40, "text": "L. San\u00e9"}, {"x": 30, "y": 45, "text": "T. M\u00fcller"}, {"x": 55, "y": 75, "text": "S. Gnabry"}, {"x": 70, "y": 40, "text": "R. Gosens"}, {"x": 10, "y": 70, "text": "R. Gosens"}, {"x": 25, "y": 75, "text": "M. Hummels"}, {"x": 40, "y": 77, "text": "J. Kimmich"}, {"x": 70, "y": 70, "text": "N. S\u00fcle"}, {"x": 40, "y": 90, "text": "M. ter Stegen"}],
-    "352": [{"x": 25, "y": 20, "text": "T. Werner"}, {"x": 55, "y": 20, "text": "J. Kimmich"}, {"x": 10, "y": 45, "text": "S. Gnabry"}, {"x": 40, "y": 40, "text": "L. San\u00e9"}, {"x": 50, "y": 60, "text": "K. Havertz"}, {"x": 70, "y": 45, "text": "T. M\u00fcller"}, {"x": 10, "y": 75, "text": "S. Gnabry"}, {"x": 30, "y": 60, "text": "R. Gosens"}, {"x": 40, "y": 75, "text": "M. Hummels"}, {"x": 70, "y": 75, "text": "M. Ginter"}, {"x": 40, "y": 90, "text": "M. ter Stegen"}]
+    "541": [{"x": 40, "y": 20, "text": "T. Werner"}, {"x": 50, "y": 45, "text": "T. M\u00fcller"}, {"x": 10, "y": 40, "text": "L. San\u00e9"}, {"x": 30, "y": 45, "text": "S. Gnabry"}, {"x": 55, "y": 75, "text": "J. Kimmich"}, {"x": 70, "y": 40, "text": "S. Gnabry"}, {"x": 10, "y": 70, "text": "R. Gosens"}, {"x": 25, "y": 75, "text": "R. Gosens"}, {"x": 40, "y": 77, "text": "M. Hummels"}, {"x": 70, "y": 70, "text": "N. S\u00fcle"}, {"x": 40, "y": 90, "text": "M. ter Stegen"}],
+    "352": [{"x": 25, "y": 20, "text": "T. Werner"}, {"x": 55, "y": 20, "text": "T. M\u00fcller"}, {"x": 10, "y": 45, "text": "S. Gnabry"}, {"x": 40, "y": 40, "text": "K. Havertz"}, {"x": 50, "y": 60, "text": "T. M\u00fcller"}, {"x": 70, "y": 45, "text": "S. Gnabry"}, {"x": 10, "y": 75, "text": "R. Gosens"}, {"x": 30, "y": 60, "text": "L. San\u00e9"}, {"x": 40, "y": 75, "text": "M. Hummels"}, {"x": 70, "y": 75, "text": "J. Kimmich"}, {"x": 40, "y": 90, "text": "M. ter Stegen"}]
   },
+
   "Iceland": {
-    "442": [{"x": 25, "y": 20, "text": "J. \u00deorsteinsson"}, {"x": 55, "y": 20, "text": "A. Gu\u00f0mundsson"}, {"x": 10, "y": 45, "text": "J. Gu\u00f0mundsson"}, {"x": 30, "y": 45, "text": "G. Sigur\u00f0sson"}, {"x": 50, "y": 45, "text": "J. Gu\u00f0mundsson"}, {"x": 70, "y": 45, "text": "V. J\u00f3nsson"}, {"x": 10, "y": 75, "text": "G. \u00de\u00f3rarinsson"}, {"x": 30, "y": 75, "text": "H. Magn\u00fasson"}, {"x": 50, "y": 75, "text": "A. Sampsted"}, {"x": 70, "y": 75, "text": "A. Arnarson"}, {"x": 40, "y": 90, "text": "R. R\u00fanarsson"}],
-    "541": [{"x": 40, "y": 20, "text": "J. \u00deorsteinsson"}, {"x": 50, "y": 45, "text": "J. Gu\u00f0mundsson"}, {"x": 10, "y": 40, "text": "A. Sigur\u00f0sson"}, {"x": 30, "y": 45, "text": "J. Gu\u00f0mundsson"}, {"x": 55, "y": 75, "text": "V. J\u00f3nsson"}, {"x": 70, "y": 40, "text": "G. \u00de\u00f3rarinsson"}, {"x": 10, "y": 70, "text": "H. Magn\u00fasson"}, {"x": 25, "y": 75, "text": "S. Ingason"}, {"x": 40, "y": 77, "text": "A. Sampsted"}, {"x": 70, "y": 70, "text": "A. Arnarson"}, {"x": 40, "y": 90, "text": "R. R\u00fanarsson"}],
-    "352": [{"x": 25, "y": 20, "text": "J. \u00deorsteinsson"}, {"x": 55, "y": 20, "text": "A. Sampsted"}, {"x": 10, "y": 45, "text": "J. Gu\u00f0mundsson"}, {"x": 40, "y": 40, "text": "A. Sigur\u00f0sson"}, {"x": 50, "y": 60, "text": "G. Sigur\u00f0sson"}, {"x": 70, "y": 45, "text": "J. Gu\u00f0mundsson"}, {"x": 10, "y": 75, "text": "V. J\u00f3nsson"}, {"x": 30, "y": 60, "text": "G. \u00de\u00f3rarinsson"}, {"x": 40, "y": 75, "text": "S. Ingason"}, {"x": 70, "y": 75, "text": "H. Magn\u00fasson"}, {"x": 40, "y": 90, "text": "R. R\u00fanarsson"}]
-  },
+    "442": [{"x": 25, "y": 20, "text": "J. \u00deorsteinsson"}, {"x": 55, "y": 20, "text": "A. Gu\u00f0mundsson"}, {"x": 10, "y": 45, "text": "J. Gu\u00f0mundsson"}, {"x": 30, "y": 45, "text": "G. Sigur\u00f0sson"}, {"x": 50, "y": 45, "text": "J. Gu\u00f0mundsson"}, {"x": 70, "y": 45, "text": "V. J\u00f3nsson"}, {"x": 10, "y": 75, "text": "H. Magn\u00fasson"}, {"x": 30, "y": 75, "text": "G. \u00de\u00f3rarinsson"}, {"x": 50, "y": 75, "text": "A. Sampsted"}, {"x": 70, "y": 75, "text": "A. Arnarson"}, {"x": 40, "y": 90, "text": "R. R\u00fanarsson"}],
+    "541": [{"x": 40, "y": 20, "text": "J. \u00deorsteinsson"}, {"x": 50, "y": 45, "text": "J. Gu\u00f0mundsson"}, {"x": 10, "y": 40, "text": "A. Sigur\u00f0sson"}, {"x": 30, "y": 45, "text": "J. Gu\u00f0mundsson"}, {"x": 55, "y": 75, "text": "A. Sampsted"}, {"x": 70, "y": 40, "text": "V. J\u00f3nsson"}, {"x": 10, "y": 70, "text": "H. Magn\u00fasson"}, {"x": 25, "y": 75, "text": "G. \u00de\u00f3rarinsson"}, {"x": 40, "y": 77, "text": "S. Ingason"}, {"x": 70, "y": 70, "text": "A. Arnarson"}, {"x": 40, "y": 90, "text": "R. R\u00fanarsson"}],
+    "352": [{"x": 25, "y": 20, "text": "J. \u00deorsteinsson"}, {"x": 55, "y": 20, "text": "A. Gu\u00f0mundsson"}, {"x": 10, "y": 45, "text": "J. Gu\u00f0mundsson"}, {"x": 40, "y": 40, "text": "G. Sigur\u00f0sson"}, {"x": 50, "y": 60, "text": "J. Gu\u00f0mundsson"}, {"x": 70, "y": 45, "text": "V. J\u00f3nsson"}, {"x": 10, "y": 75, "text": "G. \u00de\u00f3rarinsson"}, {"x": 30, "y": 60, "text": "A. Sigur\u00f0sson"}, {"x": 40, "y": 75, "text": "S. Ingason"}, {"x": 70, "y": 75, "text": "A. Sampsted"}, {"x": 40, "y": 90, "text": "R. R\u00fanarsson"}]
+ },
   "Italy": {
     "442": [{"x": 25, "y": 20, "text": "F. Chiesa"}, {"x": 55, "y": 20, "text": "F. Chiesa"}, {"x": 10, "y": 45, "text": "L. Spinazzola"}, {"x": 30, "y": 45, "text": "M. Verratti"}, {"x": 50, "y": 45, "text": "F. Chiesa"}, {"x": 70, "y": 45, "text": "D. Berardi"}, {"x": 10, "y": 75, "text": "L. Spinazzola"}, {"x": 30, "y": 75, "text": "L. Spinazzola"}, {"x": 50, "y": 75, "text": "A. Florenzi"}, {"x": 70, "y": 75, "text": "G. Di Lorenzo"}, {"x": 40, "y": 90, "text": "G. Donnarumma"}],
     "541": [{"x": 40, "y": 20, "text": "C. Immobile"}, {"x": 50, "y": 45, "text": "L. Spinazzola"}, {"x": 10, "y": 40, "text": "F. Bernardeschi"}, {"x": 30, "y": 45, "text": "F. Chiesa"}, {"x": 55, "y": 75, "text": "D. Berardi"}, {"x": 70, "y": 40, "text": "L. Spinazzola"}, {"x": 10, "y": 70, "text": "L. Spinazzola"}, {"x": 25, "y": 75, "text": "A. Bastoni"}, {"x": 40, "y": 77, "text": "A. Florenzi"}, {"x": 70, "y": 70, "text": "G. Di Lorenzo"}, {"x": 40, "y": 90, "text": "G. Donnarumma"}],
@@ -288,10 +65,10 @@
     "541": [{"x": 40, "y": 20, "text": "B. Embolo"}, {"x": 50, "y": 45, "text": "R. Steffen"}, {"x": 10, "y": 40, "text": "R. Vargas"}, {"x": 30, "y": 45, "text": "X. Shaqiri"}, {"x": 55, "y": 75, "text": "R. Steffen"}, {"x": 70, "y": 40, "text": "S. Zuber"}, {"x": 10, "y": 70, "text": "R. Rodr\u00edguez"}, {"x": 25, "y": 75, "text": "D. Zakaria"}, {"x": 40, "y": 77, "text": "K. Mbabu"}, {"x": 70, "y": 70, "text": "S. Hefti"}, {"x": 40, "y": 90, "text": "Y. Sommer"}],
     "352": [{"x": 25, "y": 20, "text": "B. Embolo"}, {"x": 55, "y": 20, "text": "K. Mbabu"}, {"x": 10, "y": 45, "text": "R. Steffen"}, {"x": 40, "y": 40, "text": "R. Vargas"}, {"x": 50, "y": 60, "text": "R. Freuler"}, {"x": 70, "y": 45, "text": "X. Shaqiri"}, {"x": 10, "y": 75, "text": "R. Steffen"}, {"x": 30, "y": 60, "text": "S. Zuber"}, {"x": 40, "y": 75, "text": "D. Zakaria"}, {"x": 70, "y": 75, "text": "M. Akanji"}, {"x": 40, "y": 90, "text": "Y. Sommer"}]
   },
-  "United Kingdom": {
-    "442": [{"x": 25, "y": 20, "text": "R. Sterling"}, {"x": 55, "y": 20, "text": "R. Sterling"}, {"x": 10, "y": 45, "text": "J. Sancho"}, {"x": 30, "y": 45, "text": "P. Foden"}, {"x": 50, "y": 45, "text": "J. Sancho"}, {"x": 70, "y": 45, "text": "B. Saka"}, {"x": 10, "y": 75, "text": "B. Chilwell"}, {"x": 30, "y": 75, "text": "L. Shaw"}, {"x": 50, "y": 75, "text": "T. Alexander-Arnold"}, {"x": 70, "y": 75, "text": "A. Wan-Bissaka"}, {"x": 40, "y": 90, "text": "D. Henderson"}],
-    "541": [{"x": 40, "y": 20, "text": "H. Kane"}, {"x": 50, "y": 45, "text": "J. Sancho"}, {"x": 10, "y": 40, "text": "M. Rashford"}, {"x": 30, "y": 45, "text": "J. Sancho"}, {"x": 55, "y": 75, "text": "B. Saka"}, {"x": 70, "y": 40, "text": "B. Chilwell"}, {"x": 10, "y": 70, "text": "L. Shaw"}, {"x": 25, "y": 75, "text": "J. Gomez"}, {"x": 40, "y": 77, "text": "T. Alexander-Arnold"}, {"x": 70, "y": 70, "text": "A. Wan-Bissaka"}, {"x": 40, "y": 90, "text": "D. Henderson"}],
-    "352": [{"x": 25, "y": 20, "text": "H. Kane"}, {"x": 55, "y": 20, "text": "T. Alexander-Arnold"}, {"x": 10, "y": 45, "text": "J. Sancho"}, {"x": 40, "y": 40, "text": "M. Rashford"}, {"x": 50, "y": 60, "text": "P. Foden"}, {"x": 70, "y": 45, "text": "J. Sancho"}, {"x": 10, "y": 75, "text": "B. Saka"}, {"x": 30, "y": 60, "text": "B. Chilwell"}, {"x": 40, "y": 75, "text": "J. Gomez"}, {"x": 70, "y": 75, "text": "H. Maguire"}, {"x": 40, "y": 90, "text": "D. Henderson"}]
+  "England": {
+    "442": [{"x": 25, "y": 20, "text": "R. Sterling"}, {"x": 55, "y": 20, "text": "R. Sterling"}, {"x": 10, "y": 45, "text": "J. Sancho"}, {"x": 30, "y": 45, "text": "P. Foden"}, {"x": 50, "y": 45, "text": "J. Sancho"}, {"x": 70, "y": 45, "text": "B. Saka"}, {"x": 10, "y": 75, "text": "L. Shaw"}, {"x": 30, "y": 75, "text": "B. Chilwell"}, {"x": 50, "y": 75, "text": "T. Alexander-Arnold"}, {"x": 70, "y": 75, "text": "A. Wan-Bissaka"}, {"x": 40, "y": 90, "text": "D. Henderson"}],
+    "541": [{"x": 40, "y": 20, "text": "H. Kane"}, {"x": 50, "y": 45, "text": "J. Sancho"}, {"x": 10, "y": 40, "text": "M. Rashford"}, {"x": 30, "y": 45, "text": "J. Sancho"}, {"x": 55, "y": 75, "text": "T. Alexander-Arnold"}, {"x": 70, "y": 40, "text": "B. Saka"}, {"x": 10, "y": 70, "text": "L. Shaw"}, {"x": 25, "y": 75, "text": "B. Chilwell"}, {"x": 40, "y": 77, "text": "J. Gomez"}, {"x": 70, "y": 70, "text": "A. Wan-Bissaka"}, {"x": 40, "y": 90, "text": "D. Henderson"}],
+    "352": [{"x": 25, "y": 20, "text": "H. Kane"}, {"x": 55, "y": 20, "text": "R. Sterling"}, {"x": 10, "y": 45, "text": "J. Sancho"}, {"x": 40, "y": 40, "text": "P. Foden"}, {"x": 50, "y": 60, "text": "J. Sancho"}, {"x": 70, "y": 45, "text": "B. Saka"}, {"x": 10, "y": 75, "text": "B. Chilwell"}, {"x": 30, "y": 60, "text": "M. Rashford"}, {"x": 40, "y": 75, "text": "J. Gomez"}, {"x": 70, "y": 75, "text": "T. Alexander-Arnold"}, {"x": 40, "y": 90, "text": "D. Henderson"}]
   },
   "China": {
     "442": [{"x": 25, "y": 20, "text": "A Lan"}, {"x": 55, "y": 20, "text": "Gao Late"}, {"x": 10, "y": 45, "text": "A Lan"}, {"x": 30, "y": 45, "text": "Li Ke"}, {"x": 50, "y": 45, "text": "Fei Nanduo"}, {"x": 70, "y": 45, "text": "Wu Lei"}, {"x": 10, "y": 75, "text": "Li Shuai"}, {"x": 30, "y": 75, "text": "Deng Hanwen"}, {"x": 50, "y": 75, "text": "Deng Hanwen"}, {"x": 70, "y": 75, "text": "Ming Tian"}, {"x": 40, "y": 90, "text": "Yan Junling"}],

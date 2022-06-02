@@ -231,86 +231,12 @@ penaltyAreaBottom.attr(
     ")"
 );
 
-// var playerPositions = {
-//     442: [
-//         { x: 25, y: 20 },
-//         { x: 55, y: 20 },
-//         { x: 10, y: 45 },
-//         { x: 30, y: 45 },
-//         { x: 50, y: 45 },
-//         { x: 70, y: 45 },
-//         { x: 10, y: 75 },
-//         { x: 30, y: 75 },
-//         { x: 50, y: 75 },
-//         { x: 70, y: 75 }
-//     ],
-//     352: [
-//         { x: 25, y: 20 },
-//         { x: 55, y: 20 },
-//         { x: 10, y: 45 },
-//         { x: 40, y: 40 },
-//         { x: 50, y: 60 },
-//         { x: 70, y: 45 },
-//         { x: 10, y: 75 },
-//         { x: 30, y: 60 },
-//         { x: 40, y: 75 },
-//         { x: 70, y: 75 }
-//     ],
-//     541: [
-//         { x: 40, y: 20 },
-//         { x: 50, y: 45 },
-//         { x: 10, y: 40 },
-//         { x: 30, y: 45 },
-//         { x: 55, y: 75 },
-//         { x: 70, y: 40 },
-//         { x: 10, y: 70 },
-//         { x: 25, y: 75 },
-//         { x: 40, y: 77 },
-//         { x: 70, y: 70 }
-//     ]
-// };
 
 var playerList = {
     Argentina: {
-        442: [
-            {x: 25, y: 20, text: "Á. Di María"},
-            {x: 55, y: 20, text: "L. Messi"},
-            {x: 10, y: 45, text: "M. Acuña"},
-            {x: 30, y: 45, text: "G. Lo Celso"},
-            {x: 50, y: 45, text: "Á. Correa"},
-            {x: 70, y: 45, text: "E. Buendía"},
-            {x: 10, y: 75, text: "F. Angileri"},
-            {x: 30, y: 75, text: "M. Acuña"},
-            {x: 50, y: 75, text: "G. Montiel"},
-            {x: 70, y: 75, text: "F. Bustos"},
-            {x: 40, y: 90, text: "E. Martínez"}
-        ],
-        541: [
-            {x: 40, y: 20, text: "L. Messi"},
-            {x: 50, y: 45, text: "M. Acuña"},
-            {x: 10, y: 40, text: "R. Pereyra"},
-            {x: 30, y: 45, text: "Á. Correa"},
-            {x: 55, y: 75, text: "E. Buendía"},
-            {x: 70, y: 40, text: "F. Angileri"},
-            {x: 10, y: 70, text: "M. Acuña"},
-            {x: 25, y: 75, text: "C. Romero"},
-            {x: 40, y: 77, text: "G. Montiel"},
-            {x: 70, y: 70, text: "F. Bustos"},
-            {x: 40, y: 90, text: "E. Martínez"}
-        ],
-        352: [
-            {x: 25, y: 20, text: "L. Messi"},
-            {x: 55, y: 20, text: "G. Montiel"},
-            {x: 10, y: 45, text: "M. Acuña"},
-            {x: 40, y: 40, text: "R. Pereyra"},
-            {x: 50, y: 60, text: "G. Lo Celso"},
-            {x: 70, y: 45, text: "Á. Correa"},
-            {x: 10, y: 75, text: "E. Buendía"},
-            {x: 30, y: 60, text: "F. Angileri"},
-            {x: 40, y: 75, text: "C. Romero"},
-            {x: 70, y: 75, text: "G. Montiel"},
-            {x: 40, y: 90, text: "E. Martínez"}
-        ]
+        442: [{x: 25, y: 20, text: "\u00c1. Di Mar\u00eda"}, {x: 55, y: 20, text: "L. Messi"}, {x: 10, y: 45, text: "M. Acu\u00f1a"}, {x: 30, y: 45, text: "G. Lo Celso"}, {x: 50, y: 45, text: "\u00c1. Correa"}, {x: 70, y: 45, text: "E. Buend\u00eda"}, {x: 10, y: 75, text: "M. Acu\u00f1a"}, {x: 30, y: 75, text: "F. Angileri"}, {x: 50, y: 75, text: "G. Montiel"}, {x: 70, y: 75, text: "F. Bustos"}, {x: 40, y: 90, text: "E. Mart\u00ednez"}],
+        541: [{x: 40, y: 20, text: "L. Messi"}, {x: 50, y: 45, text: "\u00c1. Correa"}, {x: 10, y: 40, text: "R. Pereyra"}, {x: 30, y: 45, text: "M. Acu\u00f1a"}, {x: 55, y: 75, text: "G. Montiel"}, {x: 70, y: 40, text: "E. Buend\u00eda"}, {x: 10, y: 70, text: "M. Acu\u00f1a"}, {x: 25, y: 75, text: "F. Angileri"}, {x: 40, y: 77, text: "C. Romero"}, {x: 70, y: 70, text: "F. Bustos"}, {x: 40, y: 90, text: "E. Mart\u00ednez"}],
+        352: [{x: 25, y: 20, text: "L. Messi"}, {x: 55, y: 20, text: "L. Messi"}, {x: 10, y: 45, text: "M. Acu\u00f1a"}, {x: 40, y: 40, text: "G. Lo Celso"}, {x: 50, y: 60, text: "\u00c1. Correa"}, {x: 70, y: 45, text: "E. Buend\u00eda"}, {x: 10, y: 75, text: "F. Angileri"}, {x: 30, y: 60, text: "R. Pereyra"}, {x: 40, y: 75, text: "C. Romero"}, {x: 70, y: 75, text: "G. Montiel"}, {x: 40, y: 90, text: "E. Mart\u00ednez"}]
     }
 }
 
