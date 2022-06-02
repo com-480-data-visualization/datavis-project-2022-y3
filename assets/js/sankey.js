@@ -15,7 +15,7 @@ var svg = d3.select(".sankey__container").append("svg")
 var color = d3.scaleOrdinal(d3.schemeCategory20);
 
 // load the data
-d3.csv("assets/data/sankey_data.csv", function(error, csvdata){
+d3.csv("data/sankey_data.csv", function(error, csvdata){
 
     //processing data
     var data = {"nodes":[], "links" : []};
@@ -118,14 +118,9 @@ d3.csv("assets/data/sankey_data.csv", function(error, csvdata){
             const e = d3.event;
             const hoverNodes = d3.select(e.target)
                 .attr('stroke-opacity', '1')
-                .attr('linkNodes').split('-');
             console.log(hoverNodes)
-
-            hoverNodes.forEach((id) => {
-                d3.selectAll('[index=' + id + ']')
-                    .attr('fill-opacity', '0.5')
-            });
         })
+
         .on('mouseleave', function(){
             d3.selectAll('.node, path')
                 .attr('fill-opacity', '0.8')
