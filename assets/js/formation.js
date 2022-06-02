@@ -39,12 +39,6 @@ var svg = d3
         // 0.1 * scale(pitch.length + pitch.padding.top + pitch.padding.bottom)
     );
 
-//
-// <defs>
-//     <pattern id="pat" x="0" y="0" width="80" height="80" patternUnits="userSpaceOnUse">
-//         <image x="0" y="0" width="80" height="80" href="./Img/soccer-jersey.svg" />
-//     </pattern>
-// </defs>
 
 var soccerJersey = svg
     .append("defs")
@@ -237,84 +231,90 @@ penaltyAreaBottom.attr(
     ")"
 );
 
-var playerPositions = {
-    442: [
-        { x: 25, y: 20 },
-        { x: 55, y: 20 },
-        { x: 10, y: 45 },
-        { x: 30, y: 45 },
-        { x: 50, y: 45 },
-        { x: 70, y: 45 },
-        { x: 10, y: 75 },
-        { x: 30, y: 75 },
-        { x: 50, y: 75 },
-        { x: 70, y: 75 }
-    ],
-    352: [
-        { x: 25, y: 20 },
-        { x: 55, y: 20 },
-        { x: 10, y: 45 },
-        { x: 40, y: 40 },
-        { x: 50, y: 60 },
-        { x: 70, y: 45 },
-        { x: 10, y: 75 },
-        { x: 30, y: 60 },
-        { x: 40, y: 75 },
-        { x: 70, y: 75 }
-    ],
-    541: [
-        { x: 40, y: 20 },
-        { x: 50, y: 45 },
-        { x: 10, y: 40 },
-        { x: 30, y: 45 },
-        { x: 55, y: 75 },
-        { x: 70, y: 40 },
-        { x: 10, y: 70 },
-        { x: 25, y: 75 },
-        { x: 40, y: 77 },
-        { x: 70, y: 70 }
-    ]
-};
+// var playerPositions = {
+//     442: [
+//         { x: 25, y: 20 },
+//         { x: 55, y: 20 },
+//         { x: 10, y: 45 },
+//         { x: 30, y: 45 },
+//         { x: 50, y: 45 },
+//         { x: 70, y: 45 },
+//         { x: 10, y: 75 },
+//         { x: 30, y: 75 },
+//         { x: 50, y: 75 },
+//         { x: 70, y: 75 }
+//     ],
+//     352: [
+//         { x: 25, y: 20 },
+//         { x: 55, y: 20 },
+//         { x: 10, y: 45 },
+//         { x: 40, y: 40 },
+//         { x: 50, y: 60 },
+//         { x: 70, y: 45 },
+//         { x: 10, y: 75 },
+//         { x: 30, y: 60 },
+//         { x: 40, y: 75 },
+//         { x: 70, y: 75 }
+//     ],
+//     541: [
+//         { x: 40, y: 20 },
+//         { x: 50, y: 45 },
+//         { x: 10, y: 40 },
+//         { x: 30, y: 45 },
+//         { x: 55, y: 75 },
+//         { x: 70, y: 40 },
+//         { x: 10, y: 70 },
+//         { x: 25, y: 75 },
+//         { x: 40, y: 77 },
+//         { x: 70, y: 70 }
+//     ]
+// };
+
+var playerList = {
+    Argentina: {
+        442: [
+            {x: 25, y: 20, text: "Á. Di María"},
+            {x: 55, y: 20, text: "L. Messi"},
+            {x: 10, y: 45, text: "M. Acuña"},
+            {x: 30, y: 45, text: "G. Lo Celso"},
+            {x: 50, y: 45, text: "Á. Correa"},
+            {x: 70, y: 45, text: "E. Buendía"},
+            {x: 10, y: 75, text: "F. Angileri"},
+            {x: 30, y: 75, text: "M. Acuña"},
+            {x: 50, y: 75, text: "G. Montiel"},
+            {x: 70, y: 75, text: "F. Bustos"},
+            {x: 40, y: 90, text: "E. Martínez"}
+        ],
+        541: [
+            {x: 40, y: 20, text: "L. Messi"},
+            {x: 50, y: 45, text: "M. Acuña"},
+            {x: 10, y: 40, text: "R. Pereyra"},
+            {x: 30, y: 45, text: "Á. Correa"},
+            {x: 55, y: 75, text: "E. Buendía"},
+            {x: 70, y: 40, text: "F. Angileri"},
+            {x: 10, y: 70, text: "M. Acuña"},
+            {x: 25, y: 75, text: "C. Romero"},
+            {x: 40, y: 77, text: "G. Montiel"},
+            {x: 70, y: 70, text: "F. Bustos"},
+            {x: 40, y: 90, text: "E. Martínez"}
+        ],
+        352: [
+            {x: 25, y: 20, text: "L. Messi"},
+            {x: 55, y: 20, text: "G. Montiel"},
+            {x: 10, y: 45, text: "M. Acuña"},
+            {x: 40, y: 40, text: "R. Pereyra"},
+            {x: 50, y: 60, text: "G. Lo Celso"},
+            {x: 70, y: 45, text: "Á. Correa"},
+            {x: 10, y: 75, text: "E. Buendía"},
+            {x: 30, y: 60, text: "F. Angileri"},
+            {x: 40, y: 75, text: "C. Romero"},
+            {x: 70, y: 75, text: "G. Montiel"},
+            {x: 40, y: 90, text: "E. Martínez"}
+        ]
+    }
+}
 
 
-var playerPositionsText = {
-    442: [
-        { x: 25, y: 20 },
-        { x: 55, y: 20 },
-        { x: 10, y: 45 },
-        { x: 30, y: 45 },
-        { x: 50, y: 45 },
-        { x: 70, y: 45 },
-        { x: 10, y: 75 },
-        { x: 30, y: 75 },
-        { x: 50, y: 75 },
-        { x: 70, y: 75 }
-    ],
-    352: [
-        { x: 25, y: 20 },
-        { x: 55, y: 20 },
-        { x: 10, y: 45 },
-        { x: 40, y: 40 },
-        { x: 50, y: 60 },
-        { x: 70, y: 45 },
-        { x: 10, y: 75 },
-        { x: 30, y: 60 },
-        { x: 40, y: 75 },
-        { x: 70, y: 75 }
-    ],
-    541: [
-        { x: 40, y: 20, text: "Forward" },
-        { x: 50, y: 45, text: "Forward"  },
-        { x: 10, y: 40, text: "Forward"  },
-        { x: 30, y: 45, text: "Forward"  },
-        { x: 55, y: 75, text: "Forward"  },
-        { x: 70, y: 40, text: "Forward"  },
-        { x: 10, y: 70, text: "Forward"  },
-        { x: 25, y: 75, text: "Forward"  },
-        { x: 40, y: 77, text: "Forward"  },
-        { x: 70, y: 70, text: "Forward"  }
-    ]
-};
 
 var playersContainer = pitchElement.append("g").attr("class", "players");
 
@@ -322,7 +322,8 @@ var playersContainer = pitchElement.append("g").attr("class", "players");
 // For soccer jersey
 playersContainer
     .selectAll("image")
-    .data(playerPositions["541"])
+    // .data(playerPositions["541"])
+    .data(playerList["Argentina"]["541"])
     .enter()
     .append("image")
     .attr("x", function(d){
@@ -331,19 +332,19 @@ playersContainer
     .attr("y", function(d){
         return scale(d.y)
     })
-    .attr("width", 50)
-    .attr("height", 50)
+    .attr("width", 40)
+    .attr("height", 40)
     .attr("href", "./Img/soccer-jersey.svg")
 
 
 // For position text
 playersContainer
     .selectAll("text")
-    .data(playerPositionsText["541"])
+    .data(playerList["Argentina"]["541"])
     .enter()
     .append("text")
     .attr("x", function(d){
-        return scale(d.x)
+        return scale(d.x) - 35
     })
     .attr("y", function(d){
         return scale(d.y)
@@ -353,11 +354,11 @@ playersContainer
     })
 
 
-function updateFormation(formation) {
+function updateFormation(formation, nation) {
 
     playersContainer
         .selectAll("image")
-        .data(playerPositions[formation])
+        .data(playerList[nation][formation])
         .transition()
         .attr("x", function (d) {
             return scale(d.x) - 25;
@@ -365,30 +366,236 @@ function updateFormation(formation) {
         .attr("y", function (d) {
             return scale(d.y);
         })
-        .attr("width", 50)
-        .attr("height", 50)
+        .attr("width", 40)
+        .attr("height", 40)
         .attr("href", "./Img/soccer-jersey.svg")
+
 
     playersContainer
         .selectAll("text")
-        .data(playerPositions[formation])
+        .data(playerList[nation][formation])
         .transition()
         .attr("x", function(d){
-            return scale(d.x) - 10
+            return scale(d.x) - 35
         })
         .attr("y", function(d){
             return scale(d.y)
         })
-        .text("P1")
+        .text(function(d){
+            return d.text
+        })
 }
 
-
-
 $(document).ready(function() {
+    // Update the nationality
+    $(".formation__pitch-selector_team").change(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation ,$(this).val());
+    })
+
+    //Update the formation
     $(".formation__pitch-selector").change(function () {
-        updateFormation($(this).val());
-        // alert(11111)
+        var nation = $(".formation__pitch-selector_team").val()
+        updateFormation($(this).val(), nation);
     });
+
+    //Load player list from playList.json
+    $.getJSON("playerList.json", function (data) {
+        playerList = data
+    });
+
+    // CLick events
+    $("#logo_Argentina").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "Argentina");
+        $(".formation__pitch-selector_team").find("option[value='Argentina']").attr("selected",true);
+    })
+
+    $("#logo_Belgium").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "Belgium");
+        $(".formation__pitch-selector_team").find("option[value='Belgium']").attr("selected",true);
+    })
+
+    $("#logo_Brazil").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "Brazil");
+        $(".formation__pitch-selector_team").find("option[value='Brazil']").attr("selected",true);
+    })
+
+    $("#logo_Chile").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "Chile");
+        $(".formation__pitch-selector_team").find("option[value='Chile']").attr("selected",true);
+    })
+
+    $("#logo_Colombia").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "Colombia");
+        $(".formation__pitch-selector_team").find("option[value='Colombia']").attr("selected",true);
+    })
+
+    $("#logo_Brazil").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "Brazil");
+        $(".formation__pitch-selector_team").find("option[value='Brazil']").attr("selected",true);
+    })
+
+    $("#logo_Croatia").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "Croatia");
+        $(".formation__pitch-selector_team").find("option[value='Croatia']").attr("selected",true);
+    })
+
+    $("#logo_Denmark").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "Denmark");
+        $(".formation__pitch-selector_team").find("option[value='Denmark']").attr("selected",true);
+    })
+
+    $("#logo_France").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "France");
+        $(".formation__pitch-selector_team").find("option[value='France']").attr("selected",true);
+    })
+
+    $("#logo_Germany").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "Germany");
+        $(".formation__pitch-selector_team").find("option[value='Germany']").attr("selected",true);
+    })
+
+    $("#logo_Iceland").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "Iceland");
+        $(".formation__pitch-selector_team").find("option[value='Iceland']").attr("selected",true);
+    })
+
+    $("#logo_Italy").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "Italy");
+        $(".formation__pitch-selector_team").find("option[value='Italy']").attr("selected",true);
+    })
+
+    $("#logo_Japan").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "Japan");
+        $(".formation__pitch-selector_team").find("option[value='Japan']").attr("selected",true);
+    })
+
+    $("#logo_Mexico").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "Mexico");
+        $(".formation__pitch-selector_team").find("option[value='Mexico']").attr("selected",true);
+    })
+
+    $("#logo_Morocco").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "Morocco");
+        $(".formation__pitch-selector_team").find("option[value='Morocco']").attr("selected",true);
+    })
+
+    $("#logo_Netherlands").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "Netherlands");
+        $(".formation__pitch-selector_team").find("option[value='Netherlands']").attr("selected",true);
+    })
+
+    $("#logo_Nigeria").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "Nigeria");
+        $(".formation__pitch-selector_team").find("option[value='Nigeria']").attr("selected",true);
+    })
+
+    $("#logo_Poland").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "Poland");
+        $(".formation__pitch-selector_team").find("option[value='Poland']").attr("selected",true);
+    })
+
+    $("#logo_Portugal").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "Portugal");
+        $(".formation__pitch-selector_team").find("option[value='Portugal']").attr("selected",true);
+    })
+
+    $("#logo_Saudi_Arabia").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "Saudi Arabia");
+        $(".formation__pitch-selector_team").find("option[value='Saudi Arabia']").attr("selected",true);
+    })
+
+    $("#logo_Senegal").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "Senegal");
+        $(".formation__pitch-selector_team").find("option[value='Senegal']").attr("selected",true);
+    })
+
+    $("#logo_Serbia").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "Serbia");
+        $(".formation__pitch-selector_team").find("option[value='Serbia']").attr("selected",true);
+    })
+
+    $("#logo_South_Korea").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "South Korea");
+        $(".formation__pitch-selector_team").find("option[value='South Korea']").attr("selected",true);
+    })
+
+    $("#logo_Spain").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "Spain");
+        $(".formation__pitch-selector_team").find("option[value='Spain']").attr("selected",true);
+    })
+
+    $("#logo_Portugal").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "Portugal");
+        $(".formation__pitch-selector_team").find("option[value='Portugal']").attr("selected",true);
+    })
+
+    $("#logo_Sweden").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "Sweden");
+        $(".formation__pitch-selector_team").find("option[value='Sweden']").attr("selected",true);
+    })
+
+    $("#logo_Switzerland").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "Switzerland");
+        $(".formation__pitch-selector_team").find("option[value='Switzerland']").attr("selected",true);
+    })
+
+    $("#logo_Turkey").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "Turkey");
+        $(".formation__pitch-selector_team").find("option[value='Turkey']").attr("selected",true);
+    })
+
+    $("#logo_United_Kingdom").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "United Kingdom");
+        $(".formation__pitch-selector_team").find("option[value='United Kingdom']").attr("selected",true);
+    })
+
+    $("#logo_United_States").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "United States");
+        $(".formation__pitch-selector_team").find("option[value='United States']").attr("selected",true);
+    })
+
+    $("#logo_Uruguay").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "Uruguay");
+        $(".formation__pitch-selector_team").find("option[value='Uruguay']").attr("selected",true);
+    })
+
+    $("#logo_China").click(function (){
+        var formation = $(".formation__pitch-selector").val()
+        updateFormation(formation , "China");
+        $(".formation__pitch-selector_team").find("option[value='China']").attr("selected",true);
+    })
 
     // $("svg").append($("<img src='./Img/soccer-jersey.png' />"))
 });
