@@ -100,9 +100,9 @@ $(document).ready(function() {
                 }
             })
 
-        // top3_id = [list_order_by_value[0]["sofifa_id"], list_order_by_value[1]["sofifa_id"], list_order_by_value[2]["sofifa_id"]]
-        // console.log(top3_id)
-        console.log(list_order_by_value)
+        top3_id = [list_order_by_value[0]["sofifa_id"], list_order_by_value[1]["sofifa_id"], list_order_by_value[2]["sofifa_id"]]
+        console.log(top3_id)
+        // console.log(list_order_by_value)
     })
 
     $.extend({
