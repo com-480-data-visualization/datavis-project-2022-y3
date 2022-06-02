@@ -522,6 +522,5 @@ $(document).ready(function() {
         updateFormation(formation , "China");
         $(".formation__pitch-selector_team").find("option[value='China']").attr("selected",true);
     })
-
-    // $("svg").append($("<img src='./Img/soccer-jersey.png' />"))
+    
 });
