@@ -495,10 +495,10 @@ $(document).ready(function() {
         $(".formation__pitch-selector_team").find("option[value='Turkey']").attr("selected",true);
     })
 
-    $("#logo_United_Kingdom").click(function (){
+    $("#logo_England").click(function (){
         var formation = $(".formation__pitch-selector").val()
-        updateFormation(formation , "United Kingdom");
-        $(".formation__pitch-selector_team").find("option[value='United Kingdom']").attr("selected",true);
+        updateFormation(formation , "England");
+        $(".formation__pitch-selector_team").find("option[value='England']").attr("selected",true);
     })
 
     $("#logo_United_States").click(function (){
