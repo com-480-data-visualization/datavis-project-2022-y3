@@ -62,6 +62,6 @@ const sr = ScrollReveal({
   sr.reveal(`.formation__container`, {origin: 'left'})
   sr.reveal(`.capability__container`, {origin: 'right'})
 
-  sr.reveal(`.player__card`,{interval: 100})
+  sr.reveal(`.player__board`,{interval: 100})
 
 sr.reveal(`.match__table`,{interval: 100})

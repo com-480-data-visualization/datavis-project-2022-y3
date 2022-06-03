@@ -33,10 +33,6 @@ var svg = d3
         "style",
         "background:" +
         pitch.grassColor
-        // ";margin-left:-" +
-        // 0.1 * scale(pitch.width + pitch.padding.left + pitch.padding.right) +
-        // "px;margin-top:-" +
-        // 0.1 * scale(pitch.length + pitch.padding.top + pitch.padding.bottom)
     );
 
 
