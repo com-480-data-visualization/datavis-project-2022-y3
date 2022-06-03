@@ -82,55 +82,61 @@ $(document).ready(function() {
             }
         }
 
-        let list = []
-        // var pat1 = new RegExp(position);
-        $.each(playerPosition, function (index, value){
-            if(value.nationality_name == nation & value.player_positions.indexOf(position) > -1)
-                list.push(value)
-            // console.log(value.player_positions)
-            // value.player_positions
-        })
-        list_order_by_value = list.sort(function(a, b){
-                if(parseInt(a.value_eur) > parseInt(b.value_eur)){
-                    return -1
-                }else if(parseInt(a.value_eur) == parseInt(b.value_eur)){
-                    return 0
-                }else if(parseInt(a.value_eur) < parseInt(b.value_eur)){
-                    return 1
-                }
-            })
+        console.log(playerPosition[nation][position])
 
-        top3_id = [list_order_by_value[0]["sofifa_id"], list_order_by_value[1]["sofifa_id"], list_order_by_value[2]["sofifa_id"]]
-        console.log(top3_id)
+        // let list = []
+        // // var pat1 = new RegExp(position);
+        // $.each(playerPosition, function (index, value){
+        //     if(value.nationality_name == nation & value.player_positions.indexOf(position) > -1)
+        //         list.push(value)
+        //     // console.log(value.player_positions)
+        //     // value.player_positions
+        // })
+        // list_order_by_value = list.sort(function(a, b){
+        //         if(parseInt(a.value_eur) > parseInt(b.value_eur)){
+        //             return -1
+        //         }else if(parseInt(a.value_eur) == parseInt(b.value_eur)){
+        //             return 0
+        //         }else if(parseInt(a.value_eur) < parseInt(b.value_eur)){
+        //             return 1
+        //         }
+        //     })
+
+        // top3_id = [list_order_by_value[0]["sofifa_id"], list_order_by_value[1]["sofifa_id"], list_order_by_value[2]["sofifa_id"]]
+        // console.log(top3_id)
         // console.log(list_order_by_value)
     })
 
-    $.extend({
-        csv: function (url, f) {
-            $.get(url, function (record) {
-                //按回车拆分
-                record = record.split("\r\n");
-                //第一行标题
-                var title = record[0].split(",");
-                //删除第一行
-                record.shift();
-                var data = [];
-                for (var i = 0; i < record.length-1; i++) {//最后一行为空行也会被读取 -1
-                    var t = record[i].split(",");
-                    for (var y = 0; y < t.length; y++) {
-                        if (!data[i]) data[i] = {};
-                        data[i][title[y]] = t[y];
-                    }
-                }
-                f.call(this, data);
-                data = null;
-            });
-        }
-    })
-
-    $.csv("/data/players_nospace.csv", function (data) {
+    $.getJSON("player_position.json", function (data) {
         playerPosition = data
-    })
+    });
+
+    // $.extend({
+    //     csv: function (url, f) {
+    //         $.get(url, function (record) {
+    //             //按回车拆分
+    //             record = record.split("\r\n");
+    //             //第一行标题
+    //             var title = record[0].split(",");
+    //             //删除第一行
+    //             record.shift();
+    //             var data = [];
+    //             for (var i = 0; i < record.length-1; i++) {//最后一行为空行也会被读取 -1
+    //                 var t = record[i].split(",");
+    //                 for (var y = 0; y < t.length; y++) {
+    //                     if (!data[i]) data[i] = {};
+    //                     data[i][title[y]] = t[y];
+    //                 }
+    //             }
+    //             f.call(this, data);
+    //             data = null;
+    //         });
+    //     }
+    // })
+    //
+    // $.csv("/data/players_nospace.csv", function (data) {
+    //     playerPosition = data
+    // })
 
 
 });
