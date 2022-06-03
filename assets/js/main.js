@@ -58,11 +58,10 @@ const sr = ScrollReveal({
   sr.reveal(`.home__title`)
   sr.reveal(`.home__subtitle`,{delay: 500})
 
-
   sr.reveal(`.logos__content`, {interval: 100})
   sr.reveal(`.formation__container`, {origin: 'left'})
   sr.reveal(`.capability__container`, {origin: 'right'})
-  sr.reveal('.player', {delay: 500})
 
-  sr.reveal(`.about__group, .offer__data`,{origin: 'left'})
-  sr.reveal(`.about__data, .offer__img`,{origin: 'right'})
+  sr.reveal(`.player__card`,{interval: 100})
+
+sr.reveal(`.match__table`,{interval: 100})

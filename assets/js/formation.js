@@ -22,7 +22,7 @@ var pitch = {
 
 //add pitch in index.html
 var svg = d3
-    .select(".formation__container")
+    .select(".formation__pitch")
     .append("svg")
     .attr("width", scale(pitch.width + pitch.padding.left + pitch.padding.right))
     .attr(

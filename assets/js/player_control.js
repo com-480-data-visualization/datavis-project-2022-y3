@@ -41,12 +41,9 @@ class playerBoard {
                     nation    = stat['nationality_name'],
                     club      = stat['club_name']
 
-                const player = d3.select('.swiper-wrapper')
+                const player = d3.select('.player__board')
                     .append('article')
                     .classed('player__card', true)
-                    .classed('swiper-slide', true)
-                    .classed('swiper-slide-duplicate', true)
-                    .classed('swiper-slide-duplicate-active', true)
                     .style('background_color', 'hsl(219, 4%, 7%)')
                     .attr('id', sofifa_id)
 
