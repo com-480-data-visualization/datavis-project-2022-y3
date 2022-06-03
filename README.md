@@ -21,6 +21,6 @@ Please download the pdf file to visit hyper-links.
 
 ### Milestone 3
 - Website : [Y3 FIFA Visualisation (com-480-data-visualization.github.io)](https://com-480-data-visualization.github.io/datavis-project-2022-y3/index.html)
-- Process book : [Process book]()
+- Process book : [Process book](https://drive.google.com/file/d/11TjxYSf2lD1eBfjYoTk6mRNXOcY3x_DO/view?usp=sharing)
 - Screencast : [Screencast](https://drive.google.com/file/d/1tk9h1nx18jWsjpSX9brYIEHqJi1ohGeC/view?usp=sharing)
 
