@@ -128,7 +128,7 @@ $(document).ready(function() {
         }
     })
 
-    $.csv("/data/players_nospace.csv", function (data) {
+    $.csv("/data/players/players_nospace.csv", function (data) {
         playerPosition = data
     })
 
