@@ -3,8 +3,14 @@ import { playerBoard } from './player_control.js'
 $(document).ready(function() {
     let position = null;
     let playerPosition = null;
-    let memory = []
     const board = new playerBoard()
+
+    /** append initial players*/
+    let memory = [[20801,158023,188545],
+                  [231747,192985,190871]]
+
+    board.appendPlayerCard(memory[0])
+    board.appendPlayerCard(memory[1])
 
     $("image").click(function(){
 
@@ -98,7 +104,7 @@ $(document).ready(function() {
 
     })
 
-    $.getJSON("player_position.json", function (data) {
+    $.getJSON("data/player_position.json", function (data) {
         playerPosition = data
     });
 });

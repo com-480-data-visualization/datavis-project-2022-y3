@@ -248,6 +248,7 @@ playersContainer
     .data(playerList["Argentina"]["541"])
     .enter()
     .append("image")
+    .classed('jersey',true)
     .attr("x", function(d){
         return scale(d.x) - 25
     })
@@ -257,6 +258,7 @@ playersContainer
     .attr("width", 40)
     .attr("height", 40)
     .attr("href", "./Img/soccer-jersey.svg")
+
 
 
 // For position text
@@ -322,7 +324,7 @@ $(document).ready(function() {
     });
 
     //Load player list from playList.json
-    $.getJSON("playerList.json", function (data) {
+    $.getJSON("data/playerList.json", function (data) {
         playerList = data
     });
 
@@ -357,11 +359,11 @@ $(document).ready(function() {
         $(".formation__pitch-selector_team").find("option[value='Colombia']").attr("selected",true);
     })
 
-    $("#logo_Brazil").click(function (){
-        var formation = $(".formation__pitch-selector").val()
-        updateFormation(formation , "Brazil");
-        $(".formation__pitch-selector_team").find("option[value='Brazil']").attr("selected",true);
-    })
+    // $("#logo_Brazil").click(function (){
+    //     var formation = $(".formation__pitch-selector").val()
+    //     updateFormation(formation , "Brazil");
+    //     $(".formation__pitch-selector_team").find("option[value='Brazil']").attr("selected",true);
+    // })
 
     $("#logo_Croatia").click(function (){
         var formation = $(".formation__pitch-selector").val()
@@ -471,11 +473,11 @@ $(document).ready(function() {
         $(".formation__pitch-selector_team").find("option[value='Spain']").attr("selected",true);
     })
 
-    $("#logo_Portugal").click(function (){
-        var formation = $(".formation__pitch-selector").val()
-        updateFormation(formation , "Portugal");
-        $(".formation__pitch-selector_team").find("option[value='Portugal']").attr("selected",true);
-    })
+    // $("#logo_Portugal").click(function (){
+    //     var formation = $(".formation__pitch-selector").val()
+    //     updateFormation(formation , "Portugal");
+    //     $(".formation__pitch-selector_team").find("option[value='Portugal']").attr("selected",true);
+    // })
 
     $("#logo_Sweden").click(function (){
         var formation = $(".formation__pitch-selector").val()

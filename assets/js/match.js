@@ -42,6 +42,7 @@ class ConnectedDotPlot {
         /**For goal Column. Use colors '#cb181d', '#034e7b'  for the range.*/
         this.goalColorScale = null;
 
+        this.toggle = null;
     }
 
     createTable() {
@@ -83,6 +84,85 @@ class ConnectedDotPlot {
 
         axis.selectAll('line')
             .style('stroke', 'white')
+
+        // Set sorting callback for clicking on headers
+        let tr = d3.select('.match__table-view').select('thead').select('tr')
+
+        // Clicking on headers should also trigger collapseList() and updateTable()
+        function sort(column, self) {
+            let asc = 1, desc = -1;
+            let toSortList = self.collapseList();
+
+            if (self.toggle==null || self.toggle === asc) {
+                self.toggle = desc;
+            } else {
+                self.toggle = asc;
+            }
+
+            let sortedList;
+
+            switch(column) {
+                case 'Team':
+                    sortedList = toSortList.sort(function(a,b) {
+                        if (a.key > b.key) {
+                            return 1;
+                        } else if (a.key < b.key) {
+                            return -1;
+                        } else {
+                            return 0;
+                        }
+                    });
+                    break;
+
+                case ' Goals ':
+                    sortedList = toSortList.sort(function(a,b){
+                        let gda=a.value[self.goalsMadeHeader] - a.value[self.goalsConcededHeader];
+                        let gdb=b.value[self.goalsMadeHeader] - b.value[self.goalsConcededHeader];
+                        return gda-gdb;
+                    });
+                    break;
+
+                case 'Wins':
+                    sortedList = toSortList.sort(function(a,b){
+                        return a.value.Wins - b.value.Wins;
+                    });
+                    break;
+
+                case 'Losses':
+                    sortedList = toSortList.sort(function(a,b){
+                        return a.value.Losses - b.value.Losses;
+                    });
+                    break;
+
+                case 'Total Games':
+                    sortedList = toSortList.sort(function(a,b){
+                        return a.value.TotalGames - b.value.TotalGames;
+                    });
+                    break;
+
+                default:
+                    break;
+            }
+
+            if(sortedList!==undefined) {
+                self.tableElements = self.toggle > 0 ? sortedList : sortedList.reverse();
+
+                d3.select('.match__table-view').select('tbody').selectAll('tr').remove();
+                self.updateTable();
+            }
+        }
+
+        let self = this;
+        tr.select('th')
+            .on('click', function(){
+                sort(this.textContent,self)
+            });
+
+        tr.selectAll('td')
+            .on('click', function(){
+                sort(this.textContent,self)
+            });
+
     }
 
     updateTable() {
@@ -149,7 +229,9 @@ class ConnectedDotPlot {
             .attr('height',function(d){return d.type === 'aggregate'? 14:7})
             .style('fill',function(d){
                 return goalcolor(+d.value.gMade-+d.value.gConcede);})
-            .classed('goalBar', true);
+            .style('opacity', '0.8')
+            .classed('goalBar', true)
+
 
         /** Add goal made circles*/
         goalvis.append('circle')
@@ -189,7 +271,7 @@ class ConnectedDotPlot {
             .attr('x',0)
             //     //.attr('y',5)
             .attr('width',function(d){
-                return barscale(d.value);
+                return d.value===undefined? 0:barscale(d.value);
             })
             .attr('height',this.bar.height)
             .style('fill',function(d){return barfillscale(d.value);});
@@ -198,7 +280,9 @@ class ConnectedDotPlot {
             .text(function(d){return d.value;})
             .style('fill','#fbecde')
             .attr('y', this.cell.buffer-1)
-            .attr('x', 1);
+            .attr('x', function (d) {
+                return d.value===undefined? 0:1
+            });
     }
 
     updateList(i) {
@@ -214,28 +298,15 @@ class ConnectedDotPlot {
         else{
             this.tableElements = this.tableElements.slice(0, i+1).concat(this.tableElements.slice(i+1+this.tableElements[i].value.games.length));
         }
-        d3.select('#matchTable').select('tbody').selectAll('tr').remove();
+        d3.select('.match__table-view').select('tbody').selectAll('tr').remove();
         this.updateTable();
     }
 
-    /**
-     * Collapses all expanded countries, leaving only rows for aggregate values per country.
-     *
-     */
+    /** Collapses all expanded countries, leaving only rows for aggregate values per country */
     collapseList() {
         return this.tableElements.filter(function(d) { return d.value.type === 'aggregate'; });
     }
 }
-
-
-
-
-
-
-
-
-
-
 
 whenDocumentLoaded(() => {
 

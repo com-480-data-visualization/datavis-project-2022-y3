@@ -31,6 +31,7 @@ export class playerBoard {
                 .value()
 
 
+
             stats.forEach(function (stat) {
                 let sofifa_id = stat['sofifa_id'],
                     name      = stat['short_name'],
