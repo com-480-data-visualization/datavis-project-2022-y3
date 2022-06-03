@@ -14,15 +14,16 @@ export class playerBoard {
         this.radar = new RadarPlot()
         this.radar.createRadarBackground()
         this.chosen = []
+        this.plot = d3.select('.player__board')
         }
 
     appendPlayerCard(selected_player){
 
         let radar = this.radar
         let chosen = this.chosen
+        let plot = this.plot
 
         d3.csv('data/players.csv', function (error, data){
-
 
             let stats = _(data)
                 .keyBy('sofifa_id')
@@ -40,11 +41,11 @@ export class playerBoard {
                     nation    = stat['nationality_name'],
                     club      = stat['club_name']
 
-                const player = d3.select('.player__board')
+                const player = plot
                     .append('article')
                     .classed('player__card', true)
                     .style('background_color', 'hsl(219, 4%, 7%)')
-                    .attr('id', sofifa_id)
+                    .attr('id', 'player_' + sofifa_id)
 
                 player.append('div')
                     .classed('shape shape__smaller', true)
@@ -89,7 +90,7 @@ export class playerBoard {
                 player.append('button')
                     .classed('button player__button',true)
                     .on('click', function (_) {
-                        let selected_player=player.attr('id');
+                        let selected_player=player.attr('id').split('_')[1];
 
                         if (chosen.includes(selected_player)) {
                             let idx = chosen.indexOf(selected_player)
@@ -102,6 +103,13 @@ export class playerBoard {
                     })
             })
         })
+    }
+
+    removePlayerCard(selected_player) {
+        selected_player.forEach(function(d,i) {
+            d3.select('#player_'+d).remove();
+        })
+
     }
 }
 

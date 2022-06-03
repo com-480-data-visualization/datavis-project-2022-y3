@@ -2,11 +2,18 @@ import { playerBoard } from './player_control.js'
 
 $(document).ready(function() {
     let position = null;
-    let playerPosition = null
+    let playerPosition = null;
+    let memory = []
     const board = new playerBoard()
 
     $("image").click(function(){
-        // alert("2222");
+
+        if (memory.length > 1){
+            const toDelete = memory.shift()
+            console.log(toDelete)
+            board.removePlayerCard(toDelete)
+        }
+
         let x = $(this).attr("x");
         let y = $(this).attr("y");
         let formation = $(".formation__pitch-selector").val();
@@ -86,6 +93,7 @@ $(document).ready(function() {
             }
         }
 
+        memory.push(playerPosition[nation][position])
         board.appendPlayerCard(playerPosition[nation][position])
 
     })
