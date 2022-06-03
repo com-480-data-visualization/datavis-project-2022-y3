@@ -24,7 +24,7 @@ export class RadarPlot {
         this.fifaId = []
 
         this.radar = {
-            width: 600,
+            width: 1024,
             height: 600,
             margin: {top: 20, right: 20, bottom: 20, left: 20},
 
